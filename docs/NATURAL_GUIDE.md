@@ -15,13 +15,13 @@
 ## 유지할 것
 - 뜻과 정보(숫자, 이름, 조작 설명)는 바꾸지 않는다. 원문(`jp`)으로 뜻을 확인한다.
 - 이미 자연스러운 문장은 손대지 않는다. **과도한 의역·재작성 금지.**
-- 캐릭터 말투 설정(`trans/GLOSSARY.md`), 나우스=합니다·하십시오체, 애시·루시·아만다=해요체, 페피=하게체, 악역 반말.
-- 이미 넣은 마침표·쉼표 규칙(`trans/PUNCT_GUIDE.md`, `trans/COMMA_GUIDE.md`), `@1` 치환기호.
+- 캐릭터 말투 설정(`translation/GLOSSARY.md`), 나우스=합니다·하십시오체, 애시·루시·아만다=해요체, 페피=하게체, 악역 반말.
+- 이미 넣은 마침표·쉼표 규칙(`docs/PUNCT_GUIDE.md`, `docs/COMMA_GUIDE.md`), `@1` 치환기호.
 - 여러 대화창에 걸친 문장의 나눔 위치.
-- 줄 수·폭 제한 (`python check_ko.py <청크>` 문제 0개).
+- 줄 수·폭 제한 (`python tools/check_ko.py <청크>` 문제 0개).
 
 ## 작업 방법
-- 작업 폴더 `C:\Users\hgyst\Claude Work\스타 폭스 커맨드\starfox-command-ko`, Bash는 `export PYTHONIOENCODING=utf-8; cd "/c/Users/hgyst/Claude Work/스타 폭스 커맨드/starfox-command-ko"`.
-- 원문 `trans/src/<청크>.json`, 번역 `trans/ko/<청크>.json` — 이 파일만 수정.
+- 작업 폴더 `C:\Users\hgyst\Claude Work\스타 폭스 커맨드\star-fox-command-korean-translation`, Bash는 `export PYTHONIOENCODING=utf-8; cd "/c/Users/hgyst/Claude Work/스타 폭스 커맨드/star-fox-command-korean-translation"`.
+- 원문 `work/src/<청크>.json`, 번역 `translation/ko/<청크>.json` — 이 파일만 수정.
 - JSON 수정 스크립트는 Write 도구로 스크래치패드에 만들어 실행(Bash heredoc 안 `\n` 깨짐), `ensure_ascii=False, indent=1`.
 - 보고(한국어): 고친 항목 수, 대표 사례 10개 이내(이전 → 이후), 판단이 애매해 남긴 곳.

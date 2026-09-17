@@ -1,8 +1,8 @@
 """이미지 한글화 작업 도구 (작업 폴더: tools)
-python imgtool.py info <경로>    : 형식/크기/팔레트 출력 + img/work/<경로>_grid.png (확대+8px 격자, 노란선 32px)
-                                  + 북미판 참고 이미지 img/work/<경로>_us.png (있으면)
-python imgtool.py render <경로>  : img/spec/<경로>.json 적용 → 게임 형식으로 인코드 → 다시 디코드한 결과를
-                                  img/work/<경로>_preview.png 로 저장 (위: 원본, 아래: 결과)
+python imgtool.py info <경로>    : 형식/크기/팔레트 출력 + work/img/<경로>_grid.png (확대+8px 격자, 노란선 32px)
+                                  + 북미판 참고 이미지 work/img/<경로>_us.png (있으면)
+python imgtool.py render <경로>  : translation/images/<경로>.json 적용 → 게임 형식으로 인코드 → 다시 디코드한 결과를
+                                  work/img/<경로>_preview.png 로 저장 (위: 원본, 아래: 결과)
 경로 예) 3D 텍스처: Menu/General/menu_txt   (3D/Textures/ 와 .ntfq-cmp 생략)
          2D 그림:   2D/Pause/pause_wnd       (확장자 생략)
 spec 형식은 texlib.py 상단 설명 참고.
@@ -28,7 +28,7 @@ def load_any(rel):
     """rel → (kind, image, ctx)"""
     global BGCH
     if rel.startswith('2D/'):
-        if BGCH is None: BGCH = json.load(open(os.path.join(texlib.ROOT, 'bgchoice.json')))
+        if BGCH is None: BGCH = json.load(open(os.path.join(texlib.TOOLS, 'bgchoice.json')))
         c, s, p, keys = bg2d.load(texlib.rom(), rel)
         tw = BGCH[rel]
         return '2d', bg2d.decode(c, s, p, tw), (c, s, p, tw, keys)
@@ -77,10 +77,12 @@ def us_image(kind, rel, ctx):
     return None
 
 def main():
+    import paths
+    os.chdir(paths.ROOT)
     cmd, rel = sys.argv[1], sys.argv[2].replace('\\', '/')
     rel = rel.replace('3D/Textures/', '').replace('.ntfq-cmp', '')
     kind, img, ctx = load_any(rel)
-    os.makedirs(os.path.dirname('img/work/' + rel), exist_ok=True)
+    os.makedirs(os.path.dirname('work/img/' + rel), exist_ok=True)
     w, h = img.size
     if cmd == 'info':
         if kind == '3d':
@@ -96,19 +98,19 @@ def main():
         for y in range(0, h, 8): dr.line([(0, y * S), (w * S, y * S)], fill=(255, 255, 0) if y % 32 == 0 else (200, 0, 0))
         for x in range(0, w, 32): dr.text((x * S + 2, 2), str(x), fill=(255, 255, 0))
         for y in range(32, h, 32): dr.text((2, y * S + 2), str(y), fill=(255, 255, 0))
-        out = 'img/work/' + rel + '_grid.png'; g.convert('RGB').save(out)
+        out = 'work/img/' + rel + '_grid.png'; g.convert('RGB').save(out)
         print('격자 이미지:', out, f'({S}배 확대, 노란선 32px, 빨간선 8px)')
         u = us_image(kind, rel, ctx)
         if u is not None:
             ub = Image.new('RGBA', u.size, (60, 70, 90, 255)); ub.alpha_composite(u.convert('RGBA'))
-            ub.resize((u.width * 2, u.height * 2), Image.NEAREST).convert('RGB').save('img/work/' + rel + '_us.png')
-            print('북미판 참고:', 'img/work/' + rel + '_us.png', '(2배)')
+            ub.resize((u.width * 2, u.height * 2), Image.NEAREST).convert('RGB').save('work/img/' + rel + '_us.png')
+            print('북미판 참고:', 'work/img/' + rel + '_us.png', '(2배)')
     elif cmd == 'render':
-        spec = json.load(open('img/spec/' + rel + '.json', encoding='utf-8'))
+        spec = json.load(open('translation/images/' + rel + '.json', encoding='utf-8'))
         new = texlib.apply(img, spec)
         enc = encode_any(kind, ctx, new)
         back = decode_back(kind, ctx, enc)
-        out = 'img/work/' + rel + '_preview.png'
+        out = 'work/img/' + rel + '_preview.png'
         texlib.preview(img, back, out, scale=2 if w > 128 else 3)
         print('미리보기:', out)
 

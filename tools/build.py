@@ -7,7 +7,7 @@ from ko_metrics import render_glyph, SPACE_ADV, FONTMAP
 import paths
 SRC = paths.JP_ROM
 DST = paths.OUT_ROM
-os.chdir(paths.HERE)
+os.chdir(paths.ROOT)
 MT = '2D/MessageText/'
 
 rom, hdr, files = parse(SRC)
@@ -128,7 +128,7 @@ def rebuild_bmg(b, trans, enc):
 
 # ---------- 번역 로드 ----------
 TRANS = {}
-for fn in sorted(glob.glob(os.environ.get('KO_DIR', 'trans/ko') + '/*.json')):
+for fn in sorted(glob.glob(os.environ.get('KO_DIR', 'translation/ko') + '/*.json')):
     name = os.path.basename(fn)[:-5]
     data = json.load(open(fn, encoding='utf-8'))
     for k, v in data.items():
@@ -177,12 +177,12 @@ for bmgname, trans in TRANS.items():
     newdata[MT + bmgname + '.bmg-cmp'] = lz10_comp(rebuild_bmg(getfile(MT + bmgname + '.bmg-cmp'), trans, enc))
     print(f'{bmgname}: 번역 {len(trans)}개, 새 글리프 {len(need)}')
 
-# ---------- 이미지 (img/spec/**/*.json) ----------
+# ---------- 이미지 (translation/images/**/*.json) ----------
 if os.environ.get('NO_IMG') != '1':
     import imgtool
     nimg = 0
-    for sp in sorted(glob.glob('img/spec/**/*.json', recursive=True)):
-        rel = os.path.relpath(sp, 'img/spec').replace(os.sep, '/')[:-5]
+    for sp in sorted(glob.glob('translation/images/**/*.json', recursive=True)):
+        rel = os.path.relpath(sp, 'translation/images').replace(os.sep, '/')[:-5]
         try:
             kind, img, ctx = imgtool.load_any(rel)
         except Exception as ex:

@@ -16,8 +16,8 @@
 5. `@1` 치환기호 유지.
 
 ## 작업 방법 (대사)
-- 작업 폴더 `C:\Users\hgyst\Claude Work\스타 폭스 커맨드\starfox-command-ko`, Bash는 `export PYTHONIOENCODING=utf-8; cd "/c/Users/hgyst/Claude Work/스타 폭스 커맨드/starfox-command-ko"`.
-- 원문: `trans/src/<청크>.json` (jp 원문·en 참고), 번역: `trans/ko/<청크>.json` — **이 파일만 수정**.
+- 작업 폴더 `C:\Users\hgyst\Claude Work\스타 폭스 커맨드\star-fox-command-korean-translation`, Bash는 `export PYTHONIOENCODING=utf-8; cd "/c/Users/hgyst/Claude Work/스타 폭스 커맨드/star-fox-command-korean-translation"`.
+- 원문: `work/src/<청크>.json` (jp 원문·en 참고), 번역: `translation/ko/<청크>.json` — **이 파일만 수정**.
 - 파이썬으로 JSON을 고칠 때 Bash heredoc 안에 `\n` 문자열을 쓰면 실제 줄바꿈으로 깨진다. 스크립트는 Write 도구로 파일(스크래치패드)에 작성해 실행하거나, 줄바꿈은 `chr(10)`을 쓴다. JSON 저장은 `ensure_ascii=False, indent=1`.
-- 끝나면 `python check_ko.py <청크>` 가 **문제 0개**여야 한다.
+- 끝나면 `python tools/check_ko.py <청크>` 가 **문제 0개**여야 한다.
 - 보고(한국어, 짧게): 마침표를 추가한 항목 수, 폭 때문에 문구를 줄인 항목, 끝맺음을 고친 항목(원문 → 수정).

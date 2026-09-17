@@ -15,7 +15,8 @@ FONTMAP = {
 }
 # 타일 높이별 한글 렌더 설정: (굴림 크기, y 오프셋, 한글 간격)
 import os as _os
-_FD = _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), 'fonts')
+import paths as _paths
+_FD = _paths.FONTS
 # 타일 높이별 한글 렌더 설정: (글꼴 경로, 크기, y 오프셋, 한글 간격) — 갈무리(DS 스타일 도트 글꼴, OFL)
 def font_cfg(th):
     if th <= 11: return (_os.path.join(_FD, 'Galmuri9.ttf'), 10, 0, 10)

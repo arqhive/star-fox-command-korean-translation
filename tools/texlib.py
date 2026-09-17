@@ -1,6 +1,6 @@
 """텍스처 로드/인코드 + 이미지 편집 명세(spec) 적용 라이브러리
 
-spec JSON 형식 (img/spec/<텍스처 경로>.json):
+spec JSON 형식 (translation/images/<텍스처 경로>.json):
 {
   "edits": [
     {"op": "clear", "rect": [x, y, w, h]},                       # 투명으로 지움
@@ -24,7 +24,9 @@ from texdec import decode, data_len, pal_of
 from ndsfs import parse
 from lz import lz10_dec
 
-ROOT = os.path.dirname(os.path.abspath(__file__))
+import paths
+TOOLS = paths.TOOLS
+ROOT = paths.ROOT
 FONTS = {
     'malgunbd': 'C:/Windows/Fonts/malgunbd.ttf',
     'malgun': 'C:/Windows/Fonts/malgun.ttf',
@@ -35,7 +37,6 @@ _rom = None
 def rom():
     global _rom
     if _rom is None:
-        import paths
         _rom = parse(paths.JP_ROM)
     return _rom
 
@@ -44,7 +45,7 @@ def tex_info(path):
     """path: '3D/Textures/...ntfq-cmp' → (fmt, w, h, raw)"""
     global _choice
     if _choice is None:
-        _choice = json.load(open(os.path.join(ROOT, 'texchoice.json')))
+        _choice = json.load(open(os.path.join(TOOLS, 'texchoice.json')))
     d, h, files = rom()
     fid, s, e = files[path]
     raw = lz10_dec(d[s:e])
@@ -172,7 +173,7 @@ def kmeans(cols, k):
 
 # ---------------- 편집 적용 ----------------
 USE_GALMURI = True  # 이미지 글자를 갈무리(도트 글꼴)로 렌더
-_GD = os.path.join(ROOT, 'fonts')
+_GD = paths.FONTS
 def galmuri_pick(e):
     """명세의 font/size를 갈무리 글꼴·원래 크기·정수 배율·굵게로 변환"""
     if e.get('galmuri'):  # 명세에서 갈무리 글꼴을 직접 지정: "Galmuri11" / "Galmuri11-Bold" / "Galmuri9" / "Galmuri14"

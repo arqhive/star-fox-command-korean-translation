@@ -1,7 +1,7 @@
 # 쉼표 검수 가이드
 
 사용자 요청: "문장 사이에 쉼표가 필요한 부분도 있는데 쉼표가 다 빠져 있다."
-마침표 검수(`trans/PUNCT_GUIDE.md`)는 이미 끝났다. 이번에는 **쉼표(,)만** 필요한 곳에 넣는다.
+마침표 검수(`docs/PUNCT_GUIDE.md`)는 이미 끝났다. 이번에는 **쉼표(,)만** 필요한 곳에 넣는다.
 
 ## 쉼표를 넣는 곳
 1. **부르는 말 뒤/앞**: `폭스 괜찮아?` → `폭스, 괜찮아?` / `고마워 루시.` → `고마워, 루시.`
@@ -19,8 +19,8 @@
 
 ## 제한과 작업 방법 (대사)
 - 줄 수·줄 폭 제한 유지. 쉼표(약 3px)로 폭이 넘치면 그 쉼표는 생략하거나 뜻을 유지하며 살짝 줄인다.
-- 작업 폴더 `C:\Users\hgyst\Claude Work\스타 폭스 커맨드\starfox-command-ko`, Bash는 `export PYTHONIOENCODING=utf-8; cd "/c/Users/hgyst/Claude Work/스타 폭스 커맨드/starfox-command-ko"`.
-- 원문 `trans/src/<청크>.json`(jp·en), 번역 `trans/ko/<청크>.json` — **이 파일만 수정**.
+- 작업 폴더 `C:\Users\hgyst\Claude Work\스타 폭스 커맨드\star-fox-command-korean-translation`, Bash는 `export PYTHONIOENCODING=utf-8; cd "/c/Users/hgyst/Claude Work/스타 폭스 커맨드/star-fox-command-korean-translation"`.
+- 원문 `work/src/<청크>.json`(jp·en), 번역 `translation/ko/<청크>.json` — **이 파일만 수정**.
 - JSON 수정 스크립트는 Write 도구로 스크래치패드에 파일로 만들어 실행한다(Bash heredoc 안의 `\n`은 깨진다). 저장은 `ensure_ascii=False, indent=1`.
-- 끝나면 `python check_ko.py <청크>` 가 **문제 0개**.
+- 끝나면 `python tools/check_ko.py <청크>` 가 **문제 0개**.
 - 보고(한국어, 짧게): 쉼표를 넣은 항목 수, 폭 때문에 생략한 곳, 판단이 애매했던 예.

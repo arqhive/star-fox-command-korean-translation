@@ -1,7 +1,7 @@
 import json,re,os
 import romfiles, paths
-os.chdir(paths.HERE)
-os.makedirs('trans/src', exist_ok=True)
+os.chdir(paths.ROOT)
+os.makedirs('work/src', exist_ok=True)
 from ko_metrics import FontInfo, FONTMAP
 from jpload import entries
 LIMIT={'advertise':248,'battle':188,'enemy':115,'scenario':196,'strategy':190}
@@ -30,5 +30,5 @@ for f in ['scenario','battle','strategy']:
 chunks['advertise_enemy']=[dict(x,file='advertise') for x in allsrc['advertise']]+[dict(x,file='enemy') for x in allsrc['enemy']]
 for name,items in chunks.items():
     for x in items: x.setdefault('file',name.split('_')[0])
-    json.dump(items,open(f'trans/src/{name}.json','w',encoding='utf-8'),ensure_ascii=False,indent=1)
+    json.dump(items,open(f'work/src/{name}.json','w',encoding='utf-8'),ensure_ascii=False,indent=1)
     print(name,len(items),items[0]['id'],'-',items[-1]['id'])

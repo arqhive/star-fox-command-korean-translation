@@ -5,12 +5,12 @@ Bash에서는 항상 `export PYTHONIOENCODING=utf-8; cd "/c/Users/hgyst/Claude W
 
 ## 목표
 일본어 글자가 들어간 게임 이미지(텍스처/2D 그림)를 한국어로 바꾼다. 결과물은 이미지마다 **편집 명세 JSON** 한 개:
-`img/spec/<경로>.json` (예: `img/spec/Menu/Option/option_txt.json`, `img/spec/2D/Pause/pause_wnd.json`)
+`translation/images/<경로>.json` (예: `translation/images/Menu/Option/option_txt.json`, `translation/images/2D/Pause/pause_wnd.json`)
 빌드는 하지 않는다(메인 세션이 한다). 다른 담당의 파일이나 스크립트(.py)는 수정하지 않는다.
 
 ## 도구
-- `python imgtool.py info <경로>` : 형식·크기·팔레트 출력, `img/work/<경로>_grid.png`(확대 + 8px 빨간 격자, 32px 노란 격자·좌표 숫자) 생성, 북미판 영어 버전이 있으면 `img/work/<경로>_us.png`(2배) 생성 → **Read 도구로 이미지를 직접 보고** 좌표를 잡는다. 격자 이미지 배율은 출력에 표시됨(보통 4배: 이미지 픽셀 = 원본좌표×4).
-- `python imgtool.py render <경로>` : 명세를 적용해 게임 형식으로 변환→다시 디코드한 결과를 `img/work/<경로>_preview.png`(위 원본 / 아래 결과)로 저장 → Read로 확인하고 만족할 때까지 명세를 고친다.
+- `python tools/imgtool.py info <경로>` : 형식·크기·팔레트 출력, `work/img/<경로>_grid.png`(확대 + 8px 빨간 격자, 32px 노란 격자·좌표 숫자) 생성, 북미판 영어 버전이 있으면 `work/img/<경로>_us.png`(2배) 생성 → **Read 도구로 이미지를 직접 보고** 좌표를 잡는다. 격자 이미지 배율은 출력에 표시됨(보통 4배: 이미지 픽셀 = 원본좌표×4).
+- `python tools/imgtool.py render <경로>` : 명세를 적용해 게임 형식으로 변환→다시 디코드한 결과를 `work/img/<경로>_preview.png`(위 원본 / 아래 결과)로 저장 → Read로 확인하고 만족할 때까지 명세를 고친다.
 
 ## 명세(JSON) 연산 — 좌표는 원본 픽셀 기준 [x, y, w, h]
 ```json
@@ -39,7 +39,7 @@ Bash에서는 항상 `export PYTHONIOENCODING=utf-8; cd "/c/Users/hgyst/Claude W
 2. 한글 크기·굵기·색·외곽선·그림자·정렬을 원본 일본어 글자와 최대한 비슷하게 맞춘다(원본 글자 높이 ≈ size, 보통 bold:1). 너무 작아 읽기 어려우면 안 된다(최소 size 10 정도, 아주 작은 글자는 gulim + aa:false).
 3. 글자 이외의 그림(캐릭터, 아이콘, 테두리, 숫자, 영문 로고)은 건드리지 않는다. 영문·숫자만 있는 이미지는 명세를 만들지 않는다.
 4. 한 이미지에 같은 문구가 여러 상태(일반/선택/눌림 등 색만 다른 복사본)로 있으면 **모두** 바꾼다.
-5. 번역은 `trans/GLOSSARY.md`(인물·지명·용어·"이미지(UI) 용어" 섹션)를 따른다. 뜻은 일본어 원문 기준, 북미판 이미지는 의미 참고용.
+5. 번역은 `translation/GLOSSARY.md`(인물·지명·용어·"이미지(UI) 용어" 섹션)를 따른다. 뜻은 일본어 원문 기준, 북미판 이미지는 의미 참고용.
 6. 반드시 render 결과를 눈으로 확인한다(글자 잘림, 배경 얼룩, 남은 일본어, 색 깨짐 확인).
 7. 격자 이미지가 줄무늬/어긋나 보이는 등 **디코드 자체가 깨진 것**으로 보이면 작업하지 말고 보고서에 적는다.
 
