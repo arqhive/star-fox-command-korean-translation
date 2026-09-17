@@ -24,10 +24,10 @@
 3. BPS 패치 도구로 적용합니다.
    - 웹: [ROM Patcher JS](https://www.marcrobledo.com/RomPatcher.js/)
    - PC: Floating IPS (Flips)
-   - 또는 이 저장소의 스크립트: `python bps.py apply "Star Fox Command (Japan).nds" StarFoxCommand_KO_v0.9.bps "Star Fox Command (KO).nds"`
+   - 또는 이 저장소의 스크립트: `python bps.py apply "Star Fox Command (Japan).nds" StarFoxCommand_KO_v1.0.bps "Star Fox Command (KO).nds"`
 4. 에뮬레이터(melonDS 등)나 플래시카트에서 실행합니다.
 
-## 알려진 문제 (v0.9)
+## 알려진 문제 (v1.0)
 
 - 일부 작은 이름 목록(칸 높이 7~9px)은 받침이 많은 글자가 뭉개져 보일 수 있습니다.
 - 여러 조각을 조합해 보여주는 이미지(라운드 정보, 작전 설명 일부)는 화면에 따라 어색할 수 있습니다.
