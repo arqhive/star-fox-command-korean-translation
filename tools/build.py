@@ -221,6 +221,17 @@ _s = struct.unpack_from('<I', rom, hdr['fat_off'] + _fid * 8)[0]
 assert rom[_s + 0x233a6:_s + 0x233aa] == bytes.fromhex('002804d1'), '자판 패치 위치 불일치'
 rom[_s + 0x233a8:_s + 0x233aa] = bytes.fromhex('0ee0')
 print('코드 패치: 닉네임 자판 기본 영문')
+
+# 배너(메뉴에 보이는 게임 이름) — 6개 언어 칸 모두 한국어로, 배너 CRC16 갱신
+_bo = struct.unpack_from('<I', rom, 0x68)[0]
+_bver = struct.unpack_from('<H', rom, _bo)[0]
+assert _bver == 1, '배너 버전 예상과 다름: %#x' % _bver
+BANNER_TITLE = '스타폭스 커맨드\nNintendo'
+for _i in range(6):
+    _p = _bo + 0x240 + 0x100 * _i
+    rom[_p:_p + 0x100] = BANNER_TITLE.encode('utf-16-le').ljust(0x100, b'\0')
+struct.pack_into('<H', rom, _bo + 2, crc16(rom[_bo + 0x20:_bo + 0x840]))
+print('배너 이름:', BANNER_TITLE.replace('\n', ' / '))
 print(f'파일 배치: 제자리 {inplace}개, 끝에 추가 {appended}개')
 if len(rom) > 0x2000000:
     rom[0x14] = max(rom[0x14], 9)  # 카트 용량 512Mbit
