@@ -55,7 +55,8 @@
    "outline_w": 1,
    "align": "center",
    "valign": "bottom",
-   "aa": false
+   "aa": false,
+   "galmuri": "Galmuri9"
   },
   {
    "op": "text",
@@ -74,7 +75,8 @@
    "outline_w": 1,
    "align": "center",
    "valign": "bottom",
-   "aa": false
+   "aa": false,
+   "galmuri": "Galmuri9"
   }
  ]
 }

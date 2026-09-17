@@ -55,6 +55,9 @@ def decode_back(kind, ctx, enc):
     return bg2d.decode(enc[kc], enc.get(ks) if ks else None, p, tw)
 
 def us_image(kind, rel, ctx):
+    import paths
+    if not os.path.exists(paths.US_ROM):
+        return None  # 북미판 롬이 없으면 참고 이미지 생략
     d, h, files = us_rom()
     try:
         if kind == '2d':

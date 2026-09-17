@@ -175,6 +175,9 @@ USE_GALMURI = True  # 이미지 글자를 갈무리(도트 글꼴)로 렌더
 _GD = os.path.join(ROOT, 'fonts')
 def galmuri_pick(e):
     """명세의 font/size를 갈무리 글꼴·원래 크기·정수 배율·굵게로 변환"""
+    if e.get('galmuri'):  # 명세에서 갈무리 글꼴을 직접 지정: "Galmuri11" / "Galmuri11-Bold" / "Galmuri9" / "Galmuri14"
+        g = e['galmuri']; nat = {'Galmuri7': 8, 'Galmuri9': 10, 'Galmuri11': 12, 'Galmuri11-Bold': 12, 'Galmuri14': 15}[g]
+        return os.path.join(_GD, g + '.ttf'), nat, e.get('gscale', 1), e.get('bold', 0) if g == 'Galmuri14' else 0
     s = e.get('size', 12); boldface = e.get('font', 'malgunbd') == 'malgunbd' or e.get('bold', 0) > 0
     if s <= 10: return os.path.join(_GD, 'Galmuri9.ttf'), 10, 1, 0
     if s <= 13: return os.path.join(_GD, 'Galmuri11-Bold.ttf' if boldface else 'Galmuri11.ttf'), 12, 1, 0
