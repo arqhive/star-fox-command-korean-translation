@@ -104,9 +104,9 @@
    "text": "코네리아",
    "rect": [
     18,
-    0,
+    1,
     50,
-    11
+    9
    ],
    "font": "gulim",
    "size": 11,
@@ -114,16 +114,17 @@
    "aa": false,
    "color": "#ffffff",
    "align": "left",
-   "valign": "middle"
+   "valign": "bottom",
+   "galmuri": "Galmuri9"
   },
   {
    "op": "text",
    "text": "섹터 X",
    "rect": [
     90,
-    3,
+    4,
     50,
-    10
+    9
    ],
    "font": "gulim",
    "size": 11,
@@ -131,16 +132,17 @@
    "aa": false,
    "color": "#ffffff",
    "align": "left",
-   "valign": "middle"
+   "valign": "bottom",
+   "galmuri": "Galmuri9"
   },
   {
    "op": "text",
    "text": "소행성대",
    "rect": [
     3,
-    32,
+    33,
     58,
-    10
+    9
    ],
    "font": "gulim",
    "size": 11,
@@ -148,16 +150,17 @@
    "aa": false,
    "color": "#ffffff",
    "align": "left",
-   "valign": "middle"
+   "valign": "bottom",
+   "galmuri": "Galmuri9"
   },
   {
    "op": "text",
    "text": "섹터 Y",
    "rect": [
     90,
-    29,
+    30,
     51,
-    10
+    9
    ],
    "font": "gulim",
    "size": 11,
@@ -165,16 +168,17 @@
    "aa": false,
    "color": "#ffffff",
    "align": "left",
-   "valign": "middle"
+   "valign": "bottom",
+   "galmuri": "Galmuri9"
   },
   {
    "op": "text",
    "text": "피치나",
    "rect": [
     18,
-    58,
+    59,
     40,
-    10
+    9
    ],
    "font": "gulim",
    "size": 11,
@@ -182,16 +186,17 @@
    "aa": false,
    "color": "#ffffff",
    "align": "left",
-   "valign": "middle"
+   "valign": "bottom",
+   "galmuri": "Galmuri9"
   },
   {
    "op": "text",
    "text": "섹터 Z",
    "rect": [
     92,
-    58,
+    59,
     49,
-    10
+    9
    ],
    "font": "gulim",
    "size": 11,
@@ -199,16 +204,17 @@
    "aa": false,
    "color": "#ffffff",
    "align": "left",
-   "valign": "middle"
+   "valign": "bottom",
+   "galmuri": "Galmuri9"
   },
   {
    "op": "text",
    "text": "카티나",
    "rect": [
     18,
-    87,
+    88,
     41,
-    10
+    9
    ],
    "font": "gulim",
    "size": 11,
@@ -216,16 +222,17 @@
    "aa": false,
    "color": "#ffffff",
    "align": "left",
-   "valign": "middle"
+   "valign": "bottom",
+   "galmuri": "Galmuri9"
   },
   {
    "op": "text",
    "text": "아쿠아스",
    "rect": [
     18,
-    119,
+    120,
     42,
-    10
+    9
    ],
    "font": "gulim",
    "size": 11,
@@ -233,16 +240,17 @@
    "aa": false,
    "color": "#ffffff",
    "align": "left",
-   "valign": "middle"
+   "valign": "bottom",
+   "galmuri": "Galmuri9"
   },
   {
    "op": "text",
    "text": "솔라",
    "rect": [
     18,
-    148,
+    149,
     32,
-    10
+    9
    ],
    "font": "gulim",
    "size": 11,
@@ -250,16 +258,17 @@
    "aa": false,
    "color": "#ffffff",
    "align": "left",
-   "valign": "middle"
+   "valign": "bottom",
+   "galmuri": "Galmuri9"
   },
   {
    "op": "text",
    "text": "타이타니아",
    "rect": [
     17,
-    177,
+    178,
     51,
-    10
+    9
    ],
    "font": "gulim",
    "size": 11,
@@ -267,16 +276,17 @@
    "aa": false,
    "color": "#ffffff",
    "align": "left",
-   "valign": "middle"
+   "valign": "bottom",
+   "galmuri": "Galmuri9"
   },
   {
    "op": "text",
    "text": "베놈",
    "rect": [
     30,
-    206,
+    207,
     30,
-    10
+    9
    ],
    "font": "gulim",
    "size": 11,
@@ -284,7 +294,8 @@
    "aa": false,
    "color": "#ffffff",
    "align": "right",
-   "valign": "middle"
+   "valign": "bottom",
+   "galmuri": "Galmuri9"
   }
  ]
 }

@@ -2,8 +2,8 @@
   {"op": "fill", "rect": [120, 0, 136, 80], "color": "#002020"},
   {"op": "fill", "rect": [78, 85, 42, 14], "color": "#002020"},
   {"op": "text", "text": "나우스", "rect": [70, 84, 48, 15], "font": "gulim", "size": 13, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "right", "valign": "middle"},
-  {"op": "text", "text": "스타폭스의 모함", "rect": [124, 6, 130, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
+  {"op": "text", "text": "스타폭스의 모함.", "rect": [124, 6, 130, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
   {"op": "text", "text": "적은 모함을 노리고", "rect": [124, 26, 130, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
-  {"op": "text", "text": "이동해 온다", "rect": [124, 46, 130, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
-  {"op": "text", "text": "다운되면 임무 실패", "rect": [124, 66, 130, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"}
+  {"op": "text", "text": "이동해 온다.", "rect": [124, 46, 130, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
+  {"op": "text", "text": "다운되면 임무 실패.", "rect": [124, 66, 130, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"}
 ]}

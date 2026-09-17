@@ -1,4 +1,30 @@
-{"edits": [
-  {"op": "fill", "rect": [4, 32, 160, 26], "color": "#d5ffe6"},
-  {"op": "text", "text": "데이터를 삭제했습니다", "rect": [2, 38, 164, 20], "font": "malgunbd", "size": 13, "bold": 1, "color": "#315a62", "align": "center", "valign": "middle"}
-]}
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    4,
+    32,
+    160,
+    26
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "데이터를 삭제했습니다.",
+   "rect": [
+    2,
+    38,
+    164,
+    20
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

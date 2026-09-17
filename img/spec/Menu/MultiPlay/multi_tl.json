@@ -1,4 +1,35 @@
-{"edits": [
- {"op": "clear", "rect": [0, 0, 256, 32]},
- {"op": "text", "text": "다운로드 플레이", "rect": [50, 4, 156, 18], "font": "malgunbd", "size": 15, "bold": 1, "color": "#b4f6ee", "shadow": [-1, 2, "#6aa4a4"], "align": "center", "valign": "middle"}
-]}
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    256,
+    32
+   ]
+  },
+  {
+   "op": "text",
+   "text": "다운로드 플레이",
+   "rect": [
+    50,
+    4,
+    156,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 17,
+   "bold": 1,
+   "color": "#94eee6",
+   "shadow": [
+    1,
+    1,
+    "#52a4a4"
+   ],
+   "align": "center",
+   "valign": "middle",
+   "color2": "#bdf6ee"
+  }
+ ]
+}

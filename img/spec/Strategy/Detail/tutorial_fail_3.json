@@ -1,10 +1,9 @@
 {"edits": [
   {"op": "fill", "rect": [116, 10, 140, 102], "color": "#d5ffe6"},
   {"op": "text", "text": "잔기를 써서 파이터를", "rect": [121, 21, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
-  {"op": "text", "text": "부활시켰습니다", "rect": [121, 41, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
-  {"op": "text", "text": "잔기가 없으면 부활 불가", "rect": [121, 61, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
-  {"op": "text", "text": "모든 파이터가", "rect": [121, 81, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
-  {"op": "text", "text": "다운되면", "rect": [121, 101, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
-  {"op": "text", "text": "임무 실패", "rect": [173, 101, 83, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#ff0000", "shadow": [1, 1, "#ee8b7b"], "align": "left", "valign": "top"},
-  {"op": "text", "text": "입니다", "rect": [226, 101, 30, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"}
+  {"op": "text", "text": "부활시켰습니다.", "rect": [121, 41, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "잔기가 없으면 부활 불가.", "rect": [121, 61, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "모든 파이터가 다운되면", "rect": [121, 81, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "임무 실패", "rect": [121, 101, 83, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#ff0000", "shadow": [1, 1, "#ee8b7b"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "입니다.", "rect": [174, 101, 82, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"}
 ]}

@@ -3,5 +3,5 @@
   {"op": "text", "text": "안개 위에서 터치펜을", "rect": [124, 29, 132, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
   {"op": "text", "text": "슬라이드하면", "rect": [124, 49, 132, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
   {"op": "text", "text": "안개를 일정량", "rect": [124, 69, 132, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
-  {"op": "text", "text": "걷어낼 수 있습니다", "rect": [124, 89, 132, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"}
+  {"op": "text", "text": "걷어낼 수 있습니다.", "rect": [124, 89, 132, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"}
 ]}

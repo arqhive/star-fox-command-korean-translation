@@ -1,6 +1,6 @@
 {"edits": [
   {"op": "fill", "rect": [14, 84, 242, 40], "color": "#d5ffe6"},
-  {"op": "text", "text": "그레이트폭스를 터치하고", "rect": [19, 91, 237, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "그레이트폭스를 터치하고,", "rect": [19, 91, 237, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
   {"op": "text", "text": "슬라이드해서", "rect": [172, 91, 84, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
-  {"op": "text", "text": "적 위치에서 펜을 떼면 미사일 발사", "rect": [19, 111, 237, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"}
+  {"op": "text", "text": "적 위에서 펜을 떼면 미사일을 발사합니다.", "rect": [19, 111, 237, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"}
 ]}

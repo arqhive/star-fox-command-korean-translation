@@ -1,48 +1,5 @@
-{
- "edits": [
-  {
-   "op": "fill",
-   "rect": [
-    50,
-    72,
-    200,
-    50
-   ],
-   "color": "#000000"
-  },
-  {
-   "op": "text",
-   "text": "데이터가 손상되었으므로",
-   "rect": [
-    70,
-    82,
-    180,
-    12
-   ],
-   "font": "gulim",
-   "size": 12,
-   "bold": 1,
-   "color": "#ffffff",
-   "align": "left",
-   "valign": "middle",
-   "aa": false
-  },
-  {
-   "op": "text",
-   "text": "초기화합니다",
-   "rect": [
-    70,
-    105,
-    180,
-    12
-   ],
-   "font": "gulim",
-   "size": 12,
-   "bold": 1,
-   "color": "#ffffff",
-   "align": "left",
-   "valign": "middle",
-   "aa": false
-  }
- ]
-}
+{"edits": [
+  {"op": "fill", "rect": [50, 72, 200, 50], "color": "#000000"},
+  {"op": "text", "text": "데이터가 손상되었으므로", "rect": [70, 82, 180, 12], "font": "gulim", "size": 12, "bold": 1, "color": "#ffffff", "align": "left", "valign": "middle", "aa": false},
+  {"op": "text", "text": "초기화합니다.", "rect": [70, 105, 180, 12], "font": "gulim", "size": 12, "bold": 1, "color": "#ffffff", "align": "left", "valign": "middle", "aa": false}
+]}

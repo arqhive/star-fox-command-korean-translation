@@ -66,17 +66,17 @@
    "op": "text",
    "text": "돌아가기",
    "rect": [
-    6,
+    4,
     43,
-    36,
+    42,
     16
    ],
    "font": "malgunbd",
-   "size": 10,
    "bold": 1,
    "color": "#1f4a52",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "galmuri": "Galmuri9"
   },
   {
    "op": "hfill",

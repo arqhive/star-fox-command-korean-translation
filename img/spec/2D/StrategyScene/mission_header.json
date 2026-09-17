@@ -1,5 +1,65 @@
-{"edits": [
-  {"op": "clear", "rect": [0,0,256,112]},
-  {"op": "text", "text": "임", "rect": [4,4,116,104], "font": "malgunbd", "size": 100, "bold": 1, "color": "#ffffff", "outline": "#ffffff", "outline_w": 1, "shadow": [1,1,"#b4b4b4"], "align": "center", "valign": "middle", "aa": true},
-  {"op": "text", "text": "무", "rect": [136,4,116,104], "font": "malgunbd", "size": 100, "bold": 1, "color": "#ffffff", "outline": "#ffffff", "outline_w": 1, "shadow": [1,1,"#b4b4b4"], "align": "center", "valign": "middle", "aa": true}
-]}
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    256,
+    112
+   ]
+  },
+  {
+   "op": "text",
+   "text": "임",
+   "rect": [
+    8,
+    2,
+    100,
+    107
+   ],
+   "font": "malgunbd",
+   "size": 100,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#ffffff",
+   "outline_w": 1,
+   "shadow": [
+    1,
+    1,
+    "#b4b4b4"
+   ],
+   "align": "center",
+   "valign": "middle",
+   "aa": true,
+   "galmuri": "Galmuri11-Bold",
+   "gscale": 9
+  },
+  {
+   "op": "text",
+   "text": "무",
+   "rect": [
+    147,
+    2,
+    101,
+    107
+   ],
+   "font": "malgunbd",
+   "size": 100,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#ffffff",
+   "outline_w": 1,
+   "shadow": [
+    1,
+    1,
+    "#b4b4b4"
+   ],
+   "align": "center",
+   "valign": "middle",
+   "aa": true,
+   "galmuri": "Galmuri11-Bold",
+   "gscale": 9
+  }
+ ]
+}

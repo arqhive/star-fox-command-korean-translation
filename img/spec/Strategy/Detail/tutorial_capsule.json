@@ -3,7 +3,7 @@
   {"op": "fill", "rect": [116, 78, 140, 42], "color": "#d5ffe6"},
   {"op": "text", "text": "터치스크린을", "rect": [121, 12, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
   {"op": "text", "text": "더블 터치하면", "rect": [121, 32, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
-  {"op": "text", "text": "라운드 캡슐 호출", "rect": [121, 52, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
-  {"op": "text", "text": "라운드 캡슐을 터치", "rect": [121, 87, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
-  {"op": "text", "text": "하면 이동을 시작합니다", "rect": [121, 107, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"}
+  {"op": "text", "text": "라운드 캡슐 호출.", "rect": [121, 52, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "라운드 캡슐을 터치하면", "rect": [121, 87, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "이동을 시작합니다.", "rect": [121, 107, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"}
 ]}
