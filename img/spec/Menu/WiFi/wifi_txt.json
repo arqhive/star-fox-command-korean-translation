@@ -1,0 +1,79 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    34,
+    2,
+    76,
+    20
+   ],
+   "from_x": 108
+  },
+  {
+   "op": "text",
+   "text": "Wi-Fi 대전",
+   "rect": [
+    38,
+    7,
+    70,
+    13
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#184a5a",
+   "align": "left"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    8,
+    26,
+    102,
+    20
+   ],
+   "from_x": 108
+  },
+  {
+   "op": "text",
+   "text": "친구 코드",
+   "rect": [
+    4,
+    31,
+    106,
+    13
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#184a5a",
+   "align": "center"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    34,
+    50,
+    76,
+    20
+   ],
+   "from_x": 108
+  },
+  {
+   "op": "text",
+   "text": "Wi-Fi 설정",
+   "rect": [
+    38,
+    55,
+    70,
+    13
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#184a5a",
+   "align": "left"
+  }
+ ]
+}

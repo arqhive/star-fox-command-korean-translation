@@ -1,0 +1,120 @@
+{
+ "edits": [
+  {
+   "op": "vfill",
+   "rect": [
+    20,
+    51,
+    15,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    13,
+    51,
+    7,
+    8
+   ],
+   "from_x": 12
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    35,
+    51,
+    9,
+    8
+   ],
+   "from_x": 44
+  },
+  {
+   "op": "clear",
+   "rect": [
+    13,
+    59,
+    31,
+    1
+   ]
+  },
+  {
+   "op": "vfill",
+   "rect": [
+    76,
+    51,
+    15,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    69,
+    51,
+    7,
+    8
+   ],
+   "from_x": 68
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    91,
+    51,
+    9,
+    8
+   ],
+   "from_x": 100
+  },
+  {
+   "op": "clear",
+   "rect": [
+    69,
+    59,
+    31,
+    1
+   ]
+  },
+  {
+   "op": "text",
+   "text": "루시",
+   "rect": [
+    5,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "루시",
+   "rect": [
+    61,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  }
+ ]
+}

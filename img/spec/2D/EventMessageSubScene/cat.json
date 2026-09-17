@@ -1,0 +1,152 @@
+{
+ "edits": [
+  {
+   "op": "vfill",
+   "rect": [
+    21,
+    51,
+    13,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "clear",
+   "rect": [
+    11,
+    51,
+    10,
+    9
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    34,
+    51,
+    10,
+    9
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    21,
+    59,
+    13,
+    1
+   ]
+  },
+  {
+   "op": "vfill",
+   "rect": [
+    77,
+    51,
+    13,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "clear",
+   "rect": [
+    67,
+    51,
+    10,
+    9
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    90,
+    51,
+    10,
+    9
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    77,
+    59,
+    13,
+    1
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    14,
+    49,
+    5,
+    2
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    36,
+    49,
+    5,
+    2
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    70,
+    49,
+    5,
+    2
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    92,
+    49,
+    5,
+    2
+   ]
+  },
+  {
+   "op": "text",
+   "text": "캣",
+   "rect": [
+    4,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "캣",
+   "rect": [
+    60,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  }
+ ]
+}

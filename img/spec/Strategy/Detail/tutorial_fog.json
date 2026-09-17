@@ -1,0 +1,124 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    112,
+    8,
+    144,
+    112
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "적의 안개는 그곳에",
+   "rect": [
+    120,
+    11,
+    136,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "aa": false,
+   "color": "#315a62",
+   "shadow": [
+    1,
+    1,
+    "#83b4ac"
+   ],
+   "align": "left",
+   "valign": "top"
+  },
+  {
+   "op": "text",
+   "text": "있는 적이나 기지를",
+   "rect": [
+    120,
+    32,
+    136,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "aa": false,
+   "color": "#315a62",
+   "shadow": [
+    1,
+    1,
+    "#83b4ac"
+   ],
+   "align": "left",
+   "valign": "top"
+  },
+  {
+   "op": "text",
+   "text": "숨겨 버립니다",
+   "rect": [
+    120,
+    52,
+    136,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "aa": false,
+   "color": "#315a62",
+   "shadow": [
+    1,
+    1,
+    "#83b4ac"
+   ],
+   "align": "left",
+   "valign": "top"
+  },
+  {
+   "op": "text",
+   "text": "안개는 라운드마다",
+   "rect": [
+    120,
+    87,
+    136,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "aa": false,
+   "color": "#315a62",
+   "shadow": [
+    1,
+    1,
+    "#83b4ac"
+   ],
+   "align": "left",
+   "valign": "top"
+  },
+  {
+   "op": "text",
+   "text": "늘어납니다",
+   "rect": [
+    120,
+    107,
+    136,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "aa": false,
+   "color": "#315a62",
+   "shadow": [
+    1,
+    1,
+    "#83b4ac"
+   ],
+   "align": "left",
+   "valign": "top"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    64,
+    24,
+    192,
+    32
+   ]
+  },
+  {
+   "op": "text",
+   "text": "액션 페이즈",
+   "rect": [
+    65,
+    24,
+    140,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#ff0000",
+   "outline_w": 1,
+   "align": "left",
+   "valign": "middle",
+   "aa": true,
+   "spacing": 1,
+   "shadow": [
+    1,
+    1,
+    "#ff0000"
+   ]
+  },
+  {
+   "op": "text",
+   "text": "이동",
+   "rect": [
+    94,
+    40,
+    44,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#ff0000",
+   "outline_w": 1,
+   "align": "right",
+   "valign": "middle",
+   "aa": true,
+   "spacing": 1,
+   "shadow": [
+    1,
+    1,
+    "#ff0000"
+   ]
+  },
+  {
+   "op": "text",
+   "text": "남은 라운드",
+   "rect": [
+    145,
+    40,
+    96,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#ff0000",
+   "outline_w": 1,
+   "align": "left",
+   "valign": "middle",
+   "aa": true,
+   "spacing": 1,
+   "shadow": [
+    1,
+    1,
+    "#ff0000"
+   ]
+  }
+ ]
+}

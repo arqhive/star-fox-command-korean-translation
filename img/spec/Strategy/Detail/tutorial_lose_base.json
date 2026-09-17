@@ -1,0 +1,124 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    113,
+    8,
+    143,
+    104
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "코어 회수 후 나타나는",
+   "rect": [
+    116,
+    19,
+    140,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "aa": false,
+   "color": "#315a62",
+   "shadow": [
+    1,
+    1,
+    "#83b4ac"
+   ],
+   "align": "left",
+   "valign": "top"
+  },
+  {
+   "op": "text",
+   "text": "비컨을 모두 통과하고",
+   "rect": [
+    116,
+    39,
+    140,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "aa": false,
+   "color": "#315a62",
+   "shadow": [
+    1,
+    1,
+    "#83b4ac"
+   ],
+   "align": "left",
+   "valign": "top"
+  },
+  {
+   "op": "text",
+   "text": "모선에 롤링",
+   "rect": [
+    116,
+    59,
+    140,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "aa": false,
+   "color": "#315a62",
+   "shadow": [
+    1,
+    1,
+    "#83b4ac"
+   ],
+   "align": "left",
+   "valign": "top"
+  },
+  {
+   "op": "text",
+   "text": "(빠르게 문지르기)로",
+   "rect": [
+    116,
+    79,
+    140,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "aa": false,
+   "color": "#315a62",
+   "shadow": [
+    1,
+    1,
+    "#83b4ac"
+   ],
+   "align": "left",
+   "valign": "top"
+  },
+  {
+   "op": "text",
+   "text": "돌진하면 격파됩니다",
+   "rect": [
+    116,
+    99,
+    140,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "aa": false,
+   "color": "#315a62",
+   "shadow": [
+    1,
+    1,
+    "#83b4ac"
+   ],
+   "align": "left",
+   "valign": "top"
+  }
+ ]
+}

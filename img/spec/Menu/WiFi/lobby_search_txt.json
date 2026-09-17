@@ -1,0 +1,30 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    30,
+    0,
+    52,
+    28
+   ]
+  },
+  {
+   "op": "text",
+   "text": "검색 중",
+   "rect": [
+    34,
+    8,
+    48,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#316a6a",
+   "align": "left",
+   "outline": "#acd5c5",
+   "outline_w": 1
+  }
+ ]
+}

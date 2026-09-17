@@ -1,0 +1,11 @@
+{"edits": [
+  {"op": "fill", "rect": [114, 1, 142, 122], "color": "#d5ffe6"},
+  {"op": "text", "text": "경고!", "rect": [126, 10, 130, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#ff0000", "shadow": [1, 1, "#ee8b7b"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "1라운드마다", "rect": [126, 31, 130, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "라운드 캡슐을", "rect": [126, 51, 130, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "1개 소비합니다", "rect": [126, 71, 130, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "라운드 캡슐이", "rect": [126, 91, 130, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "없으면", "rect": [126, 111, 130, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "임무 실패", "rect": [166, 111, 90, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#ff0000", "shadow": [1, 1, "#ee8b7b"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "입니다", "rect": [219, 111, 37, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"}
+]}

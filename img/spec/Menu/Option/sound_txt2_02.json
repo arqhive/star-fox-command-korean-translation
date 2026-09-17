@@ -1,0 +1,410 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    12,
+    1,
+    42,
+    11
+   ],
+   "from_x": 4
+  },
+  {
+   "op": "text",
+   "text": "모드",
+   "rect": [
+    16,
+    1,
+    42,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    12,
+    14,
+    42,
+    11
+   ],
+   "from_x": 4
+  },
+  {
+   "op": "text",
+   "text": "음성",
+   "rect": [
+    16,
+    14,
+    42,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    48,
+    65,
+    14
+   ],
+   "from_x": 4
+  },
+  {
+   "op": "text",
+   "text": "스테레오",
+   "rect": [
+    4,
+    48,
+    63,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "align": "center",
+   "valign": "middle",
+   "color": "#417b8b",
+   "color2": "#184a5a"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    72,
+    48,
+    65,
+    14
+   ],
+   "from_x": 4
+  },
+  {
+   "op": "text",
+   "text": "서라운드",
+   "rect": [
+    73,
+    48,
+    63,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "align": "center",
+   "valign": "middle",
+   "color": "#417b8b",
+   "color2": "#184a5a"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    141,
+    48,
+    65,
+    14
+   ],
+   "from_x": 4
+  },
+  {
+   "op": "text",
+   "text": "헤드폰",
+   "rect": [
+    142,
+    48,
+    63,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "align": "center",
+   "valign": "middle",
+   "color": "#417b8b",
+   "color2": "#184a5a"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    65,
+    65,
+    15
+   ],
+   "from_x": 4
+  },
+  {
+   "op": "text",
+   "text": "스테레오",
+   "rect": [
+    4,
+    65,
+    63,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "align": "center",
+   "valign": "middle",
+   "color": "#73f6ff",
+   "color2": "#39c5ee",
+   "shadow": [
+    0,
+    1,
+    "#1031ac"
+   ]
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    72,
+    65,
+    65,
+    15
+   ],
+   "from_x": 4
+  },
+  {
+   "op": "text",
+   "text": "서라운드",
+   "rect": [
+    73,
+    65,
+    63,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "align": "center",
+   "valign": "middle",
+   "color": "#73f6ff",
+   "color2": "#39c5ee",
+   "shadow": [
+    0,
+    1,
+    "#1031ac"
+   ]
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    141,
+    65,
+    65,
+    15
+   ],
+   "from_x": 4
+  },
+  {
+   "op": "text",
+   "text": "헤드폰",
+   "rect": [
+    142,
+    65,
+    63,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "align": "center",
+   "valign": "middle",
+   "color": "#73f6ff",
+   "color2": "#39c5ee",
+   "shadow": [
+    0,
+    1,
+    "#1031ac"
+   ]
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    84,
+    65,
+    14
+   ],
+   "from_x": 4
+  },
+  {
+   "op": "text",
+   "text": "사용자",
+   "rect": [
+    4,
+    84,
+    63,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "align": "center",
+   "valign": "middle",
+   "color": "#417b8b",
+   "color2": "#184a5a"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    72,
+    84,
+    65,
+    14
+   ],
+   "from_x": 4
+  },
+  {
+   "op": "text",
+   "text": "일반",
+   "rect": [
+    73,
+    84,
+    63,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "align": "center",
+   "valign": "middle",
+   "color": "#417b8b",
+   "color2": "#184a5a"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    141,
+    84,
+    65,
+    14
+   ],
+   "from_x": 4
+  },
+  {
+   "op": "text",
+   "text": "기계",
+   "rect": [
+    142,
+    84,
+    63,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "align": "center",
+   "valign": "middle",
+   "color": "#417b8b",
+   "color2": "#184a5a"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    101,
+    65,
+    15
+   ],
+   "from_x": 4
+  },
+  {
+   "op": "text",
+   "text": "사용자",
+   "rect": [
+    4,
+    101,
+    63,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "align": "center",
+   "valign": "middle",
+   "color": "#73f6ff",
+   "color2": "#39c5ee",
+   "shadow": [
+    0,
+    1,
+    "#1031ac"
+   ]
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    72,
+    101,
+    65,
+    15
+   ],
+   "from_x": 4
+  },
+  {
+   "op": "text",
+   "text": "일반",
+   "rect": [
+    73,
+    101,
+    63,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "align": "center",
+   "valign": "middle",
+   "color": "#73f6ff",
+   "color2": "#39c5ee",
+   "shadow": [
+    0,
+    1,
+    "#1031ac"
+   ]
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    141,
+    101,
+    65,
+    15
+   ],
+   "from_x": 4
+  },
+  {
+   "op": "text",
+   "text": "기계",
+   "rect": [
+    142,
+    101,
+    63,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "align": "center",
+   "valign": "middle",
+   "color": "#73f6ff",
+   "color2": "#39c5ee",
+   "shadow": [
+    0,
+    1,
+    "#1031ac"
+   ]
+  }
+ ]
+}

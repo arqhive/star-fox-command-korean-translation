@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    127
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "DS 본체의 Wi-Fi 사용자 정보가\n지워졌을 가능성이 있습니다.\nWi-Fi 커넥션 설정에서\n접속 설정을 확인해 주십시오.",
+   "rect": [
+    29,
+    26,
+    173,
+    96
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 7
+  }
+ ]
+}

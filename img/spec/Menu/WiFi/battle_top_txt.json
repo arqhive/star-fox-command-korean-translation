@@ -1,0 +1,6 @@
+{"edits": [
+ {"op": "hfill", "rect": [7, 6, 82, 13], "from_x": 6},
+ {"op": "text", "text": "배틀 로열", "rect": [8, 5, 80, 15], "font": "malgunbd", "size": 13, "bold": 1, "color": "#e6ffee", "color2": "#d5ffe6", "shadow": [1, 1, "#2983c5"], "spacing": 1, "align": "left", "valign": "middle"},
+ {"op": "hfill", "rect": [7, 80, 82, 13], "from_x": 6},
+ {"op": "text", "text": "프리 배틀", "rect": [8, 79, 80, 15], "font": "malgunbd", "size": 13, "bold": 1, "color": "#e6ffee", "color2": "#d5ffe6", "shadow": [1, 1, "#2983c5"], "spacing": 1, "align": "left", "valign": "middle"}
+]}

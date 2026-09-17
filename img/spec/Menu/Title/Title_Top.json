@@ -1,0 +1,4 @@
+{"edits": [
+ {"op": "copy", "src": [56, 142, 146, 13], "dst": [56, 129]},
+ {"op": "text", "text": "스타폭스 커맨드", "rect": [56, 128, 146, 14], "font": "malgunbd", "size": 13, "spacing": 1, "bold": 1, "color": "#ffffff", "shadow": [1, 1, "#106262"], "align": "center", "valign": "middle"}
+]}

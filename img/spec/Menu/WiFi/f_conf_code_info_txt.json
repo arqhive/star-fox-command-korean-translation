@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    166,
+    58
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "당신의 친구 코드는",
+   "rect": [
+    31,
+    1,
+    134,
+    58
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle",
+   "line_gap": 7
+  }
+ ]
+}

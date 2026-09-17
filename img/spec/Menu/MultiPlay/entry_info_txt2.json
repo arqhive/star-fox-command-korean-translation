@@ -1,0 +1,77 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    182,
+    102
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "대전 인원은 최대 6명",
+   "rect": [
+    4,
+    22,
+    176,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "shadow": [
+    1,
+    1,
+    "#acd5c5"
+   ],
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "\"마감\"을 터치하면",
+   "rect": [
+    4,
+    48,
+    176,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "shadow": [
+    1,
+    1,
+    "#acd5c5"
+   ],
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "다음으로 진행합니다",
+   "rect": [
+    4,
+    72,
+    176,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "shadow": [
+    1,
+    1,
+    "#acd5c5"
+   ],
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

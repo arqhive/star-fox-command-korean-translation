@@ -1,0 +1,88 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    7,
+    46,
+    20,
+    9
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    27,
+    46,
+    20,
+    9
+   ],
+   "from_x": 47
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    63,
+    46,
+    20,
+    9
+   ],
+   "from_x": 62
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    83,
+    46,
+    20,
+    9
+   ],
+   "from_x": 103
+  },
+  {
+   "op": "text",
+   "text": "벨티노",
+   "rect": [
+    0,
+    43,
+    54,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "shadow": [
+    1,
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "op": "text",
+   "text": "벨티노",
+   "rect": [
+    56,
+    43,
+    54,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "shadow": [
+    1,
+    1,
+    "#000000"
+   ]
+  }
+ ]
+}

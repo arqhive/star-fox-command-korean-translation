@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    94
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "DS 무선 통신을\n사용할 수 없습니다.\n전원을 꺼 주십시오.",
+   "rect": [
+    60,
+    18,
+    111,
+    72
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 7
+  }
+ ]
+}

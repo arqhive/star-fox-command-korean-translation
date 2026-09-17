@@ -1,0 +1,14 @@
+# 게임 롬·빌드 결과 (저작권 — 절대 올리지 않음)
+*.nds
+*.srl
+rom/
+out/
+
+# 롬에서 추출되는 원문·작업 파일
+trans/src/
+img/work/
+ext_*/
+dump/
+
+__pycache__/
+*.pyc

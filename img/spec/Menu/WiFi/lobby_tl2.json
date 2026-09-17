@@ -1,0 +1,53 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    128,
+    32
+   ]
+  },
+  {
+   "op": "text",
+   "text": "배틀 로열",
+   "rect": [
+    1,
+    1,
+    100,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "align": "left",
+   "shadow": [
+    -1,
+    1,
+    "#399494"
+   ]
+  },
+  {
+   "op": "text",
+   "text": "프리 배틀",
+   "rect": [
+    17,
+    16,
+    84,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "align": "left",
+   "shadow": [
+    -1,
+    1,
+    "#399494"
+   ]
+  }
+ ]
+}

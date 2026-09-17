@@ -1,0 +1,120 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    238,
+    18
+   ],
+   "color": "#10839c"
+  },
+  {
+   "op": "text",
+   "text": "크리스탈",
+   "rect": [
+    1,
+    1,
+    238,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    84,
+    20,
+    155,
+    104
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "스타폭스의",
+   "rect": [
+    88,
+    25,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "전 멤버이자",
+   "rect": [
+    88,
+    45,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "폭스의 옛 연인",
+   "rect": [
+    88,
+    65,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "강하고 상냥한 그녀지만",
+   "rect": [
+    88,
+    85,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "기가 너무 센 면도 있다",
+   "rect": [
+    88,
+    105,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  }
+ ]
+}

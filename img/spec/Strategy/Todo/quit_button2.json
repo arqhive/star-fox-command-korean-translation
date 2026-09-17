@@ -1,0 +1,4 @@
+{"edits": [
+  {"op": "hfill", "rect": [10,6,46,16], "from_x": 7},
+  {"op": "text", "text": "그만두기", "rect": [4,6,56,14], "font": "malgunbd", "size": 11, "bold": 0, "color": "#ffffff", "align": "center", "valign": "middle", "aa": false}
+]}

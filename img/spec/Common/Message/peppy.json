@@ -1,0 +1,88 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    12,
+    46,
+    16,
+    9
+   ],
+   "from_x": 11
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    28,
+    46,
+    16,
+    9
+   ],
+   "from_x": 44
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    68,
+    46,
+    16,
+    9
+   ],
+   "from_x": 67
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    84,
+    46,
+    16,
+    9
+   ],
+   "from_x": 100
+  },
+  {
+   "op": "text",
+   "text": "페피",
+   "rect": [
+    1,
+    43,
+    54,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "shadow": [
+    1,
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "op": "text",
+   "text": "페피",
+   "rect": [
+    57,
+    43,
+    54,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "shadow": [
+    1,
+    1,
+    "#000000"
+   ]
+  }
+ ]
+}

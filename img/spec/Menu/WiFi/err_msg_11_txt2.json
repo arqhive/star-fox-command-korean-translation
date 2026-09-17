@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    127
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "통신 에러로 인해\nWi-Fi 커넥션과의 연결이\n끊어졌습니다.",
+   "rect": [
+    49,
+    1,
+    180,
+    127
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle",
+   "line_gap": 7
+  }
+ ]
+}

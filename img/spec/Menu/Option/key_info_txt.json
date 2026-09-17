@@ -1,0 +1,46 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    4,
+    10,
+    156,
+    48
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "닉네임을",
+   "rect": [
+    34,
+    15,
+    126,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "입력해 주세요",
+   "rect": [
+    34,
+    39,
+    126,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  }
+ ]
+}

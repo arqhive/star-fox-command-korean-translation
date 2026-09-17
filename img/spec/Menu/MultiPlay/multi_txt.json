@@ -1,0 +1,4 @@
+{"edits": [
+ {"op": "hfill", "rect": [26, 4, 84, 19], "from_x": 27},
+ {"op": "text", "text": "파일럿 모집", "rect": [29, 6, 80, 17], "font": "malgunbd", "size": 13, "bold": 1, "color": "#d5ffe6", "align": "left", "valign": "middle"}
+]}

@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    127
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "액세스 포인트를 찾을 수 없습니다.\n액세스 포인트에 가까이 가서\n다시 시도해 주십시오.",
+   "rect": [
+    22,
+    1,
+    207,
+    127
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle",
+   "line_gap": 7
+  }
+ ]
+}

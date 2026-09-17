@@ -1,0 +1,342 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "코네리아",
+   "rect": [
+    2,
+    1,
+    120,
+    14
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 14,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    16,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "코네리아",
+   "rect": [
+    2,
+    18,
+    56,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    61,
+    16,
+    12,
+    16
+   ],
+   "dst": [
+    58,
+    16
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    32,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "코네리아",
+   "rect": [
+    2,
+    34,
+    56,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    61,
+    32,
+    12,
+    16
+   ],
+   "dst": [
+    58,
+    32
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    48,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "코네리아",
+   "rect": [
+    2,
+    50,
+    56,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    61,
+    48,
+    12,
+    16
+   ],
+   "dst": [
+    58,
+    48
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    64,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "코네리아",
+   "rect": [
+    2,
+    66,
+    56,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    61,
+    64,
+    12,
+    16
+   ],
+   "dst": [
+    58,
+    64
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    80,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "코네리아",
+   "rect": [
+    2,
+    82,
+    56,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    61,
+    80,
+    12,
+    16
+   ],
+   "dst": [
+    58,
+    80
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    96,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "코네리아",
+   "rect": [
+    2,
+    98,
+    56,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    61,
+    96,
+    12,
+    16
+   ],
+   "dst": [
+    58,
+    96
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    112,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "코네리아",
+   "rect": [
+    2,
+    114,
+    56,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    61,
+    112,
+    12,
+    16
+   ],
+   "dst": [
+    58,
+    112
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    128,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "코네리아",
+   "rect": [
+    2,
+    130,
+    56,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    61,
+    128,
+    12,
+    16
+   ],
+   "dst": [
+    58,
+    128
+   ]
+  }
+ ]
+}

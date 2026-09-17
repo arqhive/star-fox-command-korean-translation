@@ -1,0 +1,9 @@
+{"edits": [
+  {"op": "fill", "rect": [121, 0, 135, 124], "color": "#d5ffe6"},
+  {"op": "text", "text": "터치펜을 사용해", "rect": [123, 10, 133, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "파이터에서부터", "rect": [123, 30, 133, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "비행 루트를 그립니다", "rect": [123, 50, 133, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "루트를 다시 그릴 때는", "rect": [123, 70, 133, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "다시 한 번 파이터를", "rect": [123, 90, 133, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "터치해 주세요", "rect": [123, 110, 133, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"}
+]}

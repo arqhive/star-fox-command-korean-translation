@@ -1,0 +1,275 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    238,
+    18
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    19,
+    39,
+    13
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    47,
+    19,
+    40,
+    13
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    97,
+    19,
+    41,
+    13
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    148,
+    19,
+    38,
+    13
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    32,
+    120,
+    22
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    58,
+    120,
+    21
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    82,
+    120,
+    21
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    113,
+    120,
+    14
+   ]
+  },
+  {
+   "font": "malgunbd",
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#317b7b",
+   "outline_w": 1,
+   "valign": "middle",
+   "aa": false,
+   "op": "text",
+   "text": "트레이닝",
+   "rect": [
+    0,
+    0,
+    106,
+    17
+   ],
+   "size": 16,
+   "align": "left"
+  },
+  {
+   "font": "malgunbd",
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#317b7b",
+   "outline_w": 1,
+   "valign": "middle",
+   "aa": false,
+   "op": "text",
+   "text": "레벨 선택",
+   "rect": [
+    112,
+    0,
+    124,
+    17
+   ],
+   "size": 16,
+   "align": "left"
+  },
+  {
+   "font": "malgunbd",
+   "bold": 0,
+   "color": "#ffffff",
+   "outline": "#317b7b",
+   "outline_w": 1,
+   "valign": "middle",
+   "aa": false,
+   "op": "text",
+   "text": "레벨",
+   "rect": [
+    0,
+    21,
+    37,
+    10
+   ],
+   "size": 11,
+   "align": "center"
+  },
+  {
+   "font": "malgunbd",
+   "bold": 0,
+   "color": "#ffffff",
+   "outline": "#317b7b",
+   "outline_w": 1,
+   "valign": "middle",
+   "aa": false,
+   "op": "text",
+   "text": "레벨",
+   "rect": [
+    49,
+    21,
+    37,
+    10
+   ],
+   "size": 11,
+   "align": "center"
+  },
+  {
+   "font": "malgunbd",
+   "bold": 0,
+   "color": "#ffffff",
+   "outline": "#317b7b",
+   "outline_w": 1,
+   "valign": "middle",
+   "aa": false,
+   "op": "text",
+   "text": "레벨",
+   "rect": [
+    98,
+    21,
+    38,
+    10
+   ],
+   "size": 11,
+   "align": "center"
+  },
+  {
+   "font": "malgunbd",
+   "bold": 0,
+   "color": "#ffffff",
+   "outline": "#317b7b",
+   "outline_w": 1,
+   "valign": "middle",
+   "aa": false,
+   "op": "text",
+   "text": "레벨",
+   "rect": [
+    149,
+    21,
+    36,
+    10
+   ],
+   "size": 11,
+   "align": "center"
+  },
+  {
+   "font": "malgunbd",
+   "bold": 0,
+   "color": "#ffffff",
+   "outline": "#317b7b",
+   "outline_w": 1,
+   "valign": "middle",
+   "aa": false,
+   "op": "text",
+   "text": "파이터 조작",
+   "rect": [
+    1,
+    41,
+    110,
+    13
+   ],
+   "size": 12,
+   "align": "left"
+  },
+  {
+   "font": "malgunbd",
+   "bold": 0,
+   "color": "#ffffff",
+   "outline": "#317b7b",
+   "outline_w": 1,
+   "valign": "middle",
+   "aa": false,
+   "op": "text",
+   "text": "기본 전투 방법",
+   "rect": [
+    1,
+    66,
+    110,
+    13
+   ],
+   "size": 12,
+   "align": "left"
+  },
+  {
+   "font": "malgunbd",
+   "bold": 0,
+   "color": "#ffffff",
+   "outline": "#317b7b",
+   "outline_w": 1,
+   "valign": "middle",
+   "aa": false,
+   "op": "text",
+   "text": "롤링 사용법",
+   "rect": [
+    1,
+    90,
+    110,
+    13
+   ],
+   "size": 12,
+   "align": "left"
+  },
+  {
+   "font": "malgunbd",
+   "bold": 0,
+   "color": "#ffffff",
+   "outline": "#317b7b",
+   "outline_w": 1,
+   "valign": "middle",
+   "aa": false,
+   "op": "text",
+   "text": "타임 배틀",
+   "rect": [
+    1,
+    114,
+    110,
+    13
+   ],
+   "size": 12,
+   "align": "left"
+  }
+ ]
+}

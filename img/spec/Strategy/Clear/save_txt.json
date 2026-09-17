@@ -1,0 +1,4 @@
+{"edits": [
+  {"op": "hfill", "rect": [12,4,60,16], "from_x": 8},
+  {"op": "text", "text": "저장", "rect": [4,5,72,14], "font": "malgunbd", "size": 12, "bold": 1, "color": "#deffee", "color2": "#accdc5", "align": "center", "valign": "middle"}
+]}

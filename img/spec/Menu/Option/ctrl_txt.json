@@ -1,0 +1,416 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    4,
+    2,
+    120,
+    14
+   ],
+   "from_x": 3
+  },
+  {
+   "op": "text",
+   "text": "타입 A (일반)",
+   "rect": [
+    4,
+    2,
+    120,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#c5eed5",
+   "shadow": [
+    1,
+    1,
+    "#00738b"
+   ],
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    47,
+    20,
+    32,
+    5
+   ],
+   "color": "#9cdeb4"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    47,
+    25,
+    32,
+    3
+   ],
+   "color": "#9cdeb4"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    48,
+    27,
+    28,
+    13
+   ],
+   "color": "#9cdeb4"
+  },
+  {
+   "op": "text",
+   "text": "상승",
+   "rect": [
+    46,
+    24,
+    30,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#ff2918",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    46,
+    96,
+    38,
+    20
+   ],
+   "color": "#9cdeb4"
+  },
+  {
+   "op": "text",
+   "text": "하강",
+   "rect": [
+    48,
+    99,
+    30,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#1841ff",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    132,
+    2,
+    120,
+    14
+   ],
+   "from_x": 131
+  },
+  {
+   "op": "text",
+   "text": "타입 B (반전)",
+   "rect": [
+    132,
+    2,
+    120,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#c5eed5",
+   "shadow": [
+    1,
+    1,
+    "#00738b"
+   ],
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    175,
+    20,
+    32,
+    5
+   ],
+   "color": "#9cdeb4"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    175,
+    25,
+    32,
+    3
+   ],
+   "color": "#9cdeb4"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    176,
+    27,
+    28,
+    13
+   ],
+   "color": "#9cdeb4"
+  },
+  {
+   "op": "text",
+   "text": "하강",
+   "rect": [
+    174,
+    24,
+    30,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#1841ff",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    174,
+    96,
+    38,
+    20
+   ],
+   "color": "#9cdeb4"
+  },
+  {
+   "op": "text",
+   "text": "상승",
+   "rect": [
+    176,
+    99,
+    30,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#ff2918",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    260,
+    2,
+    120,
+    14
+   ],
+   "from_x": 259
+  },
+  {
+   "op": "text",
+   "text": "타입 C (일반)",
+   "rect": [
+    260,
+    2,
+    120,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#c5eed5",
+   "shadow": [
+    1,
+    1,
+    "#00738b"
+   ],
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    303,
+    20,
+    32,
+    5
+   ],
+   "color": "#9cdeb4"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    303,
+    25,
+    32,
+    3
+   ],
+   "color": "#9cdeb4"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    304,
+    27,
+    28,
+    13
+   ],
+   "color": "#9cdeb4"
+  },
+  {
+   "op": "text",
+   "text": "상승",
+   "rect": [
+    302,
+    24,
+    30,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#ff2918",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    302,
+    96,
+    38,
+    20
+   ],
+   "color": "#9cdeb4"
+  },
+  {
+   "op": "text",
+   "text": "하강",
+   "rect": [
+    304,
+    99,
+    30,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#1841ff",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    388,
+    2,
+    120,
+    14
+   ],
+   "from_x": 387
+  },
+  {
+   "op": "text",
+   "text": "타입 D (반전)",
+   "rect": [
+    388,
+    2,
+    120,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#c5eed5",
+   "shadow": [
+    1,
+    1,
+    "#00738b"
+   ],
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    431,
+    20,
+    32,
+    5
+   ],
+   "color": "#9cdeb4"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    431,
+    25,
+    32,
+    3
+   ],
+   "color": "#9cdeb4"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    432,
+    27,
+    28,
+    13
+   ],
+   "color": "#9cdeb4"
+  },
+  {
+   "op": "text",
+   "text": "하강",
+   "rect": [
+    430,
+    24,
+    30,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#1841ff",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    430,
+    96,
+    38,
+    20
+   ],
+   "color": "#9cdeb4"
+  },
+  {
+   "op": "text",
+   "text": "상승",
+   "rect": [
+    432,
+    99,
+    30,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#ff2918",
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

@@ -1,0 +1,563 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    64,
+    226
+   ]
+  },
+  {
+   "op": "text",
+   "text": "나우스",
+   "rect": [
+    3,
+    1,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "폭스",
+   "rect": [
+    3,
+    10,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "크리스탈",
+   "rect": [
+    3,
+    19,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "팔코",
+   "rect": [
+    3,
+    28,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "슬리피",
+   "rect": [
+    3,
+    37,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "애시",
+   "rect": [
+    3,
+    46,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "울프",
+   "rect": [
+    3,
+    55,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "레온",
+   "rect": [
+    3,
+    64,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "팬서",
+   "rect": [
+    3,
+    73,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "옥토맨",
+   "rect": [
+    3,
+    82,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "빌",
+   "rect": [
+    3,
+    91,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "루시",
+   "rect": [
+    3,
+    100,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "아만다",
+   "rect": [
+    3,
+    109,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "캣",
+   "rect": [
+    3,
+    118,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "페피",
+   "rect": [
+    3,
+    127,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "제임스",
+   "rect": [
+    3,
+    136,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "크리스탈",
+   "rect": [
+    3,
+    145,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "벨티노",
+   "rect": [
+    3,
+    154,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "피그마",
+   "rect": [
+    3,
+    163,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "오이코니",
+   "rect": [
+    3,
+    172,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "자잔",
+   "rect": [
+    3,
+    181,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "샤먼",
+   "rect": [
+    3,
+    190,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "조르게",
+   "rect": [
+    3,
+    199,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "앵글러",
+   "rect": [
+    3,
+    208,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  },
+  {
+   "op": "text",
+   "text": "안돌프",
+   "rect": [
+    3,
+    217,
+    48,
+    8
+   ],
+   "font": "gulim",
+   "size": 9,
+   "color": "#00205a",
+   "shadow": [
+    1,
+    1,
+    "#e6e6e6"
+   ],
+   "align": "center",
+   "valign": "top",
+   "aa": false,
+   "spacing": 1
+  }
+ ]
+}

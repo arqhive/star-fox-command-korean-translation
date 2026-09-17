@@ -1,0 +1,120 @@
+{
+ "edits": [
+  {
+   "op": "vfill",
+   "rect": [
+    14,
+    51,
+    27,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    9,
+    51,
+    5,
+    8
+   ],
+   "from_x": 8
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    41,
+    51,
+    6,
+    8
+   ],
+   "from_x": 47
+  },
+  {
+   "op": "clear",
+   "rect": [
+    9,
+    59,
+    38,
+    1
+   ]
+  },
+  {
+   "op": "vfill",
+   "rect": [
+    70,
+    51,
+    27,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    65,
+    51,
+    5,
+    8
+   ],
+   "from_x": 64
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    97,
+    51,
+    6,
+    8
+   ],
+   "from_x": 103
+  },
+  {
+   "op": "clear",
+   "rect": [
+    65,
+    59,
+    38,
+    1
+   ]
+  },
+  {
+   "op": "text",
+   "text": "폭스",
+   "rect": [
+    4,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "폭스",
+   "rect": [
+    60,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  }
+ ]
+}

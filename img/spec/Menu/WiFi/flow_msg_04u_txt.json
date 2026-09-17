@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    127
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "이 DS 본체의 Wi-Fi 사용자 정보를\nDS 카드에 저장했습니다.\n앞으로 Wi-Fi 커넥션에 접속할 때는\n이 DS 본체를 사용해 주십시오.",
+   "rect": [
+    19,
+    26,
+    193,
+    96
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 7
+  }
+ ]
+}

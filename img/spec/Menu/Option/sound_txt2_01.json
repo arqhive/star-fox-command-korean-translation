@@ -1,0 +1,66 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    3,
+    107,
+    16
+   ],
+   "from_x": 3
+  },
+  {
+   "op": "text",
+   "text": "모드",
+   "rect": [
+    4,
+    5,
+    106,
+    12
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#c5eed5",
+   "shadow": [
+    1,
+    1,
+    "#00738b"
+   ],
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    42,
+    107,
+    16
+   ],
+   "from_x": 3
+  },
+  {
+   "op": "text",
+   "text": "음성",
+   "rect": [
+    4,
+    44,
+    106,
+    12
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#c5eed5",
+   "shadow": [
+    1,
+    1,
+    "#00738b"
+   ],
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

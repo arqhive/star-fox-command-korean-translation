@@ -1,0 +1,130 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    238,
+    18
+   ],
+   "color": "#10839c"
+  },
+  {
+   "op": "text",
+   "text": "페피 헤어",
+   "rect": [
+    1,
+    1,
+    238,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    82,
+    20,
+    157,
+    80
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    84,
+    100,
+    155,
+    24
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "행성 코네리아의 장군",
+   "rect": [
+    88,
+    25,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "전 스타폭스의",
+   "rect": [
+    88,
+    45,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "멤버로 폭스에게는",
+   "rect": [
+    88,
+    65,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "아버지 같은 존재. 폭스의",
+   "rect": [
+    88,
+    85,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "아버지와도 사이가 좋았다",
+   "rect": [
+    88,
+    105,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  }
+ ]
+}

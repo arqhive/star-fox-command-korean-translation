@@ -1,0 +1,5 @@
+{"edits": [
+  {"op": "clear", "rect": [0,0,256,32]},
+  {"op": "text", "text": "타깃을 격파하라", "rect": [0,1,256,15], "font": "gulim", "size": 13, "bold": 0, "color": "#ffffff", "shadow": [1,1,"#414141"], "align": "center", "valign": "middle", "aa": false},
+  {"op": "text", "text": "타깃을 격파하라", "rect": [0,17,256,15], "font": "gulim", "size": 13, "bold": 0, "color": "#00ff8b", "shadow": [1,1,"#414141"], "align": "center", "valign": "middle", "aa": false}
+]}

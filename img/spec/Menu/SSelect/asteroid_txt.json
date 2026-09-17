@@ -1,0 +1,225 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "소행성대",
+   "rect": [
+    2,
+    1,
+    120,
+    14
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 14,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    16,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "소행성대",
+   "rect": [
+    2,
+    18,
+    68,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    73,
+    16,
+    12,
+    16
+   ],
+   "dst": [
+    56,
+    16
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    32,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "소행성대",
+   "rect": [
+    2,
+    34,
+    68,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    73,
+    32,
+    12,
+    16
+   ],
+   "dst": [
+    56,
+    32
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    48,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "소행성대",
+   "rect": [
+    2,
+    50,
+    68,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    73,
+    48,
+    12,
+    16
+   ],
+   "dst": [
+    56,
+    48
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    64,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "소행성대",
+   "rect": [
+    2,
+    66,
+    68,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    73,
+    64,
+    12,
+    16
+   ],
+   "dst": [
+    56,
+    64
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    80,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "소행성대",
+   "rect": [
+    2,
+    82,
+    68,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    73,
+    80,
+    12,
+    16
+   ],
+   "dst": [
+    56,
+    80
+   ]
+  }
+ ]
+}

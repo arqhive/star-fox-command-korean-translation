@@ -1,0 +1,66 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    2,
+    2,
+    226,
+    38
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    33,
+    40,
+    166,
+    52
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "이야기를 중단한 곳부터 재개합니다",
+   "rect": [
+    4,
+    10,
+    222,
+    20
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62"
+  },
+  {
+   "op": "text",
+   "text": "처음부터 다시 시작하려면",
+   "rect": [
+    33,
+    48,
+    166,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62"
+  },
+  {
+   "op": "text",
+   "text": "\"아니요\"를 터치해 주세요",
+   "rect": [
+    33,
+    70,
+    166,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62"
+  }
+ ]
+}

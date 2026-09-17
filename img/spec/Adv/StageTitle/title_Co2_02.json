@@ -1,0 +1,53 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    256,
+    64
+   ]
+  },
+  {
+   "op": "text",
+   "text": "코네리아",
+   "rect": [
+    0,
+    3,
+    256,
+    20
+   ],
+   "size": 14,
+   "font": "malgunbd",
+   "color": "#ffffff",
+   "outline": "#414141",
+   "shadow": [
+    1,
+    1,
+    "#737373"
+   ],
+   "bold": 1
+  },
+  {
+   "op": "text",
+   "text": "각자의 선택",
+   "rect": [
+    0,
+    25,
+    256,
+    26
+   ],
+   "size": 19,
+   "font": "malgunbd",
+   "color": "#ffffff",
+   "outline": "#414141",
+   "shadow": [
+    1,
+    1,
+    "#737373"
+   ],
+   "bold": 1
+  }
+ ]
+}

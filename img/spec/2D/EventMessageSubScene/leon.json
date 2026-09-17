@@ -1,0 +1,80 @@
+{
+ "edits": [
+  {
+   "op": "vfill",
+   "rect": [
+    16,
+    51,
+    25,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "clear",
+   "rect": [
+    16,
+    59,
+    25,
+    1
+   ]
+  },
+  {
+   "op": "vfill",
+   "rect": [
+    72,
+    51,
+    25,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "clear",
+   "rect": [
+    72,
+    59,
+    25,
+    1
+   ]
+  },
+  {
+   "op": "text",
+   "text": "레온",
+   "rect": [
+    5,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "레온",
+   "rect": [
+    61,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  }
+ ]
+}

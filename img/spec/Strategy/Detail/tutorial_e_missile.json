@@ -1,0 +1,8 @@
+{"edits": [
+  {"op": "fill", "rect": [125, 8, 131, 104], "color": "#d5ffe6"},
+  {"op": "text", "text": "적 미사일은 비행 금지", "rect": [126, 19, 130, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "구역도 통과합니다", "rect": [126, 39, 130, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "비행 루트로 막을 수", "rect": [126, 59, 130, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "없으므로 직접 접촉", "rect": [126, 79, 130, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "해야 합니다", "rect": [126, 99, 130, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"}
+]}

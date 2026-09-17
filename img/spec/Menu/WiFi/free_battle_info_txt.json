@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    101
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "친구 배틀은 친구 목록에\n등록된 친구와 대전합니다.\n랜덤 배틀은 누구와도\n대전할 수 있습니다.",
+   "rect": [
+    42,
+    12,
+    147,
+    96
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 7
+  }
+ ]
+}

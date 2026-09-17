@@ -1,0 +1,34 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    256,
+    32
+   ]
+  },
+  {
+   "op": "text",
+   "text": "친구 목록",
+   "rect": [
+    60,
+    3,
+    136,
+    20
+   ],
+   "font": "malgunbd",
+   "size": 16,
+   "bold": 1,
+   "color": "#b4f6ee",
+   "align": "center",
+   "color2": "#83e6d5",
+   "shadow": [
+    1,
+    1,
+    "#528383"
+   ]
+  }
+ ]
+}

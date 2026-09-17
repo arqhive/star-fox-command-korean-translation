@@ -1,0 +1,58 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    128,
+    128
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Wi-Fi 대전",
+   "rect": [
+    3,
+    1,
+    96,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#000000",
+   "align": "left"
+  },
+  {
+   "op": "text",
+   "text": "친구 코드",
+   "rect": [
+    3,
+    17,
+    96,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#000000",
+   "align": "left"
+  },
+  {
+   "op": "text",
+   "text": "Wi-Fi 설정",
+   "rect": [
+    3,
+    33,
+    96,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#000000",
+   "align": "left"
+  }
+ ]
+}

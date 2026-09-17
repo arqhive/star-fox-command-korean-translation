@@ -1,0 +1,8 @@
+{"edits": [
+  {"op": "copy", "src": [16, 0, 96, 103], "dst": [112, 0]},
+  {"op": "copy", "src": [16, 0, 48, 103], "dst": [208, 0]},
+  {"op": "text", "text": "그레이트폭스까지", "rect": [120, 16, 134, 15], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#f6cdcd", "outline": "#180000", "outline_w": 1, "align": "left", "valign": "middle"},
+  {"op": "text", "text": "일직선으로 비행한다", "rect": [120, 36, 134, 15], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#f6cdcd", "outline": "#180000", "outline_w": 1, "align": "left", "valign": "middle"},
+  {"op": "text", "text": "비행 금지 구역도", "rect": [120, 56, 134, 15], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#f6cdcd", "outline": "#180000", "outline_w": 1, "align": "left", "valign": "middle"},
+  {"op": "text", "text": "통과할 수 있다", "rect": [120, 76, 134, 15], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#f6cdcd", "outline": "#180000", "outline_w": 1, "align": "left", "valign": "middle"}
+]}

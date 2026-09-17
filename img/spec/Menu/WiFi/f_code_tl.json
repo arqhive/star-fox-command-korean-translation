@@ -1,0 +1,36 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    256,
+    32
+   ]
+  },
+  {
+   "op": "text",
+   "text": "친구 코드",
+   "rect": [
+    0,
+    4,
+    256,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 15,
+   "bold": 1,
+   "color": "#b4f6ee",
+   "color2": "#73e6de",
+   "shadow": [
+    1,
+    1,
+    "#20525a"
+   ],
+   "align": "center",
+   "valign": "middle",
+   "spacing": 1
+  }
+ ]
+}

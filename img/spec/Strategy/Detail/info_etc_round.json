@@ -1,0 +1,9 @@
+{"edits": [
+  {"op": "fill", "rect": [0, 0, 256, 103], "color": "#002020"},
+  {"op": "text", "text": "라운드 캡슐", "rect": [4, 6, 100, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "center", "valign": "middle"},
+  {"op": "text", "text": "그레이트폭스의 연료", "rect": [110, 6, 144, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
+  {"op": "text", "text": "1라운드가 지날 때마다", "rect": [110, 26, 144, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
+  {"op": "text", "text": "캡슐을 1개 소비한다", "rect": [110, 45, 144, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
+  {"op": "text", "text": "캡슐이 다 떨어지면", "rect": [110, 64, 144, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
+  {"op": "text", "text": "임무 실패가 된다", "rect": [110, 83, 144, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"}
+]}

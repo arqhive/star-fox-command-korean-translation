@@ -1,0 +1,120 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    238,
+    18
+   ],
+   "color": "#10839c"
+  },
+  {
+   "op": "text",
+   "text": "아만다",
+   "rect": [
+    1,
+    1,
+    238,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    84,
+    20,
+    155,
+    104
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "슬리피의 연인",
+   "rect": [
+    88,
+    25,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "둘은 2년 전에 만났는데",
+   "rect": [
+    88,
+    45,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "아만다가 슬리피에게",
+   "rect": [
+    88,
+    65,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "첫눈에 반했다...고 한다",
+   "rect": [
+    88,
+    85,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "적극적인 타입",
+   "rect": [
+    88,
+    105,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  }
+ ]
+}

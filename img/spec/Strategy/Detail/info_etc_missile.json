@@ -1,0 +1,9 @@
+{"edits": [
+  {"op": "fill", "rect": [0, 0, 256, 103], "color": "#002020"},
+  {"op": "text", "text": "미사일 캡슐", "rect": [4, 6, 100, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "center", "valign": "middle"},
+  {"op": "text", "text": "그레이트폭스에", "rect": [120, 6, 134, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
+  {"op": "text", "text": "탑재되는 미사일", "rect": [120, 26, 134, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
+  {"op": "text", "text": "맵 위의 적을 1발로", "rect": [120, 46, 134, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
+  {"op": "text", "text": "파괴할 수 있다", "rect": [120, 66, 134, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
+  {"op": "text", "text": "3발까지 비축 가능", "rect": [120, 86, 134, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"}
+]}

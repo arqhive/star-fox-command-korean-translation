@@ -1,0 +1,59 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    207,
+    154,
+    32
+   ],
+   "from_x": 10
+  },
+  {
+   "op": "text",
+   "text": "미션을\n다시 하시겠습니까?",
+   "rect": [
+    4,
+    207,
+    152,
+    32
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "align": "center",
+   "valign": "middle",
+   "aa": false,
+   "line_gap": 3
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    370,
+    154,
+    20
+   ],
+   "from_x": 10
+  },
+  {
+   "op": "text",
+   "text": "정말 그만두시겠습니까?",
+   "rect": [
+    4,
+    370,
+    152,
+    20
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "align": "center",
+   "valign": "middle",
+   "aa": false
+  }
+ ]
+}

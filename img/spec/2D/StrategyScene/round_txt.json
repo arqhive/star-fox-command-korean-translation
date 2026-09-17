@@ -1,0 +1,4 @@
+{"edits": [
+  {"op": "clear", "rect": [97,0,96,58]},
+  {"op": "text", "text": "남은", "rect": [97,2,96,54], "font": "malgunbd", "size": 44, "bold": 1, "color": "#ffffff", "outline": "#ffffff", "outline_w": 1, "shadow": [1,1,"#a4a4a4"], "align": "center", "valign": "middle", "aa": true}
+]}

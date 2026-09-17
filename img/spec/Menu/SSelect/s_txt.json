@@ -1,0 +1,238 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    2,
+    106,
+    20
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    26,
+    106,
+    20
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    50,
+    106,
+    20
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    74,
+    106,
+    20
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    98,
+    106,
+    20
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    122,
+    106,
+    20
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    146,
+    106,
+    20
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    170,
+    106,
+    20
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    194,
+    106,
+    20
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "text",
+   "text": "코네리아",
+   "rect": [
+    4,
+    3,
+    104,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#184a5a",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "소행성대",
+   "rect": [
+    4,
+    27,
+    104,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#184a5a",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "피치나",
+   "rect": [
+    4,
+    51,
+    104,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#184a5a",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "카티나",
+   "rect": [
+    4,
+    75,
+    104,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#184a5a",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "아쿠아스",
+   "rect": [
+    4,
+    99,
+    104,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#184a5a",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "솔라",
+   "rect": [
+    4,
+    123,
+    104,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#184a5a",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "타이타니아",
+   "rect": [
+    4,
+    147,
+    104,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#184a5a",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "베놈",
+   "rect": [
+    4,
+    171,
+    104,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#184a5a",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "섹터",
+   "rect": [
+    4,
+    195,
+    104,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#184a5a",
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

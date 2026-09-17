@@ -1,0 +1,6 @@
+{"edits": [
+  {"op": "fill", "rect": [100, 22, 156, 80], "color": "#d5ffe6"},
+  {"op": "text", "text": "미사일 캡슐", "rect": [105, 27, 151, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "서플라이 서클", "rect": [105, 57, 151, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "연료 셀", "rect": [105, 89, 151, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"}
+]}

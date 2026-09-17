@@ -1,0 +1,88 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    13,
+    46,
+    15,
+    9
+   ],
+   "from_x": 12
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    28,
+    46,
+    15,
+    9
+   ],
+   "from_x": 43
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    69,
+    46,
+    15,
+    9
+   ],
+   "from_x": 68
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    84,
+    46,
+    15,
+    9
+   ],
+   "from_x": 99
+  },
+  {
+   "op": "text",
+   "text": "팔코",
+   "rect": [
+    1,
+    43,
+    54,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "shadow": [
+    1,
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "op": "text",
+   "text": "팔코",
+   "rect": [
+    57,
+    43,
+    54,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "shadow": [
+    1,
+    1,
+    "#000000"
+   ]
+  }
+ ]
+}

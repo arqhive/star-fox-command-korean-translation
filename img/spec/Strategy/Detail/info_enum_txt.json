@@ -1,0 +1,139 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    28,
+    31,
+    23
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    44,
+    28,
+    108,
+    23
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    153,
+    28,
+    53,
+    34
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    206,
+    28,
+    40,
+    23
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    196,
+    50,
+    26,
+    12
+   ]
+  },
+  {
+   "op": "text",
+   "text": "남은",
+   "rect": [
+    0,
+    30,
+    31,
+    20
+   ],
+   "font": "malgunbd",
+   "size": 16,
+   "bold": 1,
+   "color": "#ff0808",
+   "outline": "#410000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "다음 라운드에",
+   "rect": [
+    44,
+    30,
+    107,
+    20
+   ],
+   "font": "malgunbd",
+   "size": 16,
+   "bold": 1,
+   "color": "#ff0808",
+   "outline": "#410000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "미사일",
+   "rect": [
+    154,
+    29,
+    51,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#ff0808",
+   "outline": "#410000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "적기",
+   "rect": [
+    154,
+    46,
+    51,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#ff0808",
+   "outline": "#410000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "출현",
+   "rect": [
+    206,
+    30,
+    40,
+    20
+   ],
+   "font": "malgunbd",
+   "size": 16,
+   "bold": 1,
+   "color": "#ff0808",
+   "outline": "#410000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    127
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "친구 목록은 그대로 사용할 수 있지만\nWi-Fi 대전을 하려면 친구가\n다시 친구 목록에\n추가해 주어야 합니다.",
+   "rect": [
+    14,
+    26,
+    204,
+    96
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 7
+  }
+ ]
+}

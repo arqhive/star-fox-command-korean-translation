@@ -1,0 +1,9 @@
+{"edits": [
+  {"op": "fill", "rect": [128, 10, 128, 102], "color": "#d5ffe6"},
+  {"op": "text", "text": "경고!", "rect": [138, 20, 118, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#ff0000", "shadow": [1, 1, "#ee8b7b"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "파이터 잔기가", "rect": [138, 41, 118, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "없어지고", "rect": [138, 61, 118, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "TIME이 0이 되면", "rect": [138, 81, 118, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "임무 실패", "rect": [138, 101, 118, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#ff0000", "shadow": [1, 1, "#ee8b7b"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "입니다", "rect": [191, 101, 65, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"}
+]}

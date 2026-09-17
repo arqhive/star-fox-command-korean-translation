@@ -1,0 +1,58 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    128,
+    128
+   ]
+  },
+  {
+   "op": "text",
+   "text": "친구 목록",
+   "rect": [
+    3,
+    1,
+    96,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#000000",
+   "align": "left"
+  },
+  {
+   "op": "text",
+   "text": "코드 등록",
+   "rect": [
+    3,
+    17,
+    96,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#000000",
+   "align": "left"
+  },
+  {
+   "op": "text",
+   "text": "코드 확인",
+   "rect": [
+    3,
+    33,
+    96,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#000000",
+   "align": "left"
+  }
+ ]
+}

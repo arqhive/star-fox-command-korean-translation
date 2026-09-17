@@ -1,0 +1,133 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    128,
+    128
+   ]
+  },
+  {
+   "op": "text",
+   "text": "모드 선택",
+   "rect": [
+    3,
+    1,
+    96,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "color": "#000000",
+   "align": "left",
+   "bold": 1
+  },
+  {
+   "op": "text",
+   "text": "싱글 플레이",
+   "rect": [
+    3,
+    17,
+    96,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "color": "#000000",
+   "align": "left",
+   "bold": 1
+  },
+  {
+   "op": "text",
+   "text": "멀티 플레이",
+   "rect": [
+    3,
+    33,
+    96,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "color": "#000000",
+   "align": "left",
+   "bold": 1
+  },
+  {
+   "op": "text",
+   "text": "Wi-Fi",
+   "rect": [
+    3,
+    49,
+    96,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "color": "#000000",
+   "align": "left",
+   "bold": 1
+  },
+  {
+   "op": "text",
+   "text": "옵션",
+   "rect": [
+    3,
+    65,
+    96,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "color": "#000000",
+   "align": "left",
+   "bold": 1
+  },
+  {
+   "op": "text",
+   "text": "기록",
+   "rect": [
+    3,
+    81,
+    96,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "color": "#000000",
+   "align": "left",
+   "bold": 1
+  },
+  {
+   "op": "text",
+   "text": "스테이지 선택",
+   "rect": [
+    3,
+    97,
+    96,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "color": "#000000",
+   "align": "left",
+   "bold": 1
+  },
+  {
+   "op": "text",
+   "text": "Test",
+   "rect": [
+    3,
+    113,
+    96,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "color": "#000000",
+   "align": "left",
+   "bold": 1
+  }
+ ]
+}

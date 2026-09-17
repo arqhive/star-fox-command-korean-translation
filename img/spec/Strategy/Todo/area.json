@@ -1,0 +1,98 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    78,
+    52
+   ]
+  },
+  {
+   "op": "text",
+   "text": "미사일 요격",
+   "rect": [
+    1,
+    0,
+    77,
+    10
+   ],
+   "font": "malgun",
+   "size": 9,
+   "bold": 0,
+   "color": "#202020",
+   "align": "left",
+   "valign": "middle",
+   "aa": true
+  },
+  {
+   "op": "text",
+   "text": "적 격파",
+   "rect": [
+    1,
+    10,
+    77,
+    10
+   ],
+   "font": "malgun",
+   "size": 9,
+   "bold": 0,
+   "color": "#202020",
+   "align": "left",
+   "valign": "middle",
+   "aa": true
+  },
+  {
+   "op": "text",
+   "text": "기지 공격",
+   "rect": [
+    1,
+    20,
+    77,
+    10
+   ],
+   "font": "malgun",
+   "size": 9,
+   "bold": 0,
+   "color": "#202020",
+   "align": "left",
+   "valign": "middle",
+   "aa": true
+  },
+  {
+   "op": "text",
+   "text": "탐색",
+   "rect": [
+    1,
+    30,
+    77,
+    10
+   ],
+   "font": "malgun",
+   "size": 9,
+   "bold": 0,
+   "color": "#202020",
+   "align": "left",
+   "valign": "middle",
+   "aa": true
+  },
+  {
+   "op": "text",
+   "text": "구출",
+   "rect": [
+    1,
+    40,
+    77,
+    10
+   ],
+   "font": "malgun",
+   "size": 9,
+   "bold": 0,
+   "color": "#202020",
+   "align": "left",
+   "valign": "middle",
+   "aa": true
+  }
+ ]
+}

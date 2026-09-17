@@ -1,0 +1,6 @@
+{"edits": [
+ {"op": "clear", "rect": [0, 0, 128, 48]},
+ {"op": "text", "text": "노멀", "rect": [2, 2, 60, 13], "font": "malgunbd", "size": 12, "bold": 1, "color": "#000000", "align": "left", "valign": "middle"},
+ {"op": "text", "text": "심플", "rect": [2, 18, 60, 13], "font": "malgunbd", "size": 12, "bold": 1, "color": "#000000", "align": "left", "valign": "middle"},
+ {"op": "text", "text": "그룹 만들기", "rect": [2, 33, 100, 13], "font": "malgunbd", "size": 12, "bold": 1, "color": "#000000", "align": "left", "valign": "middle"}
+]}

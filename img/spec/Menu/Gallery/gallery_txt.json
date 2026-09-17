@@ -1,0 +1,6 @@
+{"edits": [
+ {"op": "hfill", "rect": [16, 4, 88, 17], "from_x": 10},
+ {"op": "text", "text": "파일럿", "rect": [1, 4, 114, 16], "font": "malgunbd", "size": 13, "bold": 1, "color": "#316a73", "align": "center", "valign": "middle"},
+ {"op": "hfill", "rect": [16, 27, 88, 17], "from_x": 10},
+ {"op": "text", "text": "엔딩", "rect": [1, 27, 114, 16], "font": "malgunbd", "size": 13, "bold": 1, "color": "#316a73", "align": "center", "valign": "middle"}
+]}

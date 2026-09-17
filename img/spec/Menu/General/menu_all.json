@@ -1,0 +1,119 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    6,
+    5,
+    70,
+    14
+   ],
+   "from_x": 5
+  },
+  {
+   "op": "text",
+   "text": "싱글 플레이",
+   "rect": [
+    7,
+    4,
+    78,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 11,
+   "color": "#ffffff",
+   "align": "left",
+   "shadow": [
+    1,
+    1,
+    "#003070"
+   ],
+   "bold": 1
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    6,
+    53,
+    90,
+    14
+   ],
+   "from_x": 5
+  },
+  {
+   "op": "text",
+   "text": "다운로드 플레이",
+   "rect": [
+    7,
+    52,
+    88,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 11,
+   "color": "#ffffff",
+   "align": "left",
+   "shadow": [
+    1,
+    1,
+    "#003070"
+   ],
+   "bold": 1
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    6,
+    101,
+    64,
+    14
+   ],
+   "from_x": 5
+  },
+  {
+   "op": "text",
+   "text": "Wi-Fi 배틀",
+   "rect": [
+    7,
+    100,
+    80,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 11,
+   "color": "#ffffff",
+   "align": "left",
+   "shadow": [
+    1,
+    1,
+    "#003070"
+   ],
+   "bold": 1
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    6,
+    149,
+    50,
+    14
+   ],
+   "from_x": 100
+  },
+  {
+   "op": "text",
+   "text": "옵션",
+   "rect": [
+    8,
+    148,
+    50,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 11,
+   "color": "#2a5a68",
+   "align": "left",
+   "bold": 1
+  }
+ ]
+}

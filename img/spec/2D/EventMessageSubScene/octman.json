@@ -1,0 +1,80 @@
+{
+ "edits": [
+  {
+   "op": "vfill",
+   "rect": [
+    9,
+    51,
+    38,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "clear",
+   "rect": [
+    9,
+    59,
+    38,
+    1
+   ]
+  },
+  {
+   "op": "vfill",
+   "rect": [
+    65,
+    51,
+    38,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "clear",
+   "rect": [
+    65,
+    59,
+    38,
+    1
+   ]
+  },
+  {
+   "op": "text",
+   "text": "옥토맨",
+   "rect": [
+    4,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "옥토맨",
+   "rect": [
+    60,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  }
+ ]
+}

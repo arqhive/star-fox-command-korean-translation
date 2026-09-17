@@ -1,0 +1,4 @@
+{"edits": [
+  {"op": "clear", "rect": [70,0,120,32]},
+  {"op": "text", "text": "결과 보고", "rect": [64,7,128,25], "font": "malgunbd", "size": 22, "bold": 1, "color": "#ffffff", "outline": "#101010", "outline_w": 1, "align": "center", "valign": "middle"}
+]}

@@ -1,0 +1,85 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    4,
+    26,
+    45,
+    17
+   ],
+   "from_x": 4
+  },
+  {
+   "op": "text",
+   "text": "약함",
+   "rect": [
+    4,
+    27,
+    45,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#184a5a",
+   "color2": "#002939",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    56,
+    26,
+    45,
+    17
+   ],
+   "from_x": 4
+  },
+  {
+   "op": "text",
+   "text": "보통",
+   "rect": [
+    56,
+    27,
+    45,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#184a5a",
+   "color2": "#002939",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    109,
+    26,
+    44,
+    17
+   ],
+   "from_x": 4
+  },
+  {
+   "op": "text",
+   "text": "강함",
+   "rect": [
+    109,
+    27,
+    44,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#184a5a",
+   "color2": "#002939",
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

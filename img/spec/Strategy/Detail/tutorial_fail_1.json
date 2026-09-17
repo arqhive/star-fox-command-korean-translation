@@ -1,0 +1,10 @@
+{"edits": [
+  {"op": "fill", "rect": [112, 8, 144, 104], "color": "#d5ffe6"},
+  {"op": "text", "text": "경고!", "rect": [121, 18, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#ff0000", "shadow": [1, 1, "#ee8b7b"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "그레이트폭스에 적이", "rect": [121, 39, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "접촉하면", "rect": [121, 59, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "임무 실패", "rect": [173, 59, 83, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#ff0000", "shadow": [1, 1, "#ee8b7b"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "입니다", "rect": [226, 59, 30, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "파이터를 이용해", "rect": [121, 79, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"},
+  {"op": "text", "text": "지켜 주세요", "rect": [121, 99, 135, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#315a62", "shadow": [1, 1, "#83b4ac"], "align": "left", "valign": "top"}
+]}

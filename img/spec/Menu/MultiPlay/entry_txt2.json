@@ -1,0 +1,6 @@
+{"edits": [
+ {"op": "clear", "rect": [0, 0, 256, 64]},
+ {"op": "text", "text": "대전 상대 모집 중", "rect": [40, 7, 216, 21], "font": "malgunbd", "size": 17, "bold": 2, "color": "#d5ffe6", "align": "left", "valign": "middle", "aa": true},
+ {"op": "text", "text": "엔트리 수", "rect": [0, 37, 120, 18], "font": "malgunbd", "size": 16, "bold": 2, "color": "#d5ffe6", "align": "left", "valign": "middle", "aa": true},
+ {"op": "copy", "src": [108, 44, 16, 4], "dst": [73, 47]}
+]}

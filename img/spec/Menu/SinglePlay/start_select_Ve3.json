@@ -1,0 +1,42 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    0,
+    0,
+    256,
+    64
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "베놈",
+   "rect": [
+    0,
+    5,
+    220,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#316a6a"
+  },
+  {
+   "op": "text",
+   "text": "안녕, 폭스",
+   "rect": [
+    4,
+    27,
+    212,
+    20
+   ],
+   "font": "malgunbd",
+   "size": 15,
+   "bold": 1,
+   "color": "#316a6a"
+  }
+ ]
+}

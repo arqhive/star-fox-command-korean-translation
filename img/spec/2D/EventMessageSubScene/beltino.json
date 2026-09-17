@@ -1,0 +1,100 @@
+{
+ "edits": [
+  {
+   "op": "vfill",
+   "rect": [
+    7,
+    51,
+    40,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    6,
+    51,
+    1,
+    8
+   ],
+   "from_x": 5
+  },
+  {
+   "op": "clear",
+   "rect": [
+    6,
+    59,
+    41,
+    1
+   ]
+  },
+  {
+   "op": "vfill",
+   "rect": [
+    63,
+    51,
+    40,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    62,
+    51,
+    1,
+    8
+   ],
+   "from_x": 61
+  },
+  {
+   "op": "clear",
+   "rect": [
+    62,
+    59,
+    41,
+    1
+   ]
+  },
+  {
+   "op": "text",
+   "text": "벨티노",
+   "rect": [
+    3,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "벨티노",
+   "rect": [
+    59,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    94
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "한 번 삭제한 친구 코드는\n되돌릴 수 없습니다.\n정말 삭제하시겠습니까?",
+   "rect": [
+    46,
+    21,
+    140,
+    72
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 7
+  }
+ ]
+}

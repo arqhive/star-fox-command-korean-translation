@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    94
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "친구 목록에 친구가\n등록되어 있지 않아서\n대전할 수 없습니다.",
+   "rect": [
+    56,
+    20,
+    120,
+    72
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 7
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    80,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "옵션",
+   "rect": [
+    1,
+    1,
+    40,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#313131",
+   "outline": "#e6e6e6",
+   "align": "left",
+   "valign": "middle"
+  }
+ ]
+}

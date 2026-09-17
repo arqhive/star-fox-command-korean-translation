@@ -1,0 +1,120 @@
+{
+ "edits": [
+  {
+   "op": "vfill",
+   "rect": [
+    21,
+    51,
+    13,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    9,
+    51,
+    12,
+    8
+   ],
+   "from_x": 8
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    34,
+    51,
+    13,
+    8
+   ],
+   "from_x": 47
+  },
+  {
+   "op": "clear",
+   "rect": [
+    9,
+    59,
+    38,
+    1
+   ]
+  },
+  {
+   "op": "vfill",
+   "rect": [
+    77,
+    51,
+    13,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    65,
+    51,
+    12,
+    8
+   ],
+   "from_x": 64
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    90,
+    51,
+    13,
+    8
+   ],
+   "from_x": 103
+  },
+  {
+   "op": "clear",
+   "rect": [
+    65,
+    59,
+    38,
+    1
+   ]
+  },
+  {
+   "op": "text",
+   "text": "크리스탈",
+   "rect": [
+    4,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "크리스탈",
+   "rect": [
+    60,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  }
+ ]
+}

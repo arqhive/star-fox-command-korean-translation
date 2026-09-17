@@ -1,0 +1,120 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    238,
+    18
+   ],
+   "color": "#10839c"
+  },
+  {
+   "op": "text",
+   "text": "팬서 카를로소",
+   "rect": [
+    1,
+    1,
+    238,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    84,
+    20,
+    155,
+    104
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "스타울프의 멤버",
+   "rect": [
+    88,
+    25,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "느끼한 바람둥이지만",
+   "rect": [
+    88,
+    45,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "진심으로 반하면 일편단심",
+   "rect": [
+    88,
+    65,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "파일럿으로서의",
+   "rect": [
+    88,
+    85,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "실력은 일류",
+   "rect": [
+    88,
+    105,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  }
+ ]
+}

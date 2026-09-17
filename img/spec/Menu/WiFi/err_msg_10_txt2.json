@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    127
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "상대의 응답이 없습니다.\n상대가 이미 Wi-Fi 커넥션 접속을\n끊었거나, 상대의 친구 목록에서\n삭제되었을 가능성이 있습니다.",
+   "rect": [
+    27,
+    1,
+    202,
+    127
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle",
+   "line_gap": 7
+  }
+ ]
+}

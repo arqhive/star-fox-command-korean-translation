@@ -1,0 +1,30 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    4,
+    12,
+    224,
+    30
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "아침 몇 시에 일어나?",
+   "rect": [
+    4,
+    23,
+    224,
+    15
+   ],
+   "align": "center",
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#315a62",
+   "valign": "middle"
+  }
+ ]
+}

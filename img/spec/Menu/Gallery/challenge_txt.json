@@ -1,0 +1,8 @@
+{"edits": [
+ {"op": "clear", "rect": [0, 0, 64, 16]},
+ {"op": "text", "text": "챌린지", "rect": [2, 1, 60, 14], "font": "malgunbd", "size": 12, "bold": 1, "color": "#315a62", "outline": "#9cdeb4", "outline_w": 1, "align": "left", "valign": "middle"},
+ {"op": "hfill", "rect": [12, 89, 24, 19], "from_x": 11},
+ {"op": "text", "text": "이전", "rect": [11, 90, 25, 17], "font": "malgunbd", "size": 12, "bold": 1, "color": "#003141", "align": "center", "valign": "middle"},
+ {"op": "hfill", "rect": [44, 89, 27, 19], "from_x": 43},
+ {"op": "text", "text": "다음", "rect": [44, 90, 26, 17], "font": "malgunbd", "size": 12, "bold": 1, "color": "#003141", "align": "center", "valign": "middle"}
+]}

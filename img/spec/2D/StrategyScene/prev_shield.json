@@ -1,0 +1,1636 @@
+{
+"edits": [
+{
+"op": "fill",
+"rect": [
+1,
+22,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+49,
+22,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+97,
+22,
+54,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+1,
+38,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+49,
+38,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+97,
+38,
+54,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+1,
+54,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+49,
+54,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+97,
+54,
+54,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+1,
+70,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+49,
+70,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+97,
+70,
+54,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+1,
+86,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+49,
+86,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+97,
+86,
+54,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+1,
+102,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+49,
+102,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+97,
+102,
+54,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+1,
+118,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+49,
+118,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+97,
+118,
+54,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+1,
+134,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+49,
+134,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+97,
+134,
+54,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+1,
+150,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+49,
+150,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+97,
+150,
+54,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+1,
+166,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+49,
+166,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+97,
+166,
+54,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+1,
+182,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+49,
+182,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+97,
+182,
+54,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+1,
+198,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+49,
+198,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+97,
+198,
+54,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+1,
+214,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+49,
+214,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+97,
+214,
+54,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+1,
+230,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+49,
+230,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+97,
+230,
+54,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+1,
+246,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+49,
+246,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+97,
+246,
+54,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+1,
+262,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+49,
+262,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+97,
+262,
+54,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+1,
+278,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+49,
+278,
+46,
+9
+],
+"color": "#626262"
+},
+{
+"op": "fill",
+"rect": [
+97,
+278,
+54,
+9
+],
+"color": "#626262"
+},
+{
+"op": "text",
+"text": "나우스",
+"rect": [
+1,
+20,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "나우스",
+"rect": [
+49,
+20,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "나우스",
+"rect": [
+97,
+20,
+54,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "폭스",
+"rect": [
+1,
+36,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "폭스",
+"rect": [
+49,
+36,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "폭스",
+"rect": [
+97,
+36,
+54,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "크리스탈",
+"rect": [
+1,
+52,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "크리스탈",
+"rect": [
+49,
+52,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "크리스탈",
+"rect": [
+97,
+52,
+54,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "팔코",
+"rect": [
+1,
+68,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "팔코",
+"rect": [
+49,
+68,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "팔코",
+"rect": [
+97,
+68,
+54,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "슬리피",
+"rect": [
+1,
+84,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "슬리피",
+"rect": [
+49,
+84,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "슬리피",
+"rect": [
+97,
+84,
+54,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "애시",
+"rect": [
+1,
+100,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "애시",
+"rect": [
+49,
+100,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "애시",
+"rect": [
+97,
+100,
+54,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "울프",
+"rect": [
+1,
+116,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "울프",
+"rect": [
+49,
+116,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "울프",
+"rect": [
+97,
+116,
+54,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "레온",
+"rect": [
+1,
+132,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "레온",
+"rect": [
+49,
+132,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "레온",
+"rect": [
+97,
+132,
+54,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "팬서",
+"rect": [
+1,
+148,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "팬서",
+"rect": [
+49,
+148,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "팬서",
+"rect": [
+97,
+148,
+54,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "옥토맨",
+"rect": [
+1,
+164,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "옥토맨",
+"rect": [
+49,
+164,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "옥토맨",
+"rect": [
+97,
+164,
+54,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "빌",
+"rect": [
+1,
+180,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "빌",
+"rect": [
+49,
+180,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "빌",
+"rect": [
+97,
+180,
+54,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "루시",
+"rect": [
+1,
+196,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "루시",
+"rect": [
+49,
+196,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "루시",
+"rect": [
+97,
+196,
+54,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "아만다",
+"rect": [
+1,
+212,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "아만다",
+"rect": [
+49,
+212,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "아만다",
+"rect": [
+97,
+212,
+54,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "캣",
+"rect": [
+1,
+228,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "캣",
+"rect": [
+49,
+228,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "캣",
+"rect": [
+97,
+228,
+54,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "페피",
+"rect": [
+1,
+244,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "페피",
+"rect": [
+49,
+244,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "페피",
+"rect": [
+97,
+244,
+54,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "제임스",
+"rect": [
+1,
+260,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "제임스",
+"rect": [
+49,
+260,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "제임스",
+"rect": [
+97,
+260,
+54,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "크리스탈",
+"rect": [
+1,
+276,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "크리스탈",
+"rect": [
+49,
+276,
+46,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+},
+{
+"op": "text",
+"text": "크리스탈",
+"rect": [
+97,
+276,
+54,
+11
+],
+"font": "gulim",
+"size": 11,
+"bold": 0,
+"color": "#f6f6f6",
+"shadow": [
+1,
+1,
+"#000000"
+],
+"align": "center",
+"valign": "middle",
+"aa": false
+}
+]
+}

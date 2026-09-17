@@ -1,0 +1,33 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    60,
+    0,
+    140,
+    32
+   ]
+  },
+  {
+   "op": "text",
+   "text": "싱글 플레이",
+   "rect": [
+    40,
+    2,
+    176,
+    22
+   ],
+   "font": "malgunbd",
+   "size": 17,
+   "bold": 1,
+   "color": "#94eee6",
+   "color2": "#bdf6ee",
+   "shadow": [
+    1,
+    1,
+    "#52a4a4"
+   ]
+  }
+ ]
+}

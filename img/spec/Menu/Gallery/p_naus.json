@@ -1,0 +1,120 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    238,
+    18
+   ],
+   "color": "#10839c"
+  },
+  {
+   "op": "text",
+   "text": "나우스 64",
+   "rect": [
+    1,
+    1,
+    238,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    86,
+    20,
+    153,
+    104
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "그레이트폭스의",
+   "rect": [
+    88,
+    25,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "오퍼레이션 담당 로봇",
+   "rect": [
+    88,
+    45,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "늘 냉정하지만 비꼬는",
+   "rect": [
+    88,
+    65,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "말도 한다. 나름대로",
+   "rect": [
+    88,
+    85,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "의지를 가진 듯하다",
+   "rect": [
+    88,
+    105,
+    149,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  }
+ ]
+}

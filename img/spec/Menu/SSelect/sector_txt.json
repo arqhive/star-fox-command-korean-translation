@@ -1,0 +1,186 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "섹터",
+   "rect": [
+    2,
+    1,
+    120,
+    14
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 14,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    16,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "섹터",
+   "rect": [
+    2,
+    18,
+    45,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    50,
+    16,
+    12,
+    16
+   ],
+   "dst": [
+    30,
+    16
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    32,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "섹터",
+   "rect": [
+    2,
+    34,
+    45,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    50,
+    32,
+    12,
+    16
+   ],
+   "dst": [
+    30,
+    32
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    48,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "섹터",
+   "rect": [
+    2,
+    50,
+    45,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    50,
+    48,
+    12,
+    16
+   ],
+   "dst": [
+    30,
+    48
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    64,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "섹터",
+   "rect": [
+    2,
+    66,
+    45,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    50,
+    64,
+    12,
+    16
+   ],
+   "dst": [
+    30,
+    64
+   ]
+  }
+ ]
+}

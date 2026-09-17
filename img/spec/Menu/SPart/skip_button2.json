@@ -1,0 +1,5 @@
+{"edits": [
+ {"op": "fill", "rect": [3, 5, 31, 7], "color": "#5a626a"},
+ {"op": "fill", "rect": [3, 4, 29, 1], "color": "#5a626a"},
+ {"op": "text", "text": "스킵", "rect": [3, 3, 31, 10], "font": "gulim", "size": 11, "bold": 1, "aa": false, "color": "#ffffff", "align": "center", "valign": "middle"}
+]}

@@ -1,0 +1,4 @@
+{"edits": [
+  {"op": "clear", "rect": [0,0,256,128]},
+  {"op": "text", "text": "임무", "rect": [4,6,248,104], "font": "malgunbd", "size": 104, "bold": 3, "spacing": 12, "color": "#ffffff", "shadow": [-1,1,"#b4b4b4"], "align": "center", "valign": "middle"}
+]}

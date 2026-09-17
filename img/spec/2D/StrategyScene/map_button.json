@@ -1,0 +1,10 @@
+{"edits": [
+  {"op": "hfill", "rect": [4,74,52,20], "from_x": 3},
+  {"op": "hfill", "rect": [4,98,52,20], "from_x": 3},
+  {"op": "hfill", "rect": [200,74,52,20], "from_x": 199},
+  {"op": "hfill", "rect": [200,98,52,20], "from_x": 199},
+  {"op": "text", "text": "미사일", "rect": [4,76,52,16], "font": "malgunbd", "size": 12, "bold": 1, "color": "#ffffff", "align": "center", "valign": "middle", "aa": false},
+  {"op": "text", "text": "미사일", "rect": [4,100,52,16], "font": "malgunbd", "size": 12, "bold": 1, "color": "#ffffff", "align": "center", "valign": "middle", "aa": false},
+  {"op": "text", "text": "미사일", "rect": [200,76,52,16], "font": "malgunbd", "size": 12, "bold": 1, "color": "#ffffff", "align": "center", "valign": "middle", "aa": false},
+  {"op": "text", "text": "미사일", "rect": [200,100,52,16], "font": "malgunbd", "size": 12, "bold": 1, "color": "#ffffff", "align": "center", "valign": "middle", "aa": false}
+]}

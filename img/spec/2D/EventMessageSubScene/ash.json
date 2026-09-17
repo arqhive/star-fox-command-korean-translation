@@ -1,0 +1,120 @@
+{
+ "edits": [
+  {
+   "op": "vfill",
+   "rect": [
+    14,
+    51,
+    27,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    11,
+    51,
+    3,
+    8
+   ],
+   "from_x": 10
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    41,
+    51,
+    2,
+    8
+   ],
+   "from_x": 43
+  },
+  {
+   "op": "clear",
+   "rect": [
+    11,
+    59,
+    32,
+    1
+   ]
+  },
+  {
+   "op": "vfill",
+   "rect": [
+    70,
+    51,
+    27,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    67,
+    51,
+    3,
+    8
+   ],
+   "from_x": 66
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    97,
+    51,
+    2,
+    8
+   ],
+   "from_x": 99
+  },
+  {
+   "op": "clear",
+   "rect": [
+    67,
+    59,
+    32,
+    1
+   ]
+  },
+  {
+   "op": "text",
+   "text": "애시",
+   "rect": [
+    3,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "애시",
+   "rect": [
+    59,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  }
+ ]
+}

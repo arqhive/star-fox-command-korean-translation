@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    72
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "DS 무선 통신을 사용하여\n친구 코드를 교환합니다.",
+   "rect": [
+    47,
+    1,
+    182,
+    72
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle",
+   "line_gap": 7
+  }
+ ]
+}

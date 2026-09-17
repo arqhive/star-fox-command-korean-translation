@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    166,
+    70
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "친구 목록에 아무도\n등록되어 있지 않습니다.",
+   "rect": [
+    16,
+    20,
+    135,
+    48
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 7
+  }
+ ]
+}

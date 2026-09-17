@@ -1,0 +1,116 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    12,
+    5,
+    25,
+    11
+   ],
+   "from_x": 10
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    52,
+    5,
+    24,
+    11
+   ],
+   "from_x": 51
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    14,
+    31,
+    25,
+    11
+   ],
+   "from_x": 12
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    54,
+    31,
+    24,
+    11
+   ],
+   "from_x": 53
+  },
+  {
+   "op": "text",
+   "text": "이전",
+   "rect": [
+    12,
+    5,
+    24,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#4a7b83",
+   "color2": "#295a62",
+   "align": "center",
+   "valign": "middle",
+   "aa": true
+  },
+  {
+   "op": "text",
+   "text": "다음",
+   "rect": [
+    52,
+    5,
+    24,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#4a7b83",
+   "color2": "#295a62",
+   "align": "center",
+   "valign": "middle",
+   "aa": true
+  },
+  {
+   "op": "text",
+   "text": "이전",
+   "rect": [
+    14,
+    31,
+    24,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#4a7b83",
+   "color2": "#295a62",
+   "align": "center",
+   "valign": "middle",
+   "aa": true
+  },
+  {
+   "op": "text",
+   "text": "다음",
+   "rect": [
+    54,
+    31,
+    24,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#4a7b83",
+   "color2": "#295a62",
+   "align": "center",
+   "valign": "middle",
+   "aa": true
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    4,
+    20,
+    160,
+    48
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "지금부터 하는 질문에",
+   "rect": [
+    30,
+    29,
+    134,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "목소리로 대답해 주세요",
+   "rect": [
+    30,
+    52,
+    134,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  }
+ ]
+}

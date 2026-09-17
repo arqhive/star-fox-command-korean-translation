@@ -1,0 +1,35 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    60,
+    2,
+    140,
+    22
+   ]
+  },
+  {
+   "op": "text",
+   "text": "스테이지 선택",
+   "rect": [
+    60,
+    3,
+    140,
+    19
+   ],
+   "font": "gulim",
+   "size": 16,
+   "bold": 1,
+   "aa": false,
+   "color": "#b4f6ee",
+   "shadow": [
+    1,
+    1,
+    "#6aa4a4"
+   ],
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

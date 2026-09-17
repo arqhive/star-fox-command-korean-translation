@@ -1,0 +1,85 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    6,
+    74,
+    11
+   ],
+   "from_x": 5
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    83,
+    6,
+    74,
+    11
+   ],
+   "from_x": 85
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    163,
+    6,
+    74,
+    11
+   ],
+   "from_x": 165
+  },
+  {
+   "op": "text",
+   "text": "계속하기",
+   "rect": [
+    3,
+    6,
+    74,
+    11
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "align": "center",
+   "valign": "middle",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "다시 하기",
+   "rect": [
+    83,
+    6,
+    74,
+    11
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "align": "center",
+   "valign": "middle",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "게임 종료",
+   "rect": [
+    163,
+    6,
+    74,
+    11
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "align": "center",
+   "valign": "middle",
+   "aa": false
+  }
+ ]
+}

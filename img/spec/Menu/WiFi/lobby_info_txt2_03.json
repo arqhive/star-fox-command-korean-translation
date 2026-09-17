@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    71
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "대전 상대를\n찾지 못했습니다.",
+   "rect": [
+    68,
+    21,
+    95,
+    48
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 7
+  }
+ ]
+}

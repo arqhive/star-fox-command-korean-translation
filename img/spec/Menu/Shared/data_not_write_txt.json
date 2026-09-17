@@ -1,0 +1,77 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    79
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "데이터를 저장하지 못했습니다",
+   "rect": [
+    4,
+    10,
+    224,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "shadow": [
+    1,
+    1,
+    "#acd5c5"
+   ],
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "전원을 끄고",
+   "rect": [
+    4,
+    34,
+    224,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "shadow": [
+    1,
+    1,
+    "#acd5c5"
+   ],
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "카드를 다시 꽂아 주세요",
+   "rect": [
+    4,
+    59,
+    224,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "shadow": [
+    1,
+    1,
+    "#acd5c5"
+   ],
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    30,
+    5,
+    196,
+    18
+   ],
+   "color": "#bd3131"
+  },
+  {
+   "op": "text",
+   "text": "적 미사일",
+   "rect": [
+    30,
+    4,
+    196,
+    20
+   ],
+   "font": "malgunbd",
+   "size": 15,
+   "bold": 1,
+   "color": "#f6dede",
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

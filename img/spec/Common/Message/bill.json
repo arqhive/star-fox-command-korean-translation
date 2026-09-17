@@ -1,0 +1,88 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    18,
+    46,
+    10,
+    9
+   ],
+   "from_x": 17
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    28,
+    46,
+    10,
+    9
+   ],
+   "from_x": 38
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    74,
+    46,
+    10,
+    9
+   ],
+   "from_x": 73
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    84,
+    46,
+    10,
+    9
+   ],
+   "from_x": 94
+  },
+  {
+   "op": "text",
+   "text": "빌",
+   "rect": [
+    1,
+    43,
+    54,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "shadow": [
+    1,
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "op": "text",
+   "text": "빌",
+   "rect": [
+    57,
+    43,
+    54,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "shadow": [
+    1,
+    1,
+    "#000000"
+   ]
+  }
+ ]
+}

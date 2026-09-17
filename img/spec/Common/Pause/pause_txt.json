@@ -1,0 +1,67 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    256,
+    32
+   ]
+  },
+  {
+   "op": "text",
+   "text": "정말 그만두시겠습니까?",
+   "rect": [
+    14,
+    1,
+    132,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#ffffff",
+   "color2": "#cdcdcd",
+   "shadow": [
+    1,
+    1,
+    "#525252"
+   ]
+  },
+  {
+   "op": "text",
+   "text": "게임 계속하기",
+   "rect": [
+    4,
+    17,
+    101,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#ffffff",
+   "color2": "#bdd5f6",
+   "outline": "#397bde",
+   "outline_w": 1
+  },
+  {
+   "op": "text",
+   "text": "게임 종료",
+   "rect": [
+    115,
+    17,
+    101,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#ffffff",
+   "color2": "#bdd5f6",
+   "outline": "#397bde",
+   "outline_w": 1
+  }
+ ]
+}

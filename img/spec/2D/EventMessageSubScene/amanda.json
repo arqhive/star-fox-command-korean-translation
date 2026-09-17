@@ -1,0 +1,120 @@
+{
+ "edits": [
+  {
+   "op": "vfill",
+   "rect": [
+    20,
+    51,
+    16,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    12,
+    51,
+    8,
+    8
+   ],
+   "from_x": 11
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    36,
+    51,
+    9,
+    8
+   ],
+   "from_x": 45
+  },
+  {
+   "op": "clear",
+   "rect": [
+    12,
+    59,
+    33,
+    1
+   ]
+  },
+  {
+   "op": "vfill",
+   "rect": [
+    76,
+    51,
+    16,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    68,
+    51,
+    8,
+    8
+   ],
+   "from_x": 67
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    92,
+    51,
+    9,
+    8
+   ],
+   "from_x": 101
+  },
+  {
+   "op": "clear",
+   "rect": [
+    68,
+    59,
+    33,
+    1
+   ]
+  },
+  {
+   "op": "text",
+   "text": "아만다",
+   "rect": [
+    5,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "아만다",
+   "rect": [
+    61,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  }
+ ]
+}

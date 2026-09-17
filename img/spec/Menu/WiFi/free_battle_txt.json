@@ -1,0 +1,104 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    9,
+    4,
+    90,
+    17
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "text",
+   "text": "친구 배틀",
+   "rect": [
+    14,
+    6,
+    84,
+    13
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#184a5a",
+   "align": "left"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    9,
+    28,
+    90,
+    17
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "text",
+   "text": "랜덤 배틀",
+   "rect": [
+    14,
+    30,
+    84,
+    13
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#184a5a",
+   "align": "left"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    9,
+    52,
+    90,
+    17
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "text",
+   "text": "랜덤 배틀",
+   "rect": [
+    14,
+    54,
+    84,
+    13
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#184a5a",
+   "align": "left"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    9,
+    76,
+    90,
+    17
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "text",
+   "text": "랜덤 배틀",
+   "rect": [
+    14,
+    78,
+    84,
+    13
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#184a5a",
+   "align": "left"
+  }
+ ]
+}

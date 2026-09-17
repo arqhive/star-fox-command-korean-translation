@@ -1,0 +1,80 @@
+{
+ "edits": [
+  {
+   "op": "vfill",
+   "rect": [
+    15,
+    51,
+    25,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "clear",
+   "rect": [
+    15,
+    59,
+    25,
+    1
+   ]
+  },
+  {
+   "op": "vfill",
+   "rect": [
+    71,
+    51,
+    25,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "clear",
+   "rect": [
+    71,
+    59,
+    25,
+    1
+   ]
+  },
+  {
+   "op": "text",
+   "text": "조르게",
+   "rect": [
+    4,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "조르게",
+   "rect": [
+    60,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  }
+ ]
+}

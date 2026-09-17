@@ -1,0 +1,112 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    5,
+    2,
+    104,
+    20
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "text",
+   "text": "친구 목록",
+   "rect": [
+    3,
+    3,
+    110,
+    19
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#103941",
+   "align": "center",
+   "valign": "middle",
+   "spacing": 1
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    5,
+    26,
+    104,
+    20
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "text",
+   "text": "코드 등록",
+   "rect": [
+    3,
+    27,
+    110,
+    19
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#103941",
+   "align": "center",
+   "valign": "middle",
+   "spacing": 1
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    5,
+    50,
+    104,
+    20
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "text",
+   "text": "코드 확인",
+   "rect": [
+    3,
+    51,
+    110,
+    19
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#103941",
+   "align": "center",
+   "valign": "middle",
+   "spacing": 1
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    5,
+    74,
+    104,
+    20
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "text",
+   "text": "코드 교환",
+   "rect": [
+    3,
+    75,
+    110,
+    19
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#103941",
+   "align": "center",
+   "valign": "middle",
+   "spacing": 1
+  }
+ ]
+}

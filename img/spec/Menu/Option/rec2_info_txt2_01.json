@@ -1,0 +1,62 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    4,
+    16,
+    224,
+    72
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "당신의 목소리를 바탕으로",
+   "rect": [
+    26,
+    26,
+    200,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "게임 속 캐릭터 음성을 만듭니다",
+   "rect": [
+    26,
+    49,
+    200,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "괜찮겠습니까?",
+   "rect": [
+    26,
+    72,
+    200,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    40,
+    2,
+    176,
+    24
+   ]
+  },
+  {
+   "op": "text",
+   "text": "데이터 삭제",
+   "rect": [
+    40,
+    5,
+    176,
+    17
+   ],
+   "font": "malgunbd",
+   "size": 16,
+   "bold": 1,
+   "color": "#b4f6ee",
+   "color2": "#8beede",
+   "shadow": [
+    1,
+    1,
+    "#397373"
+   ],
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

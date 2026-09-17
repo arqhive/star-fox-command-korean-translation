@@ -1,0 +1,104 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    238,
+    17
+   ],
+   "color": "#10839c"
+  },
+  {
+   "op": "text",
+   "text": "그레이트폭스",
+   "rect": [
+    1,
+    1,
+    238,
+    17
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    114,
+    21,
+    125,
+    80
+   ],
+   "color": "#002020"
+  },
+  {
+   "op": "text",
+   "text": "스타폭스의 모함",
+   "rect": [
+    117,
+    27,
+    120,
+    14
+   ],
+   "align": "left",
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "적의 표적이며",
+   "rect": [
+    117,
+    47,
+    120,
+    14
+   ],
+   "align": "left",
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "격추되면 임무 실패",
+   "rect": [
+    117,
+    66,
+    120,
+    14
+   ],
+   "align": "left",
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "미사일을 발사할 수 있다",
+   "rect": [
+    117,
+    85,
+    120,
+    14
+   ],
+   "align": "left",
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "valign": "middle"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    23
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "코드 교환 상대:",
+   "rect": [
+    43,
+    3,
+    180,
+    19
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    25,
+    230,
+    84
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "친구 코드 교환 신청이 들어왔습니다.\n친구 코드를 교환하시겠습니까?",
+   "rect": [
+    16,
+    25,
+    213,
+    84
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle",
+   "line_gap": 7
+  }
+ ]
+}

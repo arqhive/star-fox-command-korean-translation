@@ -1,0 +1,120 @@
+{
+ "edits": [
+  {
+   "op": "vfill",
+   "rect": [
+    5,
+    51,
+    46,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    4,
+    51,
+    1,
+    8
+   ],
+   "from_x": 3
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    51,
+    51,
+    2,
+    8
+   ],
+   "from_x": 53
+  },
+  {
+   "op": "clear",
+   "rect": [
+    4,
+    59,
+    49,
+    1
+   ]
+  },
+  {
+   "op": "vfill",
+   "rect": [
+    61,
+    51,
+    46,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    60,
+    51,
+    1,
+    8
+   ],
+   "from_x": 59
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    107,
+    51,
+    2,
+    8
+   ],
+   "from_x": 109
+  },
+  {
+   "op": "clear",
+   "rect": [
+    60,
+    59,
+    49,
+    1
+   ]
+  },
+  {
+   "op": "text",
+   "text": "적 파일럿",
+   "rect": [
+    5,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "적 파일럿",
+   "rect": [
+    61,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  }
+ ]
+}

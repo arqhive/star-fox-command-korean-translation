@@ -1,0 +1,6 @@
+{"edits": [
+ {"op": "hfill", "rect": [23, 2, 98, 20], "from_x": 121},
+ {"op": "text", "text": "코드 교환 접수", "rect": [24, 3, 97, 19], "font": "malgunbd", "size": 13, "bold": 1, "color": "#103941", "align": "left", "valign": "middle"},
+ {"op": "hfill", "rect": [23, 26, 98, 20], "from_x": 121},
+ {"op": "text", "text": "교환 상대 찾기", "rect": [24, 27, 97, 19], "font": "malgunbd", "size": 13, "bold": 1, "color": "#103941", "align": "left", "valign": "middle"}
+]}

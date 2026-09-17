@@ -1,0 +1,108 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    4,
+    145,
+    63,
+    15
+   ],
+   "from_x": 4
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    73,
+    145,
+    63,
+    15
+   ],
+   "from_x": 74
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    4,
+    164,
+    63,
+    14
+   ],
+   "from_x": 4
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    73,
+    164,
+    63,
+    14
+   ],
+   "from_x": 74
+  },
+  {
+   "op": "text",
+   "text": "일반",
+   "rect": [
+    3,
+    147,
+    66,
+    12
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#20525a",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "반전",
+   "rect": [
+    71,
+    147,
+    66,
+    12
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#20525a",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "일반",
+   "rect": [
+    3,
+    165,
+    66,
+    12
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#73f6ff",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "반전",
+   "rect": [
+    71,
+    165,
+    66,
+    12
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#73f6ff",
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

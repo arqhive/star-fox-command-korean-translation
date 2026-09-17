@@ -1,0 +1,4 @@
+{"edits": [
+ {"op": "clear", "rect": [60, 0, 136, 24]},
+ {"op": "text", "text": "갤러리", "rect": [64, 3, 128, 16], "font": "malgunbd", "size": 14, "bold": 1, "color": "#b4f6ee", "color2": "#83eede", "shadow": [0, 1, "#4a7b7b"], "align": "center", "valign": "middle"}
+]}

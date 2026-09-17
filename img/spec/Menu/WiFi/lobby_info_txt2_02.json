@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    71
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "대전 상대가 결정되었습니다.",
+   "rect": [
+    36,
+    33,
+    159,
+    24
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 7
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    166,
+    70
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "더 이상 친구 코드를\n등록할 수 없습니다.",
+   "rect": [
+    28,
+    21,
+    112,
+    48
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 7
+  }
+ ]
+}

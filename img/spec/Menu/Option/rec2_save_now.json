@@ -1,0 +1,30 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    74,
+    32
+   ]
+  },
+  {
+   "op": "text",
+   "text": "저장 중",
+   "rect": [
+    1,
+    7,
+    71,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 16,
+   "bold": 2,
+   "color": "#d5ffe6",
+   "align": "left",
+   "valign": "middle",
+   "aa": true
+  }
+ ]
+}

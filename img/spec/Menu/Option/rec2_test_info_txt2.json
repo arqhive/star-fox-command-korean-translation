@@ -1,0 +1,46 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    4,
+    10,
+    224,
+    38
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "터치한 캐릭터의",
+   "rect": [
+    4,
+    12,
+    224,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "음성 테스트를 할 수 있습니다",
+   "rect": [
+    4,
+    33,
+    224,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

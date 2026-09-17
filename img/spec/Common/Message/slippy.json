@@ -1,0 +1,88 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    11,
+    46,
+    18,
+    9
+   ],
+   "from_x": 10
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    29,
+    46,
+    18,
+    9
+   ],
+   "from_x": 47
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    67,
+    46,
+    18,
+    9
+   ],
+   "from_x": 66
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    85,
+    46,
+    18,
+    9
+   ],
+   "from_x": 103
+  },
+  {
+   "op": "text",
+   "text": "슬리피",
+   "rect": [
+    2,
+    43,
+    54,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "shadow": [
+    1,
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "op": "text",
+   "text": "슬리피",
+   "rect": [
+    58,
+    43,
+    54,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "shadow": [
+    1,
+    1,
+    "#000000"
+   ]
+  }
+ ]
+}

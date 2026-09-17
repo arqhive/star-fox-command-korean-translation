@@ -1,0 +1,290 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "스테이지 선택",
+   "rect": [
+    2,
+    1,
+    120,
+    14
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 14,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    16,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "코네리아",
+   "rect": [
+    2,
+    18,
+    120,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    32,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "소행성대",
+   "rect": [
+    2,
+    34,
+    120,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    48,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "피치나",
+   "rect": [
+    2,
+    50,
+    120,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    64,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "카티나",
+   "rect": [
+    2,
+    66,
+    120,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    80,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "아쿠아스",
+   "rect": [
+    2,
+    82,
+    120,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    96,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "솔라",
+   "rect": [
+    2,
+    98,
+    120,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    112,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "타이타니아",
+   "rect": [
+    2,
+    114,
+    120,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    128,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "베놈",
+   "rect": [
+    2,
+    130,
+    120,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    144,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "섹터",
+   "rect": [
+    2,
+    146,
+    120,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    160,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "트레이닝",
+   "rect": [
+    2,
+    162,
+    120,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  }
+ ]
+}

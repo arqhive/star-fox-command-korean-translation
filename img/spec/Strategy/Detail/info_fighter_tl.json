@@ -1,0 +1,4 @@
+{"edits": [
+  {"op": "fill", "rect": [30, 5, 196, 18], "color": "#009cbd"},
+  {"op": "text", "text": "파이터", "rect": [30, 4, 196, 20], "font": "malgunbd", "size": 15, "bold": 1, "color": "#deeee6", "align": "center", "valign": "middle"}
+]}

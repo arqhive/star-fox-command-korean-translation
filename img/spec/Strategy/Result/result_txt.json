@@ -1,0 +1,82 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    200,
+    17
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    17,
+    120,
+    18
+   ]
+  },
+  {
+   "op": "text",
+   "text": "획득 포인트",
+   "rect": [
+    1,
+    0,
+    88,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 15,
+   "bold": 1,
+   "color": "#fff683",
+   "color2": "#ffde6a",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "left",
+   "valign": "middle",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "타임 보너스",
+   "rect": [
+    95,
+    0,
+    100,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 15,
+   "bold": 1,
+   "color": "#fff683",
+   "color2": "#ffde6a",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "left",
+   "valign": "middle",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "토탈 포인트",
+   "rect": [
+    1,
+    18,
+    116,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 15,
+   "bold": 1,
+   "color": "#fff683",
+   "color2": "#ffde6a",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "left",
+   "valign": "middle",
+   "aa": false
+  }
+ ]
+}

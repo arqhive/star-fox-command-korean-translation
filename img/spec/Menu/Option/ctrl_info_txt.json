@@ -1,0 +1,6 @@
+{"edits": [
+  {"op": "fill", "rect": [4, 14, 156, 66], "color": "#d5ffe6"},
+  {"op": "text", "text": "파이터의", "rect": [24, 17, 136, 16], "font": "malgunbd", "size": 13, "bold": 1, "color": "#315a62", "align": "left", "valign": "middle"},
+  {"op": "text", "text": "조작 타입을", "rect": [24, 40, 136, 16], "font": "malgunbd", "size": 13, "bold": 1, "color": "#315a62", "align": "left", "valign": "middle"},
+  {"op": "text", "text": "선택해 주세요", "rect": [24, 63, 136, 16], "font": "malgunbd", "size": 13, "bold": 1, "color": "#315a62", "align": "left", "valign": "middle"}
+]}

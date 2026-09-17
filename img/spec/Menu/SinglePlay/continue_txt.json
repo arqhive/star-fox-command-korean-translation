@@ -1,0 +1,54 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    8,
+    3,
+    74,
+    17
+   ],
+   "from_x": 5
+  },
+  {
+   "op": "text",
+   "text": "예",
+   "rect": [
+    4,
+    2,
+    82,
+    19
+   ],
+   "font": "malgunbd",
+   "size": 16,
+   "bold": 0,
+   "color": "#315a6a",
+   "aa": false
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    8,
+    27,
+    74,
+    17
+   ],
+   "from_x": 5
+  },
+  {
+   "op": "text",
+   "text": "아니요",
+   "rect": [
+    4,
+    26,
+    82,
+    19
+   ],
+   "font": "malgunbd",
+   "size": 16,
+   "bold": 0,
+   "color": "#315a6a",
+   "aa": false
+  }
+ ]
+}

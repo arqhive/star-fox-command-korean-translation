@@ -1,0 +1,184 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    128,
+    28
+   ]
+  },
+  {
+   "op": "text",
+   "text": "폭스",
+   "rect": [
+    0,
+    0,
+    41,
+    9
+   ],
+   "font": "malgun",
+   "size": 9,
+   "bold": 0,
+   "color": "#f6f6f6",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle",
+   "aa": true
+  },
+  {
+   "op": "text",
+   "text": "크리스탈",
+   "rect": [
+    43,
+    0,
+    43,
+    9
+   ],
+   "font": "malgun",
+   "size": 9,
+   "bold": 0,
+   "color": "#f6f6f6",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle",
+   "aa": true
+  },
+  {
+   "op": "text",
+   "text": "팔코",
+   "rect": [
+    87,
+    0,
+    40,
+    9
+   ],
+   "font": "malgun",
+   "size": 9,
+   "bold": 0,
+   "color": "#f6f6f6",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle",
+   "aa": true
+  },
+  {
+   "op": "text",
+   "text": "슬리피",
+   "rect": [
+    0,
+    9,
+    41,
+    9
+   ],
+   "font": "malgun",
+   "size": 9,
+   "bold": 0,
+   "color": "#f6f6f6",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle",
+   "aa": true
+  },
+  {
+   "op": "text",
+   "text": "애시",
+   "rect": [
+    43,
+    9,
+    43,
+    9
+   ],
+   "font": "malgun",
+   "size": 9,
+   "bold": 0,
+   "color": "#f6f6f6",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle",
+   "aa": true
+  },
+  {
+   "op": "text",
+   "text": "나우스",
+   "rect": [
+    87,
+    9,
+    40,
+    9
+   ],
+   "font": "malgun",
+   "size": 9,
+   "bold": 0,
+   "color": "#f6f6f6",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle",
+   "aa": true
+  },
+  {
+   "op": "text",
+   "text": "페피",
+   "rect": [
+    0,
+    18,
+    41,
+    9
+   ],
+   "font": "malgun",
+   "size": 9,
+   "bold": 0,
+   "color": "#f6f6f6",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle",
+   "aa": true
+  },
+  {
+   "op": "text",
+   "text": "로버트",
+   "rect": [
+    43,
+    18,
+    43,
+    9
+   ],
+   "font": "malgun",
+   "size": 9,
+   "bold": 0,
+   "color": "#f6f6f6",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle",
+   "aa": true
+  },
+  {
+   "op": "text",
+   "text": "자잔",
+   "rect": [
+    87,
+    18,
+    40,
+    9
+   ],
+   "font": "malgun",
+   "size": 9,
+   "bold": 0,
+   "color": "#f6f6f6",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle",
+   "aa": true
+  }
+ ]
+}

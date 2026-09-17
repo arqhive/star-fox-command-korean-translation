@@ -1,0 +1,62 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    3,
+    16,
+    226,
+    70
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "평소에는 \"강함\"을 선택해 주세요",
+   "rect": [
+    6,
+    25,
+    220,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "녹음이 어렵거나 주위가 시끄러우면",
+   "rect": [
+    6,
+    48,
+    220,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "\"보통\"이나 \"약함\"을 선택해 주세요",
+   "rect": [
+    6,
+    71,
+    220,
+    15
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  }
+ ]
+}

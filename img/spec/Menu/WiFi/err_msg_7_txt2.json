@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    127
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "접속할 수 있는 액세스 포인트를\n찾을 수 없습니다.\nWi-Fi 커넥션 설정에서\n접속 설정을 확인해 주십시오.",
+   "rect": [
+    29,
+    1,
+    200,
+    127
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle",
+   "line_gap": 7
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+{"edits": [
+  {"op": "fill", "rect": [0, 0, 256, 103], "color": "#002020"},
+  {"op": "text", "text": "연료 셀", "rect": [10, 6, 100, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "center", "valign": "middle"},
+  {"op": "text", "text": "전투 가능 시간이 25초", "rect": [116, 36, 138, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
+  {"op": "text", "text": "증가하는 아이템", "rect": [116, 56, 138, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"}
+]}

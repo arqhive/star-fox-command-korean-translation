@@ -1,0 +1,85 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    3,
+    107,
+    18
+   ],
+   "from_x": 111
+  },
+  {
+   "op": "text",
+   "text": "싱글 데이터",
+   "rect": [
+    4,
+    4,
+    106,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#316a73",
+   "color2": "#002939",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    27,
+    107,
+    18
+   ],
+   "from_x": 111
+  },
+  {
+   "op": "text",
+   "text": "Wi-Fi 전적",
+   "rect": [
+    4,
+    28,
+    106,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#316a73",
+   "color2": "#002939",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    3,
+    51,
+    107,
+    18
+   ],
+   "from_x": 111
+  },
+  {
+   "op": "text",
+   "text": "음성 데이터",
+   "rect": [
+    4,
+    52,
+    106,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#316a73",
+   "color2": "#002939",
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

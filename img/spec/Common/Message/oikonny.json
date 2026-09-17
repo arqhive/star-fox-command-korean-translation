@@ -1,0 +1,88 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    7,
+    46,
+    21,
+    9
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    28,
+    46,
+    21,
+    9
+   ],
+   "from_x": 49
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    63,
+    46,
+    21,
+    9
+   ],
+   "from_x": 62
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    84,
+    46,
+    21,
+    9
+   ],
+   "from_x": 105
+  },
+  {
+   "op": "text",
+   "text": "오이코니",
+   "rect": [
+    1,
+    43,
+    54,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "shadow": [
+    1,
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "op": "text",
+   "text": "오이코니",
+   "rect": [
+    57,
+    43,
+    54,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "shadow": [
+    1,
+    1,
+    "#000000"
+   ]
+  }
+ ]
+}

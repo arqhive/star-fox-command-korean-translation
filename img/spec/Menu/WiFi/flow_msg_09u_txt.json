@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    127
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "사용 중인 닉네임으로는\nWi-Fi 커넥션을 이용할 수 없습니다.\n닉네임을 변경한 후\n다시 접속해 주십시오.",
+   "rect": [
+    18,
+    26,
+    196,
+    96
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 7
+  }
+ ]
+}

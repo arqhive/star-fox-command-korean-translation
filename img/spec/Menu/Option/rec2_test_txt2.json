@@ -1,0 +1,284 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    2,
+    43,
+    41,
+    9
+   ],
+   "from_x": 3
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    46,
+    43,
+    41,
+    9
+   ],
+   "from_x": 3
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    90,
+    43,
+    41,
+    9
+   ],
+   "from_x": 3
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    134,
+    43,
+    41,
+    9
+   ],
+   "from_x": 3
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    178,
+    43,
+    41,
+    9
+   ],
+   "from_x": 3
+  },
+  {
+   "op": "text",
+   "text": "나우스",
+   "rect": [
+    3,
+    42,
+    39,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 10,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "폭스",
+   "rect": [
+    47,
+    42,
+    39,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 10,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "크리스탈",
+   "rect": [
+    91,
+    42,
+    39,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 10,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "팔코",
+   "rect": [
+    135,
+    42,
+    39,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 10,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "슬리피",
+   "rect": [
+    179,
+    42,
+    39,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 10,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    2,
+    97,
+    41,
+    9
+   ],
+   "from_x": 3
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    46,
+    97,
+    41,
+    9
+   ],
+   "from_x": 3
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    90,
+    97,
+    41,
+    9
+   ],
+   "from_x": 3
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    134,
+    97,
+    41,
+    9
+   ],
+   "from_x": 3
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    178,
+    97,
+    41,
+    9
+   ],
+   "from_x": 3
+  },
+  {
+   "op": "text",
+   "text": "나우스",
+   "rect": [
+    3,
+    96,
+    39,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 10,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "폭스",
+   "rect": [
+    47,
+    96,
+    39,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 10,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "크리스탈",
+   "rect": [
+    91,
+    96,
+    39,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 10,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "팔코",
+   "rect": [
+    135,
+    96,
+    39,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 10,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "슬리피",
+   "rect": [
+    179,
+    96,
+    39,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 10,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

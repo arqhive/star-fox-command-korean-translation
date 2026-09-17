@@ -1,0 +1,5 @@
+{"edits": [
+  {"op": "copy", "src": [40, 70, 56, 29], "dst": [104, 70]},
+  {"op": "text", "text": "실드", "rect": [108, 70, 46, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#f6cdcd", "outline": "#180000", "outline_w": 1, "align": "left", "valign": "middle"},
+  {"op": "text", "text": "웨폰", "rect": [108, 84, 46, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#f6cdcd", "outline": "#180000", "outline_w": 1, "align": "left", "valign": "middle"}
+]}

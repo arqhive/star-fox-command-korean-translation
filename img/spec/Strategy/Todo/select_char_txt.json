@@ -1,0 +1,4 @@
+{"edits": [
+ {"op": "clear", "rect": [0, 0, 256, 32]},
+ {"op": "text", "text": "출격할 캐릭터를 선택해 주세요", "rect": [2, 9, 220, 14], "font": "malgunbd", "size": 14, "bold": 1, "color": "#d5ffe6", "align": "left", "valign": "middle", "aa": true}
+]}

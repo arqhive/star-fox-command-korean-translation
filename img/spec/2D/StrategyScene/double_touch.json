@@ -1,0 +1,5 @@
+{"edits": [
+  {"op": "clear", "rect": [0,0,256,48]},
+  {"op": "text", "text": "더블 터치로 결정", "rect": [40,5,176,20], "font": "malgunbd", "size": 17, "bold": 1, "color": "#ffffff", "align": "center", "valign": "middle", "aa": false},
+  {"op": "text", "text": "더블 터치로 결정", "rect": [40,29,176,20], "font": "malgunbd", "size": 17, "bold": 1, "color": "#ffee00", "outline": "#414108", "outline_w": 1, "align": "center", "valign": "middle", "aa": false}
+]}

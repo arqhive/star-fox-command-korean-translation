@@ -1,0 +1,28 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    128,
+    64
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Wi-Fi 대전",
+   "rect": [
+    3,
+    1,
+    96,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#000000",
+   "align": "left"
+  }
+ ]
+}

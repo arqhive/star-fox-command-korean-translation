@@ -1,0 +1,88 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    13,
+    46,
+    14,
+    9
+   ],
+   "from_x": 12
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    27,
+    46,
+    15,
+    9
+   ],
+   "from_x": 42
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    69,
+    46,
+    14,
+    9
+   ],
+   "from_x": 68
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    83,
+    46,
+    15,
+    9
+   ],
+   "from_x": 98
+  },
+  {
+   "op": "text",
+   "text": "캣",
+   "rect": [
+    0,
+    43,
+    54,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "shadow": [
+    1,
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "op": "text",
+   "text": "캣",
+   "rect": [
+    56,
+    43,
+    54,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "shadow": [
+    1,
+    1,
+    "#000000"
+   ]
+  }
+ ]
+}

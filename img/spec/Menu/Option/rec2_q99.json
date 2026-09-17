@@ -1,0 +1,46 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    4,
+    3,
+    224,
+    46
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "녹음은 여기까지입니다",
+   "rect": [
+    58,
+    9,
+    166,
+    15
+   ],
+   "align": "left",
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#315a62",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "수고하셨습니다",
+   "rect": [
+    58,
+    32,
+    166,
+    15
+   ],
+   "align": "left",
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#315a62",
+   "valign": "middle"
+  }
+ ]
+}

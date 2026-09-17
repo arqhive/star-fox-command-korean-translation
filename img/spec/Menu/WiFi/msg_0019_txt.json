@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    166,
+    93
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "Wi-Fi 커넥션과의 연결을\n끊으시겠습니까?",
+   "rect": [
+    15,
+    31,
+    137,
+    48
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 7
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    12,
+    46,
+    15,
+    9
+   ],
+   "from_x": 11
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    27,
+    46,
+    16,
+    9
+   ],
+   "from_x": 43
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    68,
+    46,
+    15,
+    9
+   ],
+   "from_x": 67
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    83,
+    46,
+    16,
+    9
+   ],
+   "from_x": 99
+  },
+  {
+   "op": "text",
+   "text": "애시",
+   "rect": [
+    0,
+    43,
+    54,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "shadow": [
+    1,
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "op": "text",
+   "text": "애시",
+   "rect": [
+    56,
+    43,
+    54,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "shadow": [
+    1,
+    1,
+    "#000000"
+   ]
+  }
+ ]
+}

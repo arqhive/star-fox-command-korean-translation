@@ -1,0 +1,46 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    4,
+    18,
+    160,
+    54
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "싱글 데이터를",
+   "rect": [
+    30,
+    28,
+    130,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "삭제해도 될까요?",
+   "rect": [
+    30,
+    51,
+    130,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "middle"
+  }
+ ]
+}

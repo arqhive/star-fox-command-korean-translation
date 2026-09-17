@@ -1,0 +1,290 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    16,
+    0,
+    52,
+    11
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    89,
+    3,
+    51,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    2,
+    32,
+    59,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    89,
+    29,
+    52,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    17,
+    58,
+    41,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    91,
+    58,
+    50,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    17,
+    87,
+    42,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    16,
+    119,
+    42,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    16,
+    148,
+    34,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    16,
+    177,
+    52,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    30,
+    206,
+    31,
+    10
+   ]
+  },
+  {
+   "op": "text",
+   "text": "코네리아",
+   "rect": [
+    18,
+    0,
+    50,
+    11
+   ],
+   "font": "gulim",
+   "size": 11,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "섹터 X",
+   "rect": [
+    90,
+    3,
+    50,
+    10
+   ],
+   "font": "gulim",
+   "size": 11,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "소행성대",
+   "rect": [
+    3,
+    32,
+    58,
+    10
+   ],
+   "font": "gulim",
+   "size": 11,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "섹터 Y",
+   "rect": [
+    90,
+    29,
+    51,
+    10
+   ],
+   "font": "gulim",
+   "size": 11,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "피치나",
+   "rect": [
+    18,
+    58,
+    40,
+    10
+   ],
+   "font": "gulim",
+   "size": 11,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "섹터 Z",
+   "rect": [
+    92,
+    58,
+    49,
+    10
+   ],
+   "font": "gulim",
+   "size": 11,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "카티나",
+   "rect": [
+    18,
+    87,
+    41,
+    10
+   ],
+   "font": "gulim",
+   "size": 11,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "아쿠아스",
+   "rect": [
+    18,
+    119,
+    42,
+    10
+   ],
+   "font": "gulim",
+   "size": 11,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "솔라",
+   "rect": [
+    18,
+    148,
+    32,
+    10
+   ],
+   "font": "gulim",
+   "size": 11,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "타이타니아",
+   "rect": [
+    17,
+    177,
+    51,
+    10
+   ],
+   "font": "gulim",
+   "size": 11,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "베놈",
+   "rect": [
+    30,
+    206,
+    30,
+    10
+   ],
+   "font": "gulim",
+   "size": 11,
+   "bold": 0,
+   "aa": false,
+   "color": "#ffffff",
+   "align": "right",
+   "valign": "middle"
+  }
+ ]
+}

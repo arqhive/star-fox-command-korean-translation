@@ -1,0 +1,112 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    4,
+    8,
+    72,
+    20
+   ],
+   "color": "#0862f6"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    84,
+    8,
+    72,
+    20
+   ],
+   "color": "#0862f6"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    4,
+    40,
+    72,
+    19
+   ],
+   "color": "#004ab4"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    84,
+    40,
+    72,
+    19
+   ],
+   "color": "#004ab4"
+  },
+  {
+   "op": "text",
+   "text": "계속하기",
+   "rect": [
+    4,
+    8,
+    72,
+    20
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "align": "center",
+   "valign": "middle",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "그만두기",
+   "rect": [
+    84,
+    8,
+    72,
+    20
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "align": "center",
+   "valign": "middle",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "계속하기",
+   "rect": [
+    5,
+    41,
+    72,
+    19
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "align": "center",
+   "valign": "middle",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "그만두기",
+   "rect": [
+    85,
+    41,
+    72,
+    19
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "align": "center",
+   "valign": "middle",
+   "aa": false
+  }
+ ]
+}

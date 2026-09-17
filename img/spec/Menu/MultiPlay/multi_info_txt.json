@@ -1,0 +1,77 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    102
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "스타폭스 커맨드가 없어도",
+   "rect": [
+    4,
+    23,
+    224,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "shadow": [
+    1,
+    1,
+    "#acd5c5"
+   ],
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "DS 본체만으로",
+   "rect": [
+    4,
+    47,
+    224,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "shadow": [
+    1,
+    1,
+    "#acd5c5"
+   ],
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "참가할 수 있습니다",
+   "rect": [
+    4,
+    71,
+    224,
+    14
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "shadow": [
+    1,
+    1,
+    "#acd5c5"
+   ],
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

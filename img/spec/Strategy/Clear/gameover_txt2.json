@@ -1,0 +1,6 @@
+{"edits": [
+  {"op": "hfill", "rect": [12,5,74,15], "from_x": 8},
+  {"op": "hfill", "rect": [108,5,74,15], "from_x": 104},
+  {"op": "text", "text": "다시 하기", "rect": [4,5,88,14], "font": "malgunbd", "size": 12, "bold": 1, "color": "#e6ffee", "color2": "#a4d5c5", "align": "center", "valign": "middle"},
+  {"op": "text", "text": "그만두기", "rect": [100,5,88,14], "font": "malgunbd", "size": 12, "bold": 1, "color": "#e6ffee", "color2": "#a4d5c5", "align": "center", "valign": "middle"}
+]}

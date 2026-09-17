@@ -1,0 +1,246 @@
+{
+ "edits": [
+  {
+   "op": "copy",
+   "src": [
+    28,
+    22,
+    104,
+    10
+   ],
+   "dst": [
+    28,
+    12
+   ]
+  },
+  {
+   "op": "copy",
+   "src": [
+    28,
+    22,
+    104,
+    10
+   ],
+   "dst": [
+    28,
+    2
+   ]
+  },
+  {
+   "op": "copy",
+   "src": [
+    28,
+    22,
+    104,
+    1
+   ],
+   "dst": [
+    28,
+    1
+   ]
+  },
+  {
+   "op": "text",
+   "text": "슬리피의 결심",
+   "rect": [
+    0,
+    5,
+    160,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "shadow": [
+    1,
+    1,
+    "#292020"
+   ],
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "copy",
+   "src": [
+    40,
+    62,
+    84,
+    10
+   ],
+   "dst": [
+    40,
+    52
+   ]
+  },
+  {
+   "op": "copy",
+   "src": [
+    40,
+    62,
+    84,
+    10
+   ],
+   "dst": [
+    40,
+    42
+   ]
+  },
+  {
+   "op": "copy",
+   "src": [
+    40,
+    62,
+    84,
+    1
+   ],
+   "dst": [
+    40,
+    41
+   ]
+  },
+  {
+   "op": "text",
+   "text": "피그마의 역습",
+   "rect": [
+    0,
+    45,
+    160,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "shadow": [
+    1,
+    1,
+    "#292020"
+   ],
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "copy",
+   "src": [
+    40,
+    102,
+    84,
+    10
+   ],
+   "dst": [
+    40,
+    92
+   ]
+  },
+  {
+   "op": "copy",
+   "src": [
+    40,
+    102,
+    84,
+    10
+   ],
+   "dst": [
+    40,
+    82
+   ]
+  },
+  {
+   "op": "copy",
+   "src": [
+    40,
+    102,
+    84,
+    1
+   ],
+   "dst": [
+    40,
+    81
+   ]
+  },
+  {
+   "op": "text",
+   "text": "피그마의 원한",
+   "rect": [
+    0,
+    85,
+    160,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "shadow": [
+    1,
+    1,
+    "#292020"
+   ],
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    46,
+    132,
+    68,
+    16
+   ],
+   "from_x": 41
+  },
+  {
+   "op": "text",
+   "text": "프롤로그",
+   "rect": [
+    0,
+    131,
+    160,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "shadow": [
+    1,
+    1,
+    "#292020"
+   ],
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    38,
+    172,
+    90,
+    16
+   ],
+   "from_x": 31
+  },
+  {
+   "op": "text",
+   "text": "스태프 롤",
+   "rect": [
+    0,
+    171,
+    160,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 14,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "shadow": [
+    1,
+    1,
+    "#292020"
+   ],
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

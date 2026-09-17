@@ -1,0 +1,82 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    2,
+    2,
+    226,
+    46
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    37,
+    48,
+    159,
+    44
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "게임을 진행하면 현재 데이터를",
+   "rect": [
+    4,
+    8,
+    222,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62"
+  },
+  {
+   "op": "text",
+   "text": "덮어씁니다. 괜찮습니까?",
+   "rect": [
+    4,
+    30,
+    222,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62"
+  },
+  {
+   "op": "text",
+   "text": "지금까지 클리어한",
+   "rect": [
+    40,
+    53,
+    154,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left"
+  },
+  {
+   "op": "text",
+   "text": "스테이지 데이터는 남습니다",
+   "rect": [
+    40,
+    73,
+    154,
+    18
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left"
+  }
+ ]
+}

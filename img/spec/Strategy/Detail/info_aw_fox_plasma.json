@@ -1,0 +1,22 @@
+{"edits": [
+  {"op": "fill", "rect": [125, 2, 44, 13], "color": "#002020"},
+  {"op": "fill", "rect": [125, 18, 44, 13], "color": "#002020"},
+  {"op": "fill", "rect": [125, 34, 44, 14], "color": "#002020"},
+  {"op": "fill", "rect": [125, 50, 44, 13], "color": "#002020"},
+  {"op": "fill", "rect": [125, 66, 44, 13], "color": "#002020"},
+  {"op": "fill", "rect": [125, 82, 74, 14], "color": "#002020"},
+  {"op": "text", "text": "레이저", "rect": [127, 2, 42, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
+  {"op": "text", "text": "록", "rect": [127, 18, 42, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
+  {"op": "text", "text": "봄", "rect": [127, 34, 42, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
+  {"op": "text", "text": "실드", "rect": [127, 50, 42, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
+  {"op": "text", "text": "부스트", "rect": [127, 66, 42, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
+  {"op": "text", "text": "타임 보너스", "rect": [127, 82, 72, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
+  {"op": "fill", "rect": [196, 2, 50, 13], "color": "#002020"},
+  {"op": "fill", "rect": [196, 18, 50, 13], "color": "#002020"},
+  {"op": "text", "text": "플라스마", "rect": [180, 2, 63, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "right", "valign": "middle"},
+  {"op": "text", "text": "싱글", "rect": [180, 18, 63, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "right", "valign": "middle"},
+  {"op": "fill", "rect": [66, 76, 56, 13], "color": "#002020"},
+  {"op": "fill", "rect": [78, 90, 44, 11], "color": "#002020"},
+  {"op": "text", "text": "폭스", "rect": [43, 75, 78, 13], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "right", "valign": "middle"},
+  {"op": "text", "text": "아윙 II", "rect": [44, 89, 77, 12], "font": "gulim", "size": 11, "bold": 0, "aa": false, "color": "#d5ffe6", "align": "right", "valign": "middle"}
+]}

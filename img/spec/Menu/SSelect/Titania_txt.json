@@ -1,0 +1,186 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "타이타니아",
+   "rect": [
+    2,
+    1,
+    120,
+    14
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 14,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    16,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "타이타니아",
+   "rect": [
+    2,
+    18,
+    57,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    62,
+    16,
+    12,
+    16
+   ],
+   "dst": [
+    63,
+    16
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    32,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "타이타니아",
+   "rect": [
+    2,
+    34,
+    57,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    62,
+    32,
+    12,
+    16
+   ],
+   "dst": [
+    63,
+    32
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    48,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "타이타니아",
+   "rect": [
+    2,
+    50,
+    57,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    62,
+    48,
+    12,
+    16
+   ],
+   "dst": [
+    63,
+    48
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    64,
+    128,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "타이타니아",
+   "rect": [
+    2,
+    66,
+    57,
+    12
+   ],
+   "color": "#000000",
+   "align": "left",
+   "valign": "middle",
+   "font": "gulim",
+   "size": 13,
+   "aa": false,
+   "bold": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    62,
+    64,
+    12,
+    16
+   ],
+   "dst": [
+    63,
+    64
+   ]
+  }
+ ]
+}

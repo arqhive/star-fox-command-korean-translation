@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    127
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "DS 카드에 저장된\nWi-Fi 사용자 정보를 갱신하시겠습니까?\nWi-Fi 사용자 정보를 갱신하면\nWi-Fi 커넥션에서 지금까지 사용하던\n데이터가 사라집니다.",
+   "rect": [
+    7,
+    21,
+    218,
+    120
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 7
+  }
+ ]
+}

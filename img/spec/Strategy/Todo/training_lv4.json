@@ -1,0 +1,33 @@
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    62,
+    42,
+    26,
+    11
+   ],
+   "from_x": 89
+  },
+  {
+   "op": "text",
+   "text": "레벨",
+   "rect": [
+    62,
+    40,
+    27,
+    13
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 0,
+   "color": "#ff5200",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "right",
+   "valign": "middle",
+   "aa": false
+  }
+ ]
+}

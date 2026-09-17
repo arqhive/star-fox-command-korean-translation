@@ -1,0 +1,160 @@
+{
+ "edits": [
+  {
+   "op": "vfill",
+   "rect": [
+    16,
+    51,
+    5,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "vfill",
+   "rect": [
+    25,
+    51,
+    7,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "vfill",
+   "rect": [
+    36,
+    51,
+    4,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    21,
+    51,
+    4,
+    8
+   ],
+   "from_x": 15
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    32,
+    51,
+    4,
+    8
+   ],
+   "from_x": 40
+  },
+  {
+   "op": "clear",
+   "rect": [
+    16,
+    59,
+    24,
+    1
+   ]
+  },
+  {
+   "op": "vfill",
+   "rect": [
+    72,
+    51,
+    5,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "vfill",
+   "rect": [
+    81,
+    51,
+    7,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "vfill",
+   "rect": [
+    92,
+    51,
+    4,
+    8
+   ],
+   "from_y": 50
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    77,
+    51,
+    4,
+    8
+   ],
+   "from_x": 71
+  },
+  {
+   "op": "hfill",
+   "rect": [
+    88,
+    51,
+    4,
+    8
+   ],
+   "from_x": 96
+  },
+  {
+   "op": "clear",
+   "rect": [
+    72,
+    59,
+    24,
+    1
+   ]
+  },
+  {
+   "op": "text",
+   "text": "나우스",
+   "rect": [
+    4,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "나우스",
+   "rect": [
+    60,
+    48,
+    47,
+    13
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "bottom",
+   "aa": false
+  }
+ ]
+}

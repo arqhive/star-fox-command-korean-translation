@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    71
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "지정한 조건으로는 인원이\n모이지 않을 수도 있습니다.",
+   "rect": [
+    40,
+    21,
+    151,
+    48
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 7
+  }
+ ]
+}

@@ -1,0 +1,238 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    238,
+    17
+   ],
+   "color": "#10839c"
+  },
+  {
+   "op": "text",
+   "text": "블랙 로즈",
+   "rect": [
+    1,
+    1,
+    238,
+    17
+   ],
+   "font": "malgunbd",
+   "size": 13,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    116,
+    27,
+    43,
+    12
+   ],
+   "color": "#002020"
+  },
+  {
+   "op": "text",
+   "text": "레이저",
+   "rect": [
+    118,
+    27,
+    42,
+    12
+   ],
+   "align": "left",
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    116,
+    43,
+    43,
+    12
+   ],
+   "color": "#002020"
+  },
+  {
+   "op": "text",
+   "text": "록",
+   "rect": [
+    118,
+    43,
+    42,
+    12
+   ],
+   "align": "left",
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    116,
+    59,
+    43,
+    12
+   ],
+   "color": "#002020"
+  },
+  {
+   "op": "text",
+   "text": "봄",
+   "rect": [
+    118,
+    59,
+    42,
+    12
+   ],
+   "align": "left",
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    116,
+    75,
+    43,
+    12
+   ],
+   "color": "#002020"
+  },
+  {
+   "op": "text",
+   "text": "실드",
+   "rect": [
+    118,
+    75,
+    42,
+    12
+   ],
+   "align": "left",
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    116,
+    91,
+    43,
+    12
+   ],
+   "color": "#002020"
+  },
+  {
+   "op": "text",
+   "text": "부스트",
+   "rect": [
+    118,
+    91,
+    42,
+    12
+   ],
+   "align": "left",
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    116,
+    107,
+    74,
+    12
+   ],
+   "color": "#002020"
+  },
+  {
+   "op": "text",
+   "text": "타임 보너스",
+   "rect": [
+    118,
+    107,
+    72,
+    12
+   ],
+   "align": "left",
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    193,
+    27,
+    43,
+    12
+   ],
+   "color": "#002020"
+  },
+  {
+   "op": "text",
+   "text": "재퍼",
+   "rect": [
+    190,
+    27,
+    43,
+    12
+   ],
+   "align": "right",
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "valign": "middle"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    193,
+    43,
+    43,
+    12
+   ],
+   "color": "#002020"
+  },
+  {
+   "op": "text",
+   "text": "없음",
+   "rect": [
+    190,
+    43,
+    43,
+    12
+   ],
+   "align": "right",
+   "font": "malgunbd",
+   "size": 11,
+   "bold": 1,
+   "color": "#d5ffe6",
+   "valign": "middle"
+  }
+ ]
+}

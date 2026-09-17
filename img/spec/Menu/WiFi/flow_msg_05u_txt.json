@@ -1,0 +1,31 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    94
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "DS 본체와 DS 카드의\nWi-Fi 사용자 정보가 다르므로\nWi-Fi 커넥션에 접속할 수 없습니다.",
+   "rect": [
+    18,
+    22,
+    196,
+    72
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 7
+  }
+ ]
+}
