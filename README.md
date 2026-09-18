@@ -33,9 +33,9 @@
 | 패치 적용 결과 | 값 |
 |---|---|
 | 크기 | 33,554,432 바이트 (원본과 같음) |
-| CRC32 | `5078EF80` |
-| MD5 | `a875405e0bbf56b851838427e22543ab` |
-| SHA1 | `12396390b3328a21c43670836d7c8923efb87114` |
+| CRC32 | `D50A346A` |
+| MD5 | `cce6d3e8b706e5a0b281d6a1bdea4fdd` |
+| SHA1 | `afd29611100200c5dd77c57fd325ad9bea874397` |
 
 - 북미·유럽판 롬에는 적용할 수 없습니다. 이전 버전 패치를 적용한 롬에 덧씌울 수도 없습니다.
 - 패치 도구: [ROM Patcher JS](https://www.marcrobledo.com/RomPatcher.js/)(웹), Floating IPS(PC), 또는 이 저장소의 `tools/bps.py`.
