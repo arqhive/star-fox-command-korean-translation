@@ -1,4 +1,4 @@
-# 스타폭스 커맨드 한글 패치
+# 스타폭스 커맨드 한글 패치 v1.1
 
 *Star Fox Command* (닌텐도 DS, 일본판 `ASFJ`) 비공식 한국어 팬 패치입니다.
 대사는 일본어판 원문을 기준으로 번역했습니다.
@@ -12,14 +12,14 @@
 - 닉네임 입력 화면이 영문 자판으로 시작하도록 코드 패치
 - 메뉴(DSi·TWiLight Menu++ 등)에 보이는 게임 이름을 "스타폭스 커맨드"로 변경
 - **원본과 같은 32MB 롬 크기 유지** (롬 확장 없음)
-- 확인 환경: melonDS (스토리 진행, 작전·전투·결과 화면, 갤러리, 옵션까지 확인) / **실기 3DS + TWiLight Menu++ 구동 확인**
+- 기존 버전 확인 환경: melonDS (스토리 진행, 작전·전투·결과 화면, 갤러리, 옵션까지 확인) / **실기 3DS + TWiLight Menu++ 구동 확인**. v1.1 그래픽 수정본은 사용자 게임 내 표시 확인을 반영했습니다.
 
 > 이 저장소에는 **게임 데이터(롬, 추출한 원문 대사, 그래픽, 스크린샷)가 들어 있지 않습니다.**
 > 패치를 만들거나 적용하려면 본인이 소유한 게임에서 직접 덤프한 원본이 필요합니다.
 
 ## 사용자용: 패치 적용
 
-[`release/`](release/) 폴더의 `.bps` 패치와 [`README_한국어.txt`](release/README_한국어.txt)를 참고하세요.
+최신 패치 [`StarFoxCommand_KO_v1.1.bps`](release/StarFoxCommand_KO_v1.1.bps)와 [`README_한국어.txt`](release/README_한국어.txt)를 참고하세요.
 [릴리즈 페이지](../../releases)에서도 같은 파일을 받을 수 있습니다.
 
 | 원본 (일본판) | 값 |
@@ -30,16 +30,26 @@
 | MD5 | `81d9550164d4c0a3756d1271ee063a1a` |
 | SHA1 | `fe0a3ba974132de5d63429b48ee9d3e8b6d6a318` |
 
-| 패치 적용 결과 | 값 |
+| 패치 적용 결과 (v1.1) | 값 |
 |---|---|
 | 크기 | 33,554,432 바이트 (원본과 같음) |
-| CRC32 | `5B6CC506` |
-| MD5 | `f156f1683d2625676d30bc30e38f69ed` |
-| SHA1 | `ceebae70ea6802b85c68afd73d52f27bbf919f1d` |
+| CRC32 | `2182FDE4` |
+| MD5 | `f0ccbdde83e8e17d0235be4304a8029c` |
+| SHA1 | `0678aca6a45164a555b1c14f35faa0cedd1f0c45` |
 
 - 북미·유럽판 롬에는 적용할 수 없습니다. 이전 버전 패치를 적용한 롬에 덧씌울 수도 없습니다.
 - 패치 도구: [ROM Patcher JS](https://www.marcrobledo.com/RomPatcher.js/)(웹), Floating IPS(PC), 또는 이 저장소의 `tools/bps.py`.
-- 확인: melonDS, 그리고 **실기 3DS + TWiLight Menu++** 에서 구동 확인. DS·DSi 실기와 플래시카트는 확인하지 않았습니다.
+- 기존 버전은 melonDS, 그리고 **실기 3DS + TWiLight Menu++** 에서 구동 확인했습니다. v1.1은 사용자 게임 내 표시 확인을 반영했으며 별도의 실기 재검증은 수행하지 않았습니다. DS·DSi 실기와 플래시카트는 확인하지 않았습니다.
+
+### v1.1 변경 사항
+
+- 섹터 선택 제목의 글자 위쪽 잘림 수정
+- 작전 메뉴·상태 화면의 작은 이름표 그림자 정리
+- 공통 버튼 `돌아가기`의 굵기와 `아`의 도트 획 보정
+- `돌아가기`·`삭제`·`재시도`·`마감` 글자를 아래로 1px 이동해 세로 정렬 조정
+- 대사·팔레트는 v1.0.3과 동일하며, ROM 크기 32MB 유지
+
+변경 내역과 검증 범위는 [CHANGELOG.md](CHANGELOG.md)를 참고하세요.
 
 ### 알려진 문제
 
@@ -66,7 +76,7 @@ pip install pillow numpy
 
 ```bash
 python tools/build.py
-python tools/bps.py create "rom/Star Fox Command (Japan).nds" "work/Star Fox Command (Japan) [KO].nds" release/StarFoxCommand_KO.bps
+python tools/bps.py create "rom/Star Fox Command (Japan).nds" "work/Star Fox Command (Japan) [KO].nds" release/StarFoxCommand_KO_v1.1.bps
 ```
 
 결과는 `work/Star Fox Command (Japan) [KO].nds` 에 생성되며, 위 "패치 적용 결과" 해시와 바이트 단위로 같습니다.
