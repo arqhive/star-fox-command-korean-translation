@@ -139,7 +139,7 @@ work/, rom/            원문 추출·미리보기·빌드 결과, 원본 롬(�
 
 ## 크레딧·라이선스
 
-- 이 저장소의 스크립트: [MIT License](LICENSE) (© 2026 arqhive).
+- 이 저장소의 도구 코드, 한국어 번역문, 문서: [MIT License](LICENSE) (© 2026 arqhive).
 - 글꼴: [갈무리(Galmuri)](https://github.com/quiple/galmuri) © Lee Minseo, [SIL Open Font License 1.1](fonts/OFL.txt).
 
 ## 면책
