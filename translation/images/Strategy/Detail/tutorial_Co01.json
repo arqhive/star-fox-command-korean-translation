@@ -1,0 +1,44 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    116,
+    0,
+    140,
+    128
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "터치펜으로 아윙에서\n비행 루트를\n그립니다.",
+   "rect": [
+    122,
+    13,
+    130,
+    50
+   ],
+   "galmuri": "Galmuri11-Bold",
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 6
+  },
+  {
+   "op": "text",
+   "text": "비행 루트는 다시\n그릴 수 있습니다.",
+   "rect": [
+    122,
+    87,
+    130,
+    31
+   ],
+   "galmuri": "Galmuri11-Bold",
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 6
+  }
+ ]
+}

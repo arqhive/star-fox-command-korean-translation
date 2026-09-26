@@ -1,0 +1,14 @@
+{"edits": [
+ {"op": "clear", "rect": [0, 0, 256, 80]},
+ {"op": "text", "text": "멀티 플레이", "rect": [13, 1, 100, 12], "font": "malgunbd", "size": 12, "bold": 1, "color": "#ffffff", "align": "center", "valign": "middle"},
+
+ {"op": "text", "text": "노멀 배틀", "rect": [14, 17, 100, 12], "font": "malgunbd", "size": 12, "bold": 1, "color": "#313131", "align": "center", "valign": "middle"},
+ {"op": "text", "text": "팀 배틀", "rect": [14, 33, 100, 12], "font": "malgunbd", "size": 12, "bold": 1, "color": "#313131", "align": "center", "valign": "middle"},
+ {"op": "text", "text": "플래그 배틀", "rect": [14, 48, 100, 13], "font": "malgunbd", "size": 12, "bold": 1, "color": "#313131", "align": "center", "valign": "middle"},
+ {"op": "text", "text": "베이스 배틀", "rect": [14, 65, 100, 12], "font": "malgunbd", "size": 12, "bold": 1, "color": "#313131", "align": "center", "valign": "middle"},
+
+ {"op": "text", "text": "노멀 배틀", "rect": [142, 17, 100, 12], "font": "malgunbd", "size": 12, "bold": 1, "color": "#ffffff", "align": "center", "valign": "middle"},
+ {"op": "text", "text": "팀 배틀", "rect": [142, 33, 100, 12], "font": "malgunbd", "size": 12, "bold": 1, "color": "#ffffff", "align": "center", "valign": "middle"},
+ {"op": "text", "text": "플래그 배틀", "rect": [142, 48, 100, 13], "font": "malgunbd", "size": 12, "bold": 1, "color": "#ffffff", "align": "center", "valign": "middle"},
+ {"op": "text", "text": "베이스 배틀", "rect": [142, 65, 100, 12], "font": "malgunbd", "size": 12, "bold": 1, "color": "#ffffff", "align": "center", "valign": "middle"}
+]}

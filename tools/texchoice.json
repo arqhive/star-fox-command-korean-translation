@@ -1,2252 +1,2407 @@
 {
-"3D/Textures/Adv/Opening/next_txt2.ntfq-cmp": [
-"COMP4x4",
-128,
-128
-],
-"3D/Textures/Menu/Gallery/gallery_txt.ntfq-cmp": [
-"COMP4x4",
-128,
-128
-],
-"3D/Textures/Menu/Gallery/next_button_txt.ntfq-cmp": [
-"A5I3",
-128,
-64
-],
-"3D/Textures/Menu/Gallery/pilot_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-256
-],
-"3D/Textures/Menu/General/menu_all.ntfq-cmp": [
-"COMP4x4",
-256,
-256
-],
-"3D/Textures/Menu/General/menu_txt.ntfq-cmp": [
-"A5I3",
-128,
-128
-],
-"3D/Textures/Menu/MultiPlay/entry_info_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/MultiPlay/entry_txt2.ntfq-cmp": [
-"A5I3",
-256,
-64
-],
-"3D/Textures/Menu/MultiPlay/group_select_txt.ntfq-cmp": [
-"A5I3",
-128,
-128
-],
-"3D/Textures/Menu/MultiPlay/handicap_d_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-256
-],
-"3D/Textures/Menu/MultiPlay/mp_cut_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/MultiPlay/mp_download_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/MultiPlay/mp_end_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/MultiPlay/mp_err_cl_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/MultiPlay/mp_err_pt_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/MultiPlay/mp_wait_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/MultiPlay/multi_info_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/MultiPlay/multi_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Option/all_clear_info_txt_02.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Option/ctrl_info_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Option/ctrl_txt.ntfq-cmp": [
-"COMP4x4",
-512,
-128
-],
-"3D/Textures/Menu/Option/data_clear_txt2.ntfq-cmp": [
-"COMP4x4",
-128,
-128
-],
-"3D/Textures/Menu/Option/key_info_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Option/name.ntfq-cmp": [
-"PLTT4",
-64,
-256
-],
-"3D/Textures/Menu/Option/option2_txt.ntfq-cmp": [
-"COMP4x4",
-128,
-128
-],
-"3D/Textures/Menu/Option/option_txt.ntfq-cmp": [
-"COMP4x4",
-128,
-128
-],
-"3D/Textures/Menu/Option/rec2_info_txt2_01.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Option/rec2_info_txt2_02.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Option/rec2_setting_info_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_setting_info_txt3.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Option/rec2_setting_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_test_info_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_test_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Option/single_clear_info_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Option/sound_txt2_01.ntfq-cmp": [
-"COMP4x4",
-128,
-128
-],
-"3D/Textures/Menu/Option/sound_txt2_02.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Option/voice_clear_info_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Option/wifi_clear_info_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Shared/data_not_read_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Shared/data_not_write_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SinglePlay/continue_info02_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SinglePlay/continue_info_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SinglePlay/continue_txt.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_txt.ntfq-cmp": [
-"COMP4x4",
-128,
-128
-],
-"3D/Textures/Menu/SSelect/asteroid_txt.ntfq-cmp": [
-"A5I3",
-128,
-128
-],
-"3D/Textures/Menu/SSelect/corneria_txt.ntfq-cmp": [
-"A5I3",
-128,
-256
-],
-"3D/Textures/Menu/SSelect/fichina_txt.ntfq-cmp": [
-"A5I3",
-128,
-128
-],
-"3D/Textures/Menu/SSelect/katarina_txt.ntfq-cmp": [
-"A5I3",
-128,
-128
-],
-"3D/Textures/Menu/SSelect/s_txt.ntfq-cmp": [
-"COMP4x4",
-128,
-256
-],
-"3D/Textures/Menu/SSelect/sector_txt.ntfq-cmp": [
-"A5I3",
-128,
-128
-],
-"3D/Textures/Menu/SSelect/solar_txt.ntfq-cmp": [
-"A5I3",
-128,
-128
-],
-"3D/Textures/Menu/SSelect/stageselect_txt.ntfq-cmp": [
-"A5I3",
-128,
-256
-],
-"3D/Textures/Menu/SSelect/training_txt.ntfq-cmp": [
-"A5I3",
-128,
-128
-],
-"3D/Textures/Menu/SSelect/venom_txt.ntfq-cmp": [
-"A5I3",
-128,
-128
-],
-"3D/Textures/Menu/WiFi/battle_top_info_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/battle_top_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/code_exchg_cl01_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/code_exchg_cl02_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/code_exchg_do_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/code_exchg_fin_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/code_exchg_had_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/code_exchg_info_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/code_exchg_no_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/code_exchg_not_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/code_exchg_pt01_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/code_exchg_pt02_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/code_exchg_txt.ntfq-cmp": [
-"COMP4x4",
-128,
-128
-],
-"3D/Textures/Menu/WiFi/err_msg_10_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/err_msg_11_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/err_msg_1_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/err_msg_2_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/err_msg_3_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/err_msg_4_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/err_msg_5_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/err_msg_6_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/err_msg_7_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/err_msg_8_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/err_msg_9_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/err_msg_code_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Menu/WiFi/err_msg_drop_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/err_msg_etc_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/f_code_txt.ntfq-cmp": [
-"COMP4x4",
-128,
-128
-],
-"3D/Textures/Menu/WiFi/f_conf_code_info_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/f_in_code_info_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/f_in_code_miss_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/f_in_no_code.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/f_list_del_msg01_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/f_list_del_msg02_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/f_list_full_msg_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/f_list_same_msg_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/flow_msg_01u_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/flow_msg_03u_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/flow_msg_04u_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/flow_msg_05u_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/flow_msg_06u_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/flow_msg_07u_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/flow_msg_09u_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/flow_msg_10u_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/free_battle_info_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/free_battle_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/lobby_info_txt2_02.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/lobby_info_txt2_03.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/lobby_info_txt2_04.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/lobby_info_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/lobby_search_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Menu/WiFi/lobby_tl2.ntfq-cmp": [
-"COMP4x4",
-128,
-32
-],
-"3D/Textures/Menu/WiFi/msg_0012_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/msg_0018_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/msg_0019_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/msg_0020_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/msg_0021_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/no_code_msg_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/no_f_list_msg02_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/no_f_list_msg_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/not_connect_cl.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/not_connect_pt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/wifi_txt.ntfq-cmp": [
-"COMP4x4",
-128,
-128
-],
-"3D/Textures/Strategy/Clear/gameover_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Strategy/Clear/report_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Strategy/Clear/result_icons2.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Strategy/Clear/result_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Clear/save_txt.ntfq-cmp": [
-"PLTT16",
-128,
-32
-],
-"3D/Textures/Strategy/Message/name.ntfq-cmp": [
-"PLTT4",
-128,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Aq1_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Aq2_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Aq3_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Aq4_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_As1_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_As2_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_As3_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_As4_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Co1_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Co2_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Co3_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Co4_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Co5_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Co6_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Fi1_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Fi2_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Fi3_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Ka1_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Ka2_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Ka3_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Se1_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Se2_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Se3_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_So1_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_So2_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Ti1_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Ti2_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Ti3_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Ti4_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Ve1_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Ve2_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Ve3_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Adv/StageTitle/title_Ve4_02.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Common/Message/amanda.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/andross.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/angler.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/armyA.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/armyB.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/armyC.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/ash.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/beltino.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/bill.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/cat.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/falco.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/fox.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/james.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/jodie.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/krystal.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/leon.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/lucy.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/naus.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/octman.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/oikonny.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/panther.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/peppy.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/pigma.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/shaman.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/slippy.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/wolf.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/zazan.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Message/zoldge.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Common/Pause/pause_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Gallery/challenge_txt.ntfq-cmp": [
-"COMP4x4",
-128,
-128
-],
-"3D/Textures/Menu/Gallery/end_gallery_tl2.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Menu/Gallery/ending_list1_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-256
-],
-"3D/Textures/Menu/Gallery/ending_list2_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-256
-],
-"3D/Textures/Menu/Gallery/f_info_amanda.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/f_info_ash.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/f_info_bill.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/f_info_cat.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/f_info_falco.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/f_info_fox.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/f_info_james.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/f_info_jodie.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/f_info_krystal.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/f_info_leon.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/f_info_lucy.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/f_info_naus.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/f_info_panther.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/f_info_peppy.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/f_info_slippy.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/f_info_wolf.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/gallery_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Menu/Gallery/p_amanda.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/p_ash.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/p_bill.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/p_cat.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/p_falco.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/p_fox.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/p_james.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/p_jodie.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/p_krystal.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/p_leon.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/p_lucy.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/p_naus.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/p_panther.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/p_peppy.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/p_slippy.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/p_wolf.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/Gallery/pilot_tl2.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Menu/MultiPlay/handicap_wait_txt2.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/MultiPlay/mp_err_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/MultiPlay/multi_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Menu/MultiPlay/name.ntfq-cmp": [
-"PLTT4",
-64,
-256
-],
-"3D/Textures/Menu/Option/ctrl_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Menu/Option/data_clear_tl2.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Menu/Option/option2_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Menu/Option/option_tl.ntfq-cmp": [
-"PLTT16",
-256,
-32
-],
-"3D/Textures/Menu/Option/rec2_del_now.ntfq-cmp": [
-"A5I3",
-128,
-32
-],
-"3D/Textures/Menu/Option/rec2_q01.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q02.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q03.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q04.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q05.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q06.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q07.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q08.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q09.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q10.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q11.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q12.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q13.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q14.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q15.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q16.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q17.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q18.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q19.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q20.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q21.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q22.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q23.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q24.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q25.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q26.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q27.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q28.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q29.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q30.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_q99.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/Option/rec2_save_now.ntfq-cmp": [
-"A5I3",
-128,
-32
-],
-"3D/Textures/Menu/Option/rec2_tl2.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Menu/Option/sound_tl2.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Menu/Shared/system_button.ntfq-cmp": [
-"COMP4x4",
-64,
-128
-],
-"3D/Textures/Menu/SinglePlay/start_select_Aq1.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Aq2.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Aq3.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Aq4.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_As1.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_As2.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_As3.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_As4.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Co1.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Co2.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Co3.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Co4.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Co5.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Co6.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Fi1.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Fi2.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Fi3.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Ka1.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Ka2.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Ka3.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Se1.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Se2.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Se3.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_So1.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_So2.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Ti1.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Ti2.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Ti3.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Ti4.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Menu/SinglePlay/start_select_Ve1.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Ve2.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Ve3.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SinglePlay/start_select_Ve4.ntfq-cmp": [
-"COMP4x4",
-256,
-64
-],
-"3D/Textures/Menu/SPart/name.ntfq-cmp": [
-"PLTT4",
-64,
-256
-],
-"3D/Textures/Menu/SPart/planet_name.ntfq-cmp": [
-"PLTT4",
-256,
-256
-],
-"3D/Textures/Menu/SPart/skip_button2.ntfq-cmp": [
-"PLTT16",
-64,
-16
-],
-"3D/Textures/Menu/SSelect/Aquas_txt.ntfq-cmp": [
-"A5I3",
-128,
-128
-],
-"3D/Textures/Menu/SSelect/m_Aq1_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Aq2_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Aq3_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Aq4_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Aq_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-256
-],
-"3D/Textures/Menu/SSelect/m_As1_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_As2_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_As3_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_As4_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_As_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-256
-],
-"3D/Textures/Menu/SSelect/m_Co1_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Co2_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Co3_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Co4_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Co5_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Co6_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Co_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-256
-],
-"3D/Textures/Menu/SSelect/m_Fi1_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Fi2_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Fi3_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Fi_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-256
-],
-"3D/Textures/Menu/SSelect/m_Ka1_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Ka2_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Ka3_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Ka_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-256
-],
-"3D/Textures/Menu/SSelect/m_Se1_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Se2_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Se3_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Se_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-256
-],
-"3D/Textures/Menu/SSelect/m_So1_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_So2_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_So_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-256
-],
-"3D/Textures/Menu/SSelect/m_Ti1_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Ti2_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Ti3_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Ti4_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Ti_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-256
-],
-"3D/Textures/Menu/SSelect/m_Ve1_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Ve2_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Ve3_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Ve4_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/SSelect/m_Ve_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-256
-],
-"3D/Textures/Menu/SSelect/s_select_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Menu/SSelect/s_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Menu/SSelect/Titania_txt.ntfq-cmp": [
-"A5I3",
-128,
-128
-],
-"3D/Textures/Menu/Title/logo2_u.ntfq-cmp": [
-"PLTT16",
-256,
-256
-],
-"3D/Textures/Menu/Title/logo_d.ntfq-cmp": [
-"PLTT16",
-256,
-256
-],
-"3D/Textures/Menu/Title/start_txt.ntfq-cmp": [
-"A3I5",
-128,
-32
-],
-"3D/Textures/Menu/Title/Title_Top.ntfq-cmp": [
-"PLTT256",
-256,
-256
-],
-"3D/Textures/Menu/WiFi/code_exchg_err_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/code_exchg_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Menu/WiFi/f_code_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Menu/WiFi/f_in_code_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Menu/WiFi/f_list_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Menu/WiFi/friendcode_txt.ntfq-cmp": [
-"A5I3",
-128,
-128
-],
-"3D/Textures/Menu/WiFi/input_friendcode_txt.ntfq-cmp": [
-"A5I3",
-256,
-32
-],
-"3D/Textures/Menu/WiFi/lobby_info_txt2_01.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Menu/WiFi/menu_txt.ntfq-cmp": [
-"A5I3",
-128,
-128
-],
-"3D/Textures/Menu/WiFi/wifi_tl.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Menu/WiFi/wifiplay_txt.ntfq-cmp": [
-"A5I3",
-128,
-64
-],
-"3D/Textures/Strategy/Basic/remaining_txt.ntfq-cmp": [
-"PLTT4",
-64,
-32
-],
-"3D/Textures/Strategy/Basic/star_wnd.ntfq-cmp": [
-"PLTT4",
-64,
-64
-],
-"3D/Textures/Strategy/Basic/time_txt_l.ntfq-cmp": [
-"PLTT4",
-512,
-256
-],
-"3D/Textures/Strategy/Clear/gameover_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-32
-],
-"3D/Textures/Strategy/Detail/info_aw_amanda.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_aw_ash.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_aw_bill.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_aw_cat.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_aw_falco.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_aw_fox.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_aw_fox_multi.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_aw_fox_plasma.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_aw_fox_twin.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_aw_james.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_aw_jodie.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_aw_krystal.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_aw_leon.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_aw_lucy.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_aw_naus.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_aw_panther.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_aw_peppy.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_aw_slippy.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_aw_wolf.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_ebase_tl.ntfq-cmp": [
-"PLTT16",
-256,
-32
-],
-"3D/Textures/Strategy/Detail/info_ebase_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_emissile.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_emissile_tl.ntfq-cmp": [
-"PLTT16",
-256,
-32
-],
-"3D/Textures/Strategy/Detail/info_enemy_tl.ntfq-cmp": [
-"PLTT16",
-256,
-32
-],
-"3D/Textures/Strategy/Detail/info_enemy_txt2.ntfq-cmp": [
-"PLTT4",
-512,
-64
-],
-"3D/Textures/Strategy/Detail/info_enemy_txt.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_enum_txt.ntfq-cmp": [
-"PLTT16",
-256,
-64
-],
-"3D/Textures/Strategy/Detail/info_etc_base.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_etc_missile.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_etc_round.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_etc_supply.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_etc_time.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/info_etc_tl.ntfq-cmp": [
-"PLTT16",
-256,
-32
-],
-"3D/Textures/Strategy/Detail/info_fighter_tl.ntfq-cmp": [
-"PLTT16",
-256,
-32
-],
-"3D/Textures/Strategy/Detail/info_gf_tl.ntfq-cmp": [
-"PLTT16",
-256,
-32
-],
-"3D/Textures/Strategy/Detail/tutorial_base.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/tutorial_capsule.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/tutorial_clear_fog.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/tutorial_e_missile.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/tutorial_fail_1.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/tutorial_fail_2.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/tutorial_fail_3.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/tutorial_fail_4.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/tutorial_fog.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/tutorial_gf_missile.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/tutorial_item.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/tutorial_lose_base.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/tutorial_mission.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/tutorial_route.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Detail/tutorial_todo.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Intro/mission_complete.ntfq-cmp": [
-"PLTT16",
-256,
-128
-],
-"3D/Textures/Strategy/Intro/mission_failed.ntfq-cmp": [
-"PLTT16",
-256,
-128
-],
-"3D/Textures/Strategy/Intro/mission_header.ntfq-cmp": [
-"PLTT16",
-256,
-128
-],
-"3D/Textures/Strategy/Intro/warning.ntfq-cmp": [
-"PLTT16",
-256,
-32
-],
-"3D/Textures/Strategy/Result/result_txt.ntfq-cmp": [
-"A5I3",
-256,
-64
-],
-"3D/Textures/Strategy/Status/capsule.ntfq-cmp": [
-"A3I5",
-128,
-32
-],
-"3D/Textures/Strategy/Status/Round.ntfq-cmp": [
-"A5I3",
-128,
-16
-],
-"3D/Textures/Strategy/Status/status_name.ntfq-cmp": [
-"PLTT4",
-64,
-256
-],
-"3D/Textures/Strategy/Todo/area.ntfq-cmp": [
-"PLTT4",
-128,
-64
-],
-"3D/Textures/Strategy/Todo/boss_anglor.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Todo/boss_arrowhead.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Todo/boss_biobrain.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Todo/boss_deathcrab.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Todo/boss_devilshark.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Todo/boss_duneworm.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Todo/boss_jogorilla.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Todo/boss_killerbee.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Todo/boss_m_dodora.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Todo/boss_octopod.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Todo/boss_pigma.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Todo/boss_solar.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Todo/boss_splitter.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Todo/boss_starwolf.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Todo/boss_zazanga9.ntfq-cmp": [
-"COMP4x4",
-256,
-128
-],
-"3D/Textures/Strategy/Todo/quit_button2.ntfq-cmp": [
-"PLTT16",
-64,
-32
-],
-"3D/Textures/Strategy/Todo/select_char_txt.ntfq-cmp": [
-"A5I3",
-256,
-32
-],
-"3D/Textures/Strategy/Todo/training_lv1.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Strategy/Todo/training_lv2.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Strategy/Todo/training_lv3.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Strategy/Todo/training_lv4.ntfq-cmp": [
-"COMP4x4",
-128,
-64
-],
-"3D/Textures/Strategy/Todo/training_txt.ntfq-cmp": [
-"PLTT16",
-256,
-128
-]
+ "3D/Textures/Adv/Opening/next_txt2.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/gallery_txt.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/next_button_txt.ntfq-cmp": [
+  "A5I3",
+  128,
+  64
+ ],
+ "3D/Textures/Menu/Gallery/pilot_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  256
+ ],
+ "3D/Textures/Menu/General/menu_all.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  256
+ ],
+ "3D/Textures/Menu/General/menu_txt.ntfq-cmp": [
+  "A5I3",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/MultiPlay/entry_info_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/MultiPlay/entry_txt2.ntfq-cmp": [
+  "A5I3",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/MultiPlay/group_select_txt.ntfq-cmp": [
+  "A5I3",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/MultiPlay/handicap_d_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  256
+ ],
+ "3D/Textures/Menu/MultiPlay/mp_cut_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/MultiPlay/mp_download_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/MultiPlay/mp_end_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/MultiPlay/mp_err_cl_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/MultiPlay/mp_err_pt_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/MultiPlay/mp_wait_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/MultiPlay/multi_info_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/MultiPlay/multi_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Option/all_clear_info_txt_02.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Option/ctrl_info_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Option/ctrl_txt.ntfq-cmp": [
+  "COMP4x4",
+  512,
+  128
+ ],
+ "3D/Textures/Menu/Option/data_clear_txt2.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/Option/key_info_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Option/name.ntfq-cmp": [
+  "PLTT4",
+  64,
+  256
+ ],
+ "3D/Textures/Menu/Option/option2_txt.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/Option/option_txt.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/Option/rec2_info_txt2_01.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Option/rec2_info_txt2_02.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Option/rec2_setting_info_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_setting_info_txt3.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Option/rec2_setting_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_test_info_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_test_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Option/single_clear_info_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Option/sound_txt2_01.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/Option/sound_txt2_02.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Option/voice_clear_info_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Option/wifi_clear_info_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Shared/data_not_read_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Shared/data_not_write_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SinglePlay/continue_info02_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SinglePlay/continue_info_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SinglePlay/continue_txt.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_txt.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/asteroid_txt.ntfq-cmp": [
+  "A5I3",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/corneria_txt.ntfq-cmp": [
+  "A5I3",
+  128,
+  256
+ ],
+ "3D/Textures/Menu/SSelect/fichina_txt.ntfq-cmp": [
+  "A5I3",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/katarina_txt.ntfq-cmp": [
+  "A5I3",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/s_txt.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  256
+ ],
+ "3D/Textures/Menu/SSelect/sector_txt.ntfq-cmp": [
+  "A5I3",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/solar_txt.ntfq-cmp": [
+  "A5I3",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/stageselect_txt.ntfq-cmp": [
+  "A5I3",
+  128,
+  256
+ ],
+ "3D/Textures/Menu/SSelect/training_txt.ntfq-cmp": [
+  "A5I3",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/venom_txt.ntfq-cmp": [
+  "A5I3",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/battle_top_info_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/battle_top_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/code_exchg_cl01_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/code_exchg_cl02_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/code_exchg_do_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/code_exchg_fin_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/code_exchg_had_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/code_exchg_info_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/code_exchg_no_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/code_exchg_not_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/code_exchg_pt01_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/code_exchg_pt02_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/code_exchg_txt.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/err_msg_10_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/err_msg_11_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/err_msg_1_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/err_msg_2_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/err_msg_3_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/err_msg_4_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/err_msg_5_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/err_msg_6_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/err_msg_7_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/err_msg_8_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/err_msg_9_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/err_msg_code_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/WiFi/err_msg_drop_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/err_msg_etc_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/f_code_txt.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/f_conf_code_info_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/f_in_code_info_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/f_in_code_miss_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/f_in_no_code.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/f_list_del_msg01_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/f_list_del_msg02_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/f_list_full_msg_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/f_list_same_msg_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/flow_msg_01u_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/flow_msg_03u_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/flow_msg_04u_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/flow_msg_05u_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/flow_msg_06u_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/flow_msg_07u_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/flow_msg_09u_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/flow_msg_10u_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/free_battle_info_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/free_battle_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/lobby_info_txt2_02.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/lobby_info_txt2_03.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/lobby_info_txt2_04.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/lobby_info_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/lobby_search_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/WiFi/lobby_tl2.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  32
+ ],
+ "3D/Textures/Menu/WiFi/msg_0012_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/msg_0018_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/msg_0019_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/msg_0020_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/msg_0021_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/no_code_msg_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/no_f_list_msg02_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/no_f_list_msg_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/not_connect_cl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/not_connect_pt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/wifi_txt.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  128
+ ],
+ "3D/Textures/Strategy/Clear/gameover_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Strategy/Clear/report_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Strategy/Clear/result_icons2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Strategy/Clear/result_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Clear/save_txt.ntfq-cmp": [
+  "PLTT16",
+  128,
+  32
+ ],
+ "3D/Textures/Strategy/Message/name.ntfq-cmp": [
+  "PLTT4",
+  128,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Aq1_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Aq2_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Aq3_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Aq4_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_As1_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_As2_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_As3_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_As4_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Co1_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Co2_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Co3_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Co4_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Co5_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Co6_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Fi1_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Fi2_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Fi3_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Ka1_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Ka2_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Ka3_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Se1_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Se2_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Se3_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_So1_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_So2_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Ti1_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Ti2_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Ti3_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Ti4_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Ve1_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Ve2_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Ve3_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Adv/StageTitle/title_Ve4_02.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Common/Message/amanda.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/andross.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/angler.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/armyA.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/armyB.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/armyC.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/ash.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/beltino.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/bill.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/cat.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/falco.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/fox.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/james.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/jodie.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/krystal.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/leon.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/lucy.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/naus.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/octman.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/oikonny.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/panther.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/peppy.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/pigma.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/shaman.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/slippy.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/wolf.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/zazan.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Message/zoldge.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Common/Pause/pause_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Gallery/challenge_txt.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/end_gallery_tl2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/Gallery/ending_list1_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  256
+ ],
+ "3D/Textures/Menu/Gallery/ending_list2_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  256
+ ],
+ "3D/Textures/Menu/Gallery/f_info_amanda.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/f_info_ash.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/f_info_bill.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/f_info_cat.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/f_info_falco.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/f_info_fox.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/f_info_james.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/f_info_jodie.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/f_info_krystal.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/f_info_leon.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/f_info_lucy.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/f_info_naus.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/f_info_panther.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/f_info_peppy.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/f_info_slippy.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/f_info_wolf.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/gallery_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/Gallery/p_amanda.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/p_ash.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/p_bill.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/p_cat.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/p_falco.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/p_fox.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/p_james.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/p_jodie.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/p_krystal.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/p_leon.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/p_lucy.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/p_naus.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/p_panther.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/p_peppy.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/p_slippy.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/p_wolf.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Gallery/pilot_tl2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/MultiPlay/handicap_wait_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/MultiPlay/mp_err_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/MultiPlay/multi_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/MultiPlay/name.ntfq-cmp": [
+  "PLTT4",
+  64,
+  256
+ ],
+ "3D/Textures/Menu/Option/ctrl_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/Option/data_clear_tl2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/Option/option2_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/Option/option_tl.ntfq-cmp": [
+  "PLTT16",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/Option/rec2_del_now.ntfq-cmp": [
+  "A5I3",
+  128,
+  32
+ ],
+ "3D/Textures/Menu/Option/rec2_q01.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q02.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q03.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q04.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q05.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q06.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q07.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q08.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q09.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q10.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q11.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q12.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q13.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q14.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q15.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q16.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q17.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q18.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q19.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q20.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q21.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q22.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q23.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q24.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q25.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q26.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q27.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q28.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q29.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q30.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_q99.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/Option/rec2_save_now.ntfq-cmp": [
+  "A5I3",
+  128,
+  32
+ ],
+ "3D/Textures/Menu/Option/rec2_tl2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/Option/sound_tl2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/Shared/system_button.ntfq-cmp": [
+  "COMP4x4",
+  64,
+  128
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Aq1.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Aq2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Aq3.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Aq4.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_As1.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_As2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_As3.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_As4.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Co1.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Co2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Co3.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Co4.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Co5.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Co6.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Fi1.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Fi2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Fi3.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Ka1.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Ka2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Ka3.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Se1.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Se2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Se3.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_So1.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_So2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Ti1.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Ti2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Ti3.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Ti4.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Ve1.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Ve2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Ve3.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SinglePlay/start_select_Ve4.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  64
+ ],
+ "3D/Textures/Menu/SPart/name.ntfq-cmp": [
+  "PLTT4",
+  64,
+  256
+ ],
+ "3D/Textures/Menu/SPart/planet_name.ntfq-cmp": [
+  "PLTT4",
+  256,
+  256
+ ],
+ "3D/Textures/Menu/SPart/skip_button2.ntfq-cmp": [
+  "PLTT16",
+  64,
+  16
+ ],
+ "3D/Textures/Menu/SSelect/Aquas_txt.ntfq-cmp": [
+  "A5I3",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Aq1_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Aq2_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Aq3_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Aq4_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Aq_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  256
+ ],
+ "3D/Textures/Menu/SSelect/m_As1_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_As2_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_As3_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_As4_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_As_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  256
+ ],
+ "3D/Textures/Menu/SSelect/m_Co1_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Co2_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Co3_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Co4_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Co5_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Co6_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Co_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  256
+ ],
+ "3D/Textures/Menu/SSelect/m_Fi1_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Fi2_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Fi3_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Fi_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  256
+ ],
+ "3D/Textures/Menu/SSelect/m_Ka1_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Ka2_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Ka3_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Ka_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  256
+ ],
+ "3D/Textures/Menu/SSelect/m_Se1_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Se2_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Se3_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Se_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  256
+ ],
+ "3D/Textures/Menu/SSelect/m_So1_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_So2_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_So_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  256
+ ],
+ "3D/Textures/Menu/SSelect/m_Ti1_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Ti2_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Ti3_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Ti4_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Ti_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  256
+ ],
+ "3D/Textures/Menu/SSelect/m_Ve1_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Ve2_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Ve3_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Ve4_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/SSelect/m_Ve_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  256
+ ],
+ "3D/Textures/Menu/SSelect/s_select_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/SSelect/s_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/SSelect/Titania_txt.ntfq-cmp": [
+  "A5I3",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/Title/logo2_u.ntfq-cmp": [
+  "PLTT16",
+  256,
+  256
+ ],
+ "3D/Textures/Menu/Title/logo_d.ntfq-cmp": [
+  "PLTT16",
+  256,
+  256
+ ],
+ "3D/Textures/Menu/Title/start_txt.ntfq-cmp": [
+  "A3I5",
+  128,
+  32
+ ],
+ "3D/Textures/Menu/Title/Title_Top.ntfq-cmp": [
+  "PLTT256",
+  256,
+  256
+ ],
+ "3D/Textures/Menu/WiFi/code_exchg_err_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/code_exchg_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/WiFi/f_code_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/WiFi/f_in_code_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/WiFi/f_list_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/WiFi/friendcode_txt.ntfq-cmp": [
+  "A5I3",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/input_friendcode_txt.ntfq-cmp": [
+  "A5I3",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/WiFi/lobby_info_txt2_01.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/menu_txt.ntfq-cmp": [
+  "A5I3",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/wifi_tl.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/WiFi/wifiplay_txt.ntfq-cmp": [
+  "A5I3",
+  128,
+  64
+ ],
+ "3D/Textures/Strategy/Basic/remaining_txt.ntfq-cmp": [
+  "PLTT4",
+  64,
+  32
+ ],
+ "3D/Textures/Strategy/Basic/star_wnd.ntfq-cmp": [
+  "PLTT4",
+  64,
+  64
+ ],
+ "3D/Textures/Strategy/Basic/time_txt_l.ntfq-cmp": [
+  "PLTT4",
+  512,
+  256
+ ],
+ "3D/Textures/Strategy/Clear/gameover_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  32
+ ],
+ "3D/Textures/Strategy/Detail/info_aw_amanda.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_aw_ash.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_aw_bill.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_aw_cat.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_aw_falco.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_aw_fox.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_aw_fox_multi.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_aw_fox_plasma.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_aw_fox_twin.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_aw_james.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_aw_jodie.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_aw_krystal.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_aw_leon.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_aw_lucy.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_aw_naus.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_aw_panther.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_aw_peppy.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_aw_slippy.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_aw_wolf.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_ebase_tl.ntfq-cmp": [
+  "PLTT16",
+  256,
+  32
+ ],
+ "3D/Textures/Strategy/Detail/info_ebase_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_emissile.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_emissile_tl.ntfq-cmp": [
+  "PLTT16",
+  256,
+  32
+ ],
+ "3D/Textures/Strategy/Detail/info_enemy_tl.ntfq-cmp": [
+  "PLTT16",
+  256,
+  32
+ ],
+ "3D/Textures/Strategy/Detail/info_enemy_txt2.ntfq-cmp": [
+  "PLTT4",
+  512,
+  64
+ ],
+ "3D/Textures/Strategy/Detail/info_enemy_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_enum_txt.ntfq-cmp": [
+  "PLTT16",
+  256,
+  64
+ ],
+ "3D/Textures/Strategy/Detail/info_etc_base.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_etc_missile.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_etc_round.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_etc_supply.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_etc_time.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_etc_tl.ntfq-cmp": [
+  "PLTT16",
+  256,
+  32
+ ],
+ "3D/Textures/Strategy/Detail/info_fighter_tl.ntfq-cmp": [
+  "PLTT16",
+  256,
+  32
+ ],
+ "3D/Textures/Strategy/Detail/info_gf_tl.ntfq-cmp": [
+  "PLTT16",
+  256,
+  32
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_base.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_capsule.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_clear_fog.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_e_missile.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_fail_1.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_fail_2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_fail_3.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_fail_4.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_fog.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_gf_missile.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_item.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_lose_base.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_mission.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_route.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_todo.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Intro/mission_complete.ntfq-cmp": [
+  "PLTT16",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Intro/mission_failed.ntfq-cmp": [
+  "PLTT16",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Intro/mission_header.ntfq-cmp": [
+  "PLTT16",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Intro/warning.ntfq-cmp": [
+  "PLTT16",
+  256,
+  32
+ ],
+ "3D/Textures/Strategy/Result/result_txt.ntfq-cmp": [
+  "A5I3",
+  256,
+  64
+ ],
+ "3D/Textures/Strategy/Status/capsule.ntfq-cmp": [
+  "A3I5",
+  128,
+  32
+ ],
+ "3D/Textures/Strategy/Status/Round.ntfq-cmp": [
+  "A5I3",
+  128,
+  16
+ ],
+ "3D/Textures/Strategy/Status/status_name.ntfq-cmp": [
+  "PLTT4",
+  64,
+  256
+ ],
+ "3D/Textures/Strategy/Todo/area.ntfq-cmp": [
+  "PLTT4",
+  128,
+  64
+ ],
+ "3D/Textures/Strategy/Todo/boss_anglor.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Todo/boss_arrowhead.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Todo/boss_biobrain.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Todo/boss_deathcrab.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Todo/boss_devilshark.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Todo/boss_duneworm.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Todo/boss_jogorilla.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Todo/boss_killerbee.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Todo/boss_m_dodora.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Todo/boss_octopod.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Todo/boss_pigma.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Todo/boss_solar.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Todo/boss_splitter.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Todo/boss_starwolf.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Todo/boss_zazanga9.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Todo/quit_button2.ntfq-cmp": [
+  "PLTT16",
+  64,
+  32
+ ],
+ "3D/Textures/Strategy/Todo/select_char_txt.ntfq-cmp": [
+  "A5I3",
+  256,
+  32
+ ],
+ "3D/Textures/Strategy/Todo/training_lv1.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Strategy/Todo/training_lv2.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Strategy/Todo/training_lv3.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Strategy/Todo/training_lv4.ntfq-cmp": [
+  "COMP4x4",
+  128,
+  64
+ ],
+ "3D/Textures/Strategy/Todo/training_txt.ntfq-cmp": [
+  "PLTT16",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/MultiPlay/b_sel_inf_base.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/MultiPlay/b_sel_inf_flag.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/MultiPlay/b_sel_inf_normal.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/MultiPlay/b_sel_inf_team.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/MultiPlay/game_select_txt.ntfq-cmp": [
+  "A5I3",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Option/all_clear_info_txt_01.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/Option/recording_tl.ntfq-cmp": [
+  "PLTT16",
+  256,
+  32
+ ],
+ "3D/Textures/Menu/Option/voice_clear_info_txt.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/end_menu_txt.ntfq-cmp": [
+  "A5I3",
+  128,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/lobby_2nd_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/lobby_3rd_txt2.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Menu/WiFi/not_connect.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Overlays/HUD/Ash.ntfq-cmp": [
+  "PLTT4",
+  32,
+  16
+ ],
+ "3D/Textures/Overlays/HUD/Falco_SP.ntfq-cmp": [
+  "PLTT4",
+  32,
+  16
+ ],
+ "3D/Textures/Overlays/HUD/Fox_SP.ntfq-cmp": [
+  "PLTT4",
+  32,
+  16
+ ],
+ "3D/Textures/Overlays/HUD/Help_Ash.ntfq-cmp": [
+  "PLTT4",
+  32,
+  32
+ ],
+ "3D/Textures/Overlays/HUD/Help_Falco.ntfq-cmp": [
+  "PLTT4",
+  32,
+  32
+ ],
+ "3D/Textures/Overlays/HUD/Help_Fox.ntfq-cmp": [
+  "PLTT4",
+  32,
+  32
+ ],
+ "3D/Textures/Overlays/HUD/Help_Krystal.ntfq-cmp": [
+  "PLTT4",
+  32,
+  32
+ ],
+ "3D/Textures/Overlays/HUD/Help_Slippy.ntfq-cmp": [
+  "PLTT4",
+  32,
+  32
+ ],
+ "3D/Textures/Overlays/HUD/Krystal_SP.ntfq-cmp": [
+  "PLTT4",
+  32,
+  16
+ ],
+ "3D/Textures/Overlays/HUD/Slippy_SP.ntfq-cmp": [
+  "PLTT4",
+  32,
+  16
+ ],
+ "3D/Textures/Overlays/HUD/Text_SP.ntfq-cmp": [
+  "PLTT4",
+  64,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_ebase.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/info_etc_question.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_Co01.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_Co02.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_Co03.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_Co04.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Detail/tutorial_Co05.ntfq-cmp": [
+  "COMP4x4",
+  256,
+  128
+ ],
+ "3D/Textures/Strategy/Status/Turn.ntfq-cmp": [
+  "A5I3",
+  128,
+  32
+ ]
 }

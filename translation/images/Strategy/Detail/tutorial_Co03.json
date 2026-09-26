@@ -1,0 +1,105 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    50,
+    26,
+    65,
+    24
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    50,
+    66,
+    65,
+    24
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    116,
+    16,
+    140,
+    96
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "적",
+   "rect": [
+    58,
+    37,
+    40,
+    12
+   ],
+   "galmuri": "Galmuri11-Bold",
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top"
+  },
+  {
+   "op": "text",
+   "text": "적 기지",
+   "rect": [
+    58,
+    77,
+    56,
+    12
+   ],
+   "galmuri": "Galmuri11-Bold",
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top"
+  },
+  {
+   "op": "text",
+   "text": "모든 적을 격파하고\n적에게 점령당한\n모든 기지를 해방하면",
+   "rect": [
+    120,
+    29,
+    132,
+    52
+   ],
+   "galmuri": "Galmuri11-Bold",
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 6
+  },
+  {
+   "op": "text",
+   "text": "임무 완료",
+   "rect": [
+    120,
+    89,
+    60,
+    12
+   ],
+   "galmuri": "Galmuri11-Bold",
+   "color": "#0041ff",
+   "align": "left",
+   "valign": "top"
+  },
+  {
+   "op": "text",
+   "text": "입니다.",
+   "rect": [
+    174,
+    89,
+    60,
+    12
+   ],
+   "galmuri": "Galmuri11-Bold",
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top"
+  }
+ ]
+}

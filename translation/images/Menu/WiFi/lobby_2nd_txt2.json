@@ -1,0 +1,30 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    1,
+    230,
+    71
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "2차전을 시작합니다.",
+   "rect": [
+    2,
+    30,
+    228,
+    13
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#315a62",
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

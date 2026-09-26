@@ -1,0 +1,44 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    122,
+    0,
+    134,
+    128
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "아윙이 적과 접촉하면\n태스크 메뉴가\n나타납니다.",
+   "rect": [
+    126,
+    9,
+    128,
+    52
+   ],
+   "galmuri": "Galmuri11-Bold",
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 6
+  },
+  {
+   "op": "text",
+   "text": "태스크 메뉴를\n터치하면\n배틀이 시작됩니다.",
+   "rect": [
+    126,
+    70,
+    128,
+    52
+   ],
+   "galmuri": "Galmuri11-Bold",
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 6
+  }
+ ]
+}

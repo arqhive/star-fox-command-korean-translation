@@ -3,10 +3,10 @@
 *Star Fox Command* (닌텐도 DS, 일본판 `ASFJ`) 비공식 한국어 팬 패치입니다.
 대사는 일본어판 원문을 기준으로 번역했습니다.
 
-**제작: arqhive** · **최신 버전: [v1.1](https://github.com/arqhive/star-fox-command-korean-translation/releases/tag/v1.1)**
+**제작: arqhive** · **최신 버전: [v1.2](https://github.com/arqhive/star-fox-command-korean-translation/releases/tag/v1.2)**
 
 - 대사 약 2,870문장 전체를 한글화했습니다(스토리, 전투 무전, 작전 화면, 오프닝·엔딩, 적 이름).
-- 그림 글씨 496장을 한글화했습니다(메뉴, 타이틀, 스테이지 제목, 갤러리, 옵션, Wi-Fi 안내, 작전 화면, 캐릭터 이름표).
+- 그림 글씨 528장을 한글화했습니다(메뉴, 타이틀, 스테이지 제목, 갤러리, 옵션, Wi-Fi 안내, 작전 화면, 캐릭터 이름표).
 - 글꼴은 닌텐도 DS 글꼴 디자인을 바탕으로 한 도트 글꼴 **갈무리**를 씁니다.
 - 인물·지명은 한국 정식 발매작(스타폭스 2026, 스타폭스 64 3D) 표기를 따랐습니다(안돌프, 팔코 람바디, 라일라트, 카티나).
 - 닉네임 입력 화면이 영문 자판으로 시작하도록 코드를 고쳤습니다.
@@ -25,7 +25,7 @@
 
 ### 적용 방법
 
-1. [배포 페이지](https://github.com/arqhive/star-fox-command-korean-translation/releases/tag/v1.1)에서 `StarFoxCommand_KO_v1.1.bps`를 받습니다.
+1. [배포 페이지](https://github.com/arqhive/star-fox-command-korean-translation/releases/tag/v1.2)에서 `StarFoxCommand_KO_v1.2.bps`를 받습니다.
 2. 원본 일본판 롬에 패치를 적용합니다.
 3. 결과 롬의 확인값을 아래 표와 비교합니다.
 
@@ -33,12 +33,12 @@
 
 ### 파일 확인값
 
-| 항목 | 원본 일본판 | 패치 적용 결과 (v1.1) |
+| 항목 | 원본 일본판 | 패치 적용 결과 (v1.2) |
 |---|---|---|
 | 크기 | 33,554,432 바이트 | 33,554,432 바이트 |
-| CRC32 | `618C4089` | `2182FDE4` |
-| MD5 | `81d9550164d4c0a3756d1271ee063a1a` | `f0ccbdde83e8e17d0235be4304a8029c` |
-| SHA-1 | `fe0a3ba974132de5d63429b48ee9d3e8b6d6a318` | `0678aca6a45164a555b1c14f35faa0cedd1f0c45` |
+| CRC32 | `618C4089` | `9CBE1BF4` |
+| MD5 | `81d9550164d4c0a3756d1271ee063a1a` | `d441a7331b0890892fc6d356f6324fc5` |
+| SHA-1 | `fe0a3ba974132de5d63429b48ee9d3e8b6d6a318` | `a711845e0cdfca3b26ce00d233c473175b0f21db` |
 
 원본 파일명 예: `Star Fox Command (Japan).nds`
 
@@ -73,10 +73,10 @@ pip install pillow numpy
 
 ```bash
 python tools/build.py
-python tools/bps.py create "rom/Star Fox Command (Japan).nds" "work/Star Fox Command (Japan) [KO].nds" release/StarFoxCommand_KO_v1.1.bps
+python tools/bps.py create "rom/Star Fox Command (Japan).nds" "work/Star Fox Command (Japan) [KO].nds" release/StarFoxCommand_KO_v1.2.bps
 ```
 
-결과는 `work/Star Fox Command (Japan) [KO].nds`에 만들어지며, v1.1 배포본과 바이트 단위로 같습니다.
+결과는 `work/Star Fox Command (Japan) [KO].nds`에 만들어지며, v1.2 배포본과 바이트 단위로 같습니다.
 
 `build.py`는 다음을 수행합니다.
 

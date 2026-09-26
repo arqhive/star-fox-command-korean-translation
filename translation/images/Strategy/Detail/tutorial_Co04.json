@@ -1,0 +1,86 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    108,
+    0,
+    148,
+    128
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "경고!",
+   "rect": [
+    117,
+    10,
+    60,
+    12
+   ],
+   "galmuri": "Galmuri11-Bold",
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top"
+  },
+  {
+   "op": "text",
+   "text": "그레이트폭스에 적이나\n적 미사일이 접촉하면",
+   "rect": [
+    117,
+    30,
+    138,
+    32
+   ],
+   "galmuri": "Galmuri11-Bold",
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 6
+  },
+  {
+   "op": "text",
+   "text": "임무 실패",
+   "rect": [
+    117,
+    70,
+    60,
+    12
+   ],
+   "galmuri": "Galmuri11-Bold",
+   "color": "#ff0000",
+   "align": "left",
+   "valign": "top"
+  },
+  {
+   "op": "text",
+   "text": "입니다.",
+   "rect": [
+    171,
+    70,
+    60,
+    12
+   ],
+   "galmuri": "Galmuri11-Bold",
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top"
+  },
+  {
+   "op": "text",
+   "text": "아윙을 사용해서\n지켜야 합니다.",
+   "rect": [
+    117,
+    91,
+    138,
+    30
+   ],
+   "galmuri": "Galmuri11-Bold",
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 5
+  }
+ ]
+}

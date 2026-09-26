@@ -1,0 +1,81 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    64,
+    43
+   ]
+  },
+  {
+   "op": "text",
+   "text": "폭스",
+   "rect": [
+    1,
+    2,
+    60,
+    9
+   ],
+   "color": "#ffffff",
+   "outline": "#000083",
+   "outline_w": 1,
+   "align": "left",
+   "valign": "middle",
+   "galmuri": "Galmuri9",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "팔코",
+   "rect": [
+    1,
+    13,
+    60,
+    9
+   ],
+   "color": "#ffffff",
+   "outline": "#000083",
+   "outline_w": 1,
+   "align": "left",
+   "valign": "middle",
+   "galmuri": "Galmuri9",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "크리스탈",
+   "rect": [
+    1,
+    24,
+    60,
+    9
+   ],
+   "color": "#ffffff",
+   "outline": "#000083",
+   "outline_w": 1,
+   "align": "left",
+   "valign": "middle",
+   "galmuri": "Galmuri9",
+   "aa": false
+  },
+  {
+   "op": "text",
+   "text": "슬리피",
+   "rect": [
+    1,
+    35,
+    60,
+    9
+   ],
+   "color": "#ffffff",
+   "outline": "#000083",
+   "outline_w": 1,
+   "align": "left",
+   "valign": "middle",
+   "galmuri": "Galmuri9",
+   "aa": false
+  }
+ ]
+}

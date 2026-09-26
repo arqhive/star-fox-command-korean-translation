@@ -1,0 +1,30 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    76,
+    0,
+    142,
+    16
+   ],
+   "color": "#f6f6f6"
+  },
+  {
+   "op": "text",
+   "text": "캡처 더 플래그",
+   "rect": [
+    80,
+    2,
+    136,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#f600f6",
+   "align": "left",
+   "valign": "middle"
+  }
+ ]
+}

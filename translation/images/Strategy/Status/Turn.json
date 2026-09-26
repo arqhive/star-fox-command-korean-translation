@@ -1,0 +1,30 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    54,
+    16
+   ]
+  },
+  {
+   "op": "text",
+   "text": "턴",
+   "rect": [
+    0,
+    0,
+    53,
+    16
+   ],
+   "font": "malgunbd",
+   "size": 16,
+   "bold": 1,
+   "color": "#ffffff",
+   "align": "right",
+   "valign": "middle",
+   "aa": true
+  }
+ ]
+}

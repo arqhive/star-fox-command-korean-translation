@@ -1,0 +1,61 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    128,
+    48
+   ]
+  },
+  {
+   "op": "text",
+   "text": "게임 계속하기",
+   "rect": [
+    2,
+    2,
+    120,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#313131",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "대전 상대 선택",
+   "rect": [
+    2,
+    18,
+    120,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#313131",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "게임 종료",
+   "rect": [
+    2,
+    34,
+    120,
+    11
+   ],
+   "font": "malgunbd",
+   "size": 12,
+   "bold": 1,
+   "color": "#313131",
+   "align": "left",
+   "valign": "middle"
+  }
+ ]
+}

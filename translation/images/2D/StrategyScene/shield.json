@@ -1,0 +1,1180 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    3,
+    21,
+    41,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    51,
+    21,
+    50,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    108,
+    21,
+    57,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    3,
+    37,
+    41,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    51,
+    37,
+    50,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    108,
+    37,
+    57,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    3,
+    53,
+    41,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    51,
+    53,
+    50,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    108,
+    53,
+    57,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    3,
+    69,
+    41,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    51,
+    69,
+    50,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    108,
+    69,
+    57,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    3,
+    85,
+    41,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    51,
+    85,
+    50,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    108,
+    85,
+    57,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    3,
+    101,
+    41,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    51,
+    101,
+    50,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    108,
+    101,
+    57,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    3,
+    117,
+    41,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    51,
+    117,
+    50,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    108,
+    117,
+    57,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    3,
+    133,
+    41,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    51,
+    133,
+    50,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    108,
+    133,
+    57,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    3,
+    149,
+    41,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    51,
+    149,
+    50,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    108,
+    149,
+    57,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    3,
+    165,
+    41,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    51,
+    165,
+    50,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    108,
+    165,
+    57,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    3,
+    181,
+    41,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    51,
+    181,
+    50,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    108,
+    181,
+    57,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    3,
+    197,
+    41,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    51,
+    197,
+    50,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    108,
+    197,
+    57,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    3,
+    213,
+    41,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    51,
+    213,
+    50,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    108,
+    213,
+    57,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    3,
+    229,
+    41,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    51,
+    229,
+    50,
+    10
+   ]
+  },
+  {
+   "op": "clear",
+   "rect": [
+    108,
+    229,
+    57,
+    10
+   ]
+  },
+  {
+   "op": "text",
+   "text": "폭스",
+   "rect": [
+    3,
+    22,
+    41,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "폭스",
+   "rect": [
+    51,
+    22,
+    50,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "폭스",
+   "rect": [
+    108,
+    22,
+    57,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "크리스탈",
+   "rect": [
+    3,
+    38,
+    41,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "크리스탈",
+   "rect": [
+    51,
+    38,
+    50,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "크리스탈",
+   "rect": [
+    108,
+    38,
+    57,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "팔코",
+   "rect": [
+    3,
+    54,
+    41,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "팔코",
+   "rect": [
+    51,
+    54,
+    50,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "팔코",
+   "rect": [
+    108,
+    54,
+    57,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "슬리피",
+   "rect": [
+    3,
+    70,
+    41,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "슬리피",
+   "rect": [
+    51,
+    70,
+    50,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "슬리피",
+   "rect": [
+    108,
+    70,
+    57,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "애시",
+   "rect": [
+    3,
+    86,
+    41,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "애시",
+   "rect": [
+    51,
+    86,
+    50,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "애시",
+   "rect": [
+    108,
+    86,
+    57,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "울프",
+   "rect": [
+    3,
+    102,
+    41,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "울프",
+   "rect": [
+    51,
+    102,
+    50,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "울프",
+   "rect": [
+    108,
+    102,
+    57,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "레온",
+   "rect": [
+    3,
+    118,
+    41,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "레온",
+   "rect": [
+    51,
+    118,
+    50,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "레온",
+   "rect": [
+    108,
+    118,
+    57,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "팬서",
+   "rect": [
+    3,
+    134,
+    41,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "팬서",
+   "rect": [
+    51,
+    134,
+    50,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "팬서",
+   "rect": [
+    108,
+    134,
+    57,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "빌",
+   "rect": [
+    3,
+    150,
+    41,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "빌",
+   "rect": [
+    51,
+    150,
+    50,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "빌",
+   "rect": [
+    108,
+    150,
+    57,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "루시",
+   "rect": [
+    3,
+    166,
+    41,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "루시",
+   "rect": [
+    51,
+    166,
+    50,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "루시",
+   "rect": [
+    108,
+    166,
+    57,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "아만다",
+   "rect": [
+    3,
+    182,
+    41,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "아만다",
+   "rect": [
+    51,
+    182,
+    50,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "아만다",
+   "rect": [
+    108,
+    182,
+    57,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "캣",
+   "rect": [
+    3,
+    198,
+    41,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "캣",
+   "rect": [
+    51,
+    198,
+    50,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "캣",
+   "rect": [
+    108,
+    198,
+    57,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "페피",
+   "rect": [
+    3,
+    214,
+    41,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "페피",
+   "rect": [
+    51,
+    214,
+    50,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "페피",
+   "rect": [
+    108,
+    214,
+    57,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "제임스",
+   "rect": [
+    3,
+    230,
+    41,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "제임스",
+   "rect": [
+    51,
+    230,
+    50,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "제임스",
+   "rect": [
+    108,
+    230,
+    57,
+    9
+   ],
+   "font": "gulim",
+   "size": 9,
+   "galmuri": "Galmuri7",
+   "aa": false,
+   "color": "#f6f6f6",
+   "outline": "#181818",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

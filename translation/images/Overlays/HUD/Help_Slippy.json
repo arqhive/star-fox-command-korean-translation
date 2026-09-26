@@ -1,0 +1,30 @@
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    13,
+    32,
+    15
+   ]
+  },
+  {
+   "op": "text",
+   "text": "슬리피",
+   "rect": [
+    1,
+    16,
+    30,
+    11
+   ],
+   "color": "#ffffff",
+   "outline": "#000000",
+   "outline_w": 1,
+   "align": "center",
+   "valign": "middle",
+   "galmuri": "Galmuri9",
+   "aa": false
+  }
+ ]
+}

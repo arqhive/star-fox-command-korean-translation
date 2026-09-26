@@ -1,0 +1,99 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    0,
+    0,
+    256,
+    103
+   ],
+   "color": "#002020"
+  },
+  {
+   "op": "text",
+   "text": "? 아이템",
+   "rect": [
+    4,
+    6,
+    100,
+    14
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "aa": false,
+   "color": "#d5ffe6",
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "접촉하면 아이템을",
+   "rect": [
+    120,
+    16,
+    134,
+    14
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "aa": false,
+   "color": "#d5ffe6",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "입수할 수 있다.",
+   "rect": [
+    120,
+    36,
+    134,
+    14
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "aa": false,
+   "color": "#d5ffe6",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "아이템은 무작위로",
+   "rect": [
+    120,
+    55,
+    134,
+    14
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "aa": false,
+   "color": "#d5ffe6",
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "op": "text",
+   "text": "출현한다.",
+   "rect": [
+    120,
+    76,
+    134,
+    14
+   ],
+   "font": "gulim",
+   "size": 12,
+   "bold": 1,
+   "aa": false,
+   "color": "#d5ffe6",
+   "align": "left",
+   "valign": "middle"
+  }
+ ]
+}

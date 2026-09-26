@@ -1,0 +1,44 @@
+{
+ "edits": [
+  {
+   "op": "fill",
+   "rect": [
+    102,
+    0,
+    154,
+    128
+   ],
+   "color": "#d5ffe6"
+  },
+  {
+   "op": "text",
+   "text": "터치스크린을\n더블 터치하면 라운드\n캡슐을 불러냅니다.",
+   "rect": [
+    117,
+    12,
+    136,
+    50
+   ],
+   "galmuri": "Galmuri11-Bold",
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 5
+  },
+  {
+   "op": "text",
+   "text": "라운드 캡슐을 터치하면\n이동을 시작합니다.",
+   "rect": [
+    117,
+    86,
+    136,
+    31
+   ],
+   "galmuri": "Galmuri11-Bold",
+   "color": "#315a62",
+   "align": "left",
+   "valign": "top",
+   "line_gap": 6
+  }
+ ]
+}
