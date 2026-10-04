@@ -19,44 +19,50 @@
     136,
     16
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "조작 타입을",
    "rect": [
     24,
-    40,
+    39,
     136,
     16
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "선택해 주세요.",
    "rect": [
     24,
-    63,
+    62,
     136,
     16
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

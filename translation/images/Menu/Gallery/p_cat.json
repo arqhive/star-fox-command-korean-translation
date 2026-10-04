@@ -15,16 +15,18 @@
    "text": "캣 먼로",
    "rect": [
     1,
-    1,
+    4,
     238,
     18
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#d5ffe6",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "fill",
@@ -41,80 +43,90 @@
    "text": "팔코의 옛 동료.",
    "rect": [
     88,
-    25,
+    27,
     149,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "지금도 팔코를 따르며",
    "rect": [
     88,
-    45,
+    47,
     149,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "남몰래 스타폭스에",
    "rect": [
     88,
-    65,
+    67,
     149,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "들어가고 싶어 하는 듯하다.",
    "rect": [
     88,
-    85,
+    87,
     149,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "지기 싫어하는 성격.",
    "rect": [
     88,
-    105,
+    107,
     149,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

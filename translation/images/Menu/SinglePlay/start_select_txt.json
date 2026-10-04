@@ -15,15 +15,17 @@
    "text": "시작",
    "rect": [
     6,
-    4,
+    5,
     102,
     16
    ],
-   "font": "malgunbd",
-   "size": 11,
-   "bold": 1,
+   "font": "noto",
+   "size": 12,
    "color": "#315a6a",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -39,16 +41,18 @@
    "op": "text",
    "text": "이어서",
    "rect": [
-    6,
-    28,
+    7,
+    29,
     102,
     16
    ],
-   "font": "malgunbd",
-   "size": 11,
-   "bold": 1,
+   "font": "noto",
+   "size": 12,
    "color": "#315a6a",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -64,16 +68,18 @@
    "op": "text",
    "text": "스테이지 선택",
    "rect": [
-    6,
-    52,
+    7,
+    53,
     102,
     16
    ],
-   "font": "malgunbd",
-   "size": 11,
-   "bold": 1,
+   "font": "noto",
+   "size": 12,
    "color": "#315a6a",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -89,16 +95,18 @@
    "op": "text",
    "text": "갤러리",
    "rect": [
-    6,
-    76,
+    7,
+    77,
     102,
     16
    ],
-   "font": "malgunbd",
-   "size": 11,
-   "bold": 1,
+   "font": "noto",
+   "size": 12,
    "color": "#315a6a",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -114,16 +122,18 @@
    "op": "text",
    "text": "트레이닝",
    "rect": [
-    6,
-    100,
+    7,
+    101,
     102,
     16
    ],
-   "font": "malgunbd",
-   "size": 11,
-   "bold": 1,
+   "font": "noto",
+   "size": 12,
    "color": "#315a6a",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

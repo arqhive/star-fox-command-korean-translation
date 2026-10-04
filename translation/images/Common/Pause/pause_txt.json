@@ -18,50 +18,56 @@
     132,
     15
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 13,
-   "bold": 1,
    "color": "#ffffff",
    "color2": "#cdcdcd",
    "shadow": [
     1,
     1,
     "#525252"
-   ]
+   ],
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "게임 계속하기",
    "rect": [
     4,
-    17,
+    18,
     101,
     15
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 13,
-   "bold": 1,
    "color": "#ffffff",
    "color2": "#bdd5f6",
    "outline": "#397bde",
-   "outline_w": 1
+   "outline_w": 1,
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "게임 종료",
    "rect": [
     115,
-    17,
+    18,
     101,
     15
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 13,
-   "bold": 1,
    "color": "#ffffff",
    "color2": "#bdd5f6",
    "outline": "#397bde",
-   "outline_w": 1
+   "outline_w": 1,
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

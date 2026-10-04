@@ -1,4 +1,34 @@
-{"edits": [
-  {"op": "clear", "rect": [0,196,512,60]},
-  {"op": "text", "text": "남은 타임", "rect": [0,202,160,54], "font": "malgunbd", "size": 48, "bold": 1, "color": "#d5ffe6", "outline": "#4a9c94", "outline_w": 1, "align": "left", "valign": "middle"}
-]}
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    201,
+    512,
+    55
+   ]
+  },
+  {
+   "op": "text",
+   "text": "남은 시간",
+   "rect": [
+    0,
+    202,
+    200,
+    54
+   ],
+   "font": "noto",
+   "size": 48,
+   "color": "#d5ffe6",
+   "outline": "#4a9c94",
+   "outline_w": 1,
+   "align": "left",
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true,
+   "word_gap": 8
+  }
+ ]
+}

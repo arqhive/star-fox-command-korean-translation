@@ -15,16 +15,18 @@
    "text": "슬리피 토드",
    "rect": [
     1,
-    1,
+    4,
     238,
     18
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#d5ffe6",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "fill",
@@ -41,80 +43,90 @@
    "text": "스타폭스의 멤버.",
    "rect": [
     88,
-    25,
+    27,
     149,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "파일럿 실력보다",
    "rect": [
     88,
-    45,
+    47,
     149,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "과학 기술력이 뛰어나",
    "rect": [
     88,
-    65,
+    66,
     149,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "다양한 병기를 개발했다.",
    "rect": [
     88,
-    85,
+    86,
     149,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "폭스의 절친.",
    "rect": [
     88,
-    105,
+    107,
     149,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

@@ -15,16 +15,18 @@
    "text": "데이터를 삭제했습니다.",
    "rect": [
     2,
-    38,
+    35,
     164,
     20
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#315a62",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

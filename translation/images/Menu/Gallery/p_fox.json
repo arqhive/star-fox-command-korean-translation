@@ -15,16 +15,18 @@
    "text": "폭스 맥클라우드",
    "rect": [
     1,
-    1,
+    4,
     238,
     18
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#d5ffe6",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "fill",
@@ -41,80 +43,90 @@
    "text": "고용된 유격대",
    "rect": [
     88,
-    25,
+    27,
     149,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "스타폭스의 리더.",
    "rect": [
     88,
-    45,
+    47,
     149,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "현재는 홀로 활동하고 있다.",
    "rect": [
     88,
-    65,
+    66,
     149,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "정의감이 강하고 용감하지만",
    "rect": [
     88,
-    85,
-    149,
+    87,
+    151,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "지나치게 성실한 면도 있다.",
    "rect": [
     88,
-    105,
+    106,
     149,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

@@ -15,13 +15,12 @@
    "text": "타입 A (일반)",
    "rect": [
     4,
-    2,
+    4,
     120,
     14
    ],
-   "font": "malgunbd",
-   "size": 11,
-   "bold": 1,
+   "font": "noto",
+   "size": 12,
    "color": "#c5eed5",
    "shadow": [
     1,
@@ -29,7 +28,10 @@
     "#00738b"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "fill",
@@ -70,22 +72,24 @@
     30,
     16
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#ff2918",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
-   "op": "fill",
+   "op": "hfill",
    "rect": [
     46,
     96,
     38,
     20
    ],
-   "color": "#9cdeb4"
+   "from_x": 20
   },
   {
    "op": "text",
@@ -96,12 +100,14 @@
     30,
     16
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#1841ff",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -118,13 +124,12 @@
    "text": "타입 B (반전)",
    "rect": [
     132,
-    2,
+    4,
     120,
     14
    ],
-   "font": "malgunbd",
-   "size": 11,
-   "bold": 1,
+   "font": "noto",
+   "size": 12,
    "color": "#c5eed5",
    "shadow": [
     1,
@@ -132,7 +137,10 @@
     "#00738b"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "fill",
@@ -173,22 +181,24 @@
     30,
     16
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#1841ff",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
-   "op": "fill",
+   "op": "hfill",
    "rect": [
     174,
     96,
     38,
     20
    ],
-   "color": "#9cdeb4"
+   "from_x": 148
   },
   {
    "op": "text",
@@ -199,12 +209,14 @@
     30,
     16
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#ff2918",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -221,13 +233,12 @@
    "text": "타입 C (일반)",
    "rect": [
     260,
-    2,
+    4,
     120,
     14
    ],
-   "font": "malgunbd",
-   "size": 11,
-   "bold": 1,
+   "font": "noto",
+   "size": 12,
    "color": "#c5eed5",
    "shadow": [
     1,
@@ -235,7 +246,10 @@
     "#00738b"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "fill",
@@ -276,22 +290,24 @@
     30,
     16
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#ff2918",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
-   "op": "fill",
+   "op": "hfill",
    "rect": [
     302,
     96,
     38,
     20
    ],
-   "color": "#9cdeb4"
+   "from_x": 276
   },
   {
    "op": "text",
@@ -302,12 +318,14 @@
     30,
     16
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#1841ff",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -324,13 +342,12 @@
    "text": "타입 D (반전)",
    "rect": [
     388,
-    2,
+    4,
     120,
     14
    ],
-   "font": "malgunbd",
-   "size": 11,
-   "bold": 1,
+   "font": "noto",
+   "size": 12,
    "color": "#c5eed5",
    "shadow": [
     1,
@@ -338,7 +355,10 @@
     "#00738b"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "fill",
@@ -379,22 +399,24 @@
     30,
     16
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#1841ff",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
-   "op": "fill",
+   "op": "hfill",
    "rect": [
     430,
     96,
     38,
     20
    ],
-   "color": "#9cdeb4"
+   "from_x": 404
   },
   {
    "op": "text",
@@ -405,12 +427,14 @@
     30,
     16
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#ff2918",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

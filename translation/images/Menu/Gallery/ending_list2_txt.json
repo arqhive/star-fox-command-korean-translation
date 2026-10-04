@@ -44,13 +44,12 @@
    "text": "슬리피의 결심",
    "rect": [
     0,
-    5,
+    6,
     160,
     18
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 14,
-   "bold": 1,
    "color": "#d5ffe6",
    "shadow": [
     1,
@@ -58,7 +57,10 @@
     "#292020"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "copy",
@@ -104,13 +106,12 @@
    "text": "피그마의 역습",
    "rect": [
     0,
-    45,
+    46,
     160,
     18
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 14,
-   "bold": 1,
    "color": "#d5ffe6",
    "shadow": [
     1,
@@ -118,7 +119,10 @@
     "#292020"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "copy",
@@ -164,13 +168,12 @@
    "text": "피그마의 원한",
    "rect": [
     0,
-    85,
+    86,
     160,
     18
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 14,
-   "bold": 1,
    "color": "#d5ffe6",
    "shadow": [
     1,
@@ -178,7 +181,10 @@
     "#292020"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -199,9 +205,8 @@
     160,
     18
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 14,
-   "bold": 1,
    "color": "#d5ffe6",
    "shadow": [
     1,
@@ -209,7 +214,10 @@
     "#292020"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -230,9 +238,8 @@
     160,
     18
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 14,
-   "bold": 1,
    "color": "#d5ffe6",
    "shadow": [
     1,
@@ -240,7 +247,10 @@
     "#292020"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

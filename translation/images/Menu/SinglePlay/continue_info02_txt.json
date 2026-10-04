@@ -25,14 +25,16 @@
    "text": "게임을 진행하면 현재 데이터를",
    "rect": [
     4,
-    8,
+    6,
     222,
     18
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
-   "color": "#315a62"
+   "font": "noto",
+   "size": 13,
+   "color": "#315a62",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
@@ -43,40 +45,46 @@
     222,
     18
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
-   "color": "#315a62"
+   "font": "noto",
+   "size": 13,
+   "color": "#315a62",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "지금까지 클리어한",
    "rect": [
     40,
-    53,
+    51,
     154,
     18
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
-   "align": "left"
+   "align": "left",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "스테이지 데이터는 남습니다.",
    "rect": [
     40,
-    73,
+    74,
     154,
     18
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
-   "align": "left"
+   "align": "left",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

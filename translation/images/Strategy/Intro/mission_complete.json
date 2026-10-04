@@ -18,8 +18,8 @@
     99,
     100
    ],
-   "font": "malgunbd",
-   "size": 104,
+   "font": "noto-black",
+   "size": 106,
    "bold": 3,
    "spacing": 12,
    "color": "#ffffff",
@@ -30,8 +30,8 @@
    ],
    "align": "center",
    "valign": "middle",
-   "galmuri": "Galmuri11-Bold",
-   "gscale": 9
+   "raw_font": true,
+   "aa": true
   },
   {
    "op": "text",
@@ -42,8 +42,8 @@
     88,
     100
    ],
-   "font": "malgunbd",
-   "size": 104,
+   "font": "noto-black",
+   "size": 114,
    "bold": 3,
    "spacing": 12,
    "color": "#ffffff",
@@ -54,8 +54,8 @@
    ],
    "align": "center",
    "valign": "middle",
-   "galmuri": "Galmuri11-Bold",
-   "gscale": 9
+   "raw_font": true,
+   "aa": true
   }
  ]
 }

@@ -19,10 +19,14 @@
     60,
     12
    ],
-   "galmuri": "Galmuri11-Bold",
    "color": "#315a62",
    "align": "left",
-   "valign": "top"
+   "valign": "top",
+   "raw_font": true,
+   "font": "noto",
+   "weight": 800,
+   "aa": true,
+   "size": 13
   },
   {
    "op": "text",
@@ -33,11 +37,15 @@
     138,
     32
    ],
-   "galmuri": "Galmuri11-Bold",
    "color": "#315a62",
    "align": "left",
    "valign": "top",
-   "line_gap": 6
+   "line_gap": 4,
+   "raw_font": true,
+   "font": "noto",
+   "weight": 800,
+   "aa": true,
+   "size": 13
   },
   {
    "op": "text",
@@ -48,24 +56,32 @@
     60,
     12
    ],
-   "galmuri": "Galmuri11-Bold",
    "color": "#ff0000",
    "align": "left",
-   "valign": "top"
+   "valign": "top",
+   "raw_font": true,
+   "font": "noto",
+   "weight": 800,
+   "aa": true,
+   "size": 13
   },
   {
    "op": "text",
    "text": "입니다.",
    "rect": [
-    171,
+    167,
     70,
     60,
     12
    ],
-   "galmuri": "Galmuri11-Bold",
    "color": "#315a62",
    "align": "left",
-   "valign": "top"
+   "valign": "top",
+   "raw_font": true,
+   "font": "noto",
+   "weight": 800,
+   "aa": true,
+   "size": 13
   },
   {
    "op": "text",
@@ -76,11 +92,15 @@
     138,
     30
    ],
-   "galmuri": "Galmuri11-Bold",
    "color": "#315a62",
    "align": "left",
    "valign": "top",
-   "line_gap": 5
+   "line_gap": 3,
+   "raw_font": true,
+   "font": "noto",
+   "weight": 800,
+   "aa": true,
+   "size": 13
   }
  ]
 }

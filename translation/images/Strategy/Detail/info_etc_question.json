@@ -15,34 +15,36 @@
    "text": "? 아이템",
    "rect": [
     4,
-    6,
+    7,
     100,
     14
    ],
-   "font": "gulim",
-   "size": 12,
-   "bold": 1,
-   "aa": false,
+   "font": "noto",
+   "size": 13,
+   "aa": true,
    "color": "#d5ffe6",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "text",
    "text": "접촉하면 아이템을",
    "rect": [
     120,
-    16,
+    17,
     134,
     14
    ],
-   "font": "gulim",
-   "size": 12,
-   "bold": 1,
-   "aa": false,
+   "font": "noto",
+   "size": 13,
+   "aa": true,
    "color": "#d5ffe6",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "text",
@@ -53,30 +55,32 @@
     134,
     14
    ],
-   "font": "gulim",
-   "size": 12,
-   "bold": 1,
-   "aa": false,
+   "font": "noto",
+   "size": 13,
+   "aa": true,
    "color": "#d5ffe6",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "text",
    "text": "아이템은 무작위로",
    "rect": [
     120,
-    55,
+    56,
     134,
     14
    ],
-   "font": "gulim",
-   "size": 12,
-   "bold": 1,
-   "aa": false,
+   "font": "noto",
+   "size": 13,
+   "aa": true,
    "color": "#d5ffe6",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "text",
@@ -87,13 +91,14 @@
     134,
     14
    ],
-   "font": "gulim",
-   "size": 12,
-   "bold": 1,
-   "aa": false,
+   "font": "noto",
+   "size": 13,
+   "aa": true,
    "color": "#d5ffe6",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800
   }
  ]
 }

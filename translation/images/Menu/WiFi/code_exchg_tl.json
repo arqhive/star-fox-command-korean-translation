@@ -18,9 +18,8 @@
     256,
     22
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 16,
-   "bold": 1,
    "color": "#b4f6ee",
    "color2": "#73e6de",
    "shadow": [
@@ -30,7 +29,11 @@
    ],
    "align": "center",
    "valign": "middle",
-   "spacing": 1
+   "spacing": 1,
+   "raw_font": true,
+   "weight": 800,
+   "aa": true,
+   "word_gap": 3
   }
  ]
 }

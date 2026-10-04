@@ -14,12 +14,12 @@
    "text": "코네리아",
    "rect": [
     0,
-    3,
+    7,
     256,
     20
    ],
-   "font": "malgunbd",
-   "size": 14,
+   "font": "noto",
+   "size": 15,
    "color": "#ffffff",
    "outline": "#414141",
    "shadow": [
@@ -27,18 +27,20 @@
     1,
     "#737373"
    ],
-   "bold": 1
+   "raw_font": true,
+   "weight": 900,
+   "aa": true
   },
   {
    "op": "text",
    "text": "폭스, 출격하라!",
    "rect": [
     0,
-    25,
+    33,
     256,
     26
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 19,
    "color": "#ffffff",
    "outline": "#414141",
@@ -47,7 +49,10 @@
     1,
     "#737373"
    ],
-   "bold": 1
+   "raw_font": true,
+   "weight": 900,
+   "aa": true,
+   "word_gap": 3
   }
  ]
 }

@@ -19,24 +19,30 @@
     220,
     14
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
-   "color": "#316a6a"
+   "font": "noto",
+   "size": 13,
+   "color": "#316a6a",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true,
+   "valign": "top"
   },
   {
    "op": "text",
    "text": "앵글러 황제",
    "rect": [
     4,
-    27,
+    25,
     212,
     20
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 15,
-   "bold": 1,
-   "color": "#316a6a"
+   "color": "#316a6a",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true,
+   "valign": "top"
   }
  ]
 }

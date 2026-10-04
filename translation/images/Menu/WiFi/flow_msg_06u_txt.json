@@ -19,13 +19,15 @@
     218,
     120
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
    "valign": "top",
-   "line_gap": 7
+   "line_gap": 5,
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

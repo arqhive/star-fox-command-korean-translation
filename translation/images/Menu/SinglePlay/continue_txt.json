@@ -14,16 +14,17 @@
    "op": "text",
    "text": "예",
    "rect": [
-    4,
-    2,
+    3,
+    3,
     82,
     19
    ],
-   "font": "malgunbd",
-   "size": 16,
-   "bold": 0,
+   "font": "noto",
+   "size": 13,
    "color": "#315a6a",
-   "aa": false
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "hfill",
@@ -39,16 +40,17 @@
    "op": "text",
    "text": "아니요",
    "rect": [
-    4,
-    26,
+    3,
+    27,
     82,
     19
    ],
-   "font": "malgunbd",
-   "size": 16,
-   "bold": 0,
+   "font": "noto",
+   "size": 13,
    "color": "#315a6a",
-   "aa": false
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   }
  ]
 }

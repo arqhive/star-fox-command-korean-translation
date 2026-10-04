@@ -14,33 +14,37 @@
    "op": "text",
    "text": "지금부터 하는 질문에",
    "rect": [
-    30,
-    29,
-    134,
+    19,
+    31,
+    150,
     15
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 13,
-   "bold": 1,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "목소리로 대답해 주세요.",
    "rect": [
-    30,
-    52,
-    134,
+    19,
+    54,
+    150,
     15
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 13,
-   "bold": 1,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

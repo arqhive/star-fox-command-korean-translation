@@ -15,16 +15,18 @@
    "text": "나우스",
    "rect": [
     24,
-    3,
+    6,
     90,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#316a73",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -41,16 +43,18 @@
    "text": "폭스",
    "rect": [
     144,
-    3,
+    6,
     90,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#316a73",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -67,16 +71,18 @@
    "text": "크리스탈",
    "rect": [
     24,
-    27,
+    30,
     90,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#316a73",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -93,16 +99,18 @@
    "text": "팔코",
    "rect": [
     144,
-    27,
+    30,
     90,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#316a73",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -119,16 +127,18 @@
    "text": "슬리피",
    "rect": [
     24,
-    51,
+    54,
     90,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#316a73",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -145,16 +155,18 @@
    "text": "애시",
    "rect": [
     144,
-    51,
+    54,
     90,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#316a73",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -171,16 +183,18 @@
    "text": "울프",
    "rect": [
     24,
-    75,
+    78,
     90,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#316a73",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -197,16 +211,18 @@
    "text": "레온",
    "rect": [
     144,
-    75,
+    78,
     90,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#316a73",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -223,16 +239,18 @@
    "text": "팬서",
    "rect": [
     24,
-    99,
+    102,
     90,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#316a73",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -249,16 +267,18 @@
    "text": "빌",
    "rect": [
     24,
-    123,
+    126,
     90,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#316a73",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -275,16 +295,18 @@
    "text": "루시",
    "rect": [
     144,
-    123,
+    126,
     90,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#316a73",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -301,16 +323,18 @@
    "text": "아만다",
    "rect": [
     24,
-    147,
+    150,
     90,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#316a73",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -327,16 +351,18 @@
    "text": "캣",
    "rect": [
     144,
-    147,
+    150,
     90,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#316a73",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -353,16 +379,18 @@
    "text": "페피",
    "rect": [
     24,
-    171,
+    174,
     90,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#316a73",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -379,16 +407,18 @@
    "text": "제임스",
    "rect": [
     144,
-    171,
+    174,
     90,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#316a73",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -405,16 +435,18 @@
    "text": "크리스탈",
    "rect": [
     24,
-    195,
+    198,
     90,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#316a73",
    "align": "center",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

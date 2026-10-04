@@ -15,17 +15,19 @@
    "text": "친구 목록은 그대로 사용할 수 있지만\nWi-Fi 대전을 하려면 친구가\n다시 친구 목록에\n추가해 주어야 합니다.",
    "rect": [
     14,
-    26,
+    25,
     204,
     96
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
    "valign": "top",
-   "line_gap": 7
+   "line_gap": 5,
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

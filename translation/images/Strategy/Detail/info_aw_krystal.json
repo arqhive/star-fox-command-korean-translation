@@ -7,7 +7,7 @@
   {"op": "fill", "rect": [125, 82, 74, 14], "color": "#002020"},
   {"op": "text", "text": "레이저", "rect": [127, 2, 42, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
   {"op": "text", "text": "록", "rect": [127, 18, 42, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
-  {"op": "text", "text": "봄", "rect": [127, 34, 42, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
+  {"op": "text", "text": "폭탄", "rect": [127, 34, 42, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
   {"op": "text", "text": "실드", "rect": [127, 50, 42, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
   {"op": "text", "text": "부스트", "rect": [127, 66, 42, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},
   {"op": "text", "text": "타임 보너스", "rect": [127, 82, 72, 14], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#d5ffe6", "align": "left", "valign": "middle"},

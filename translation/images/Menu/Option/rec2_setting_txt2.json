@@ -19,13 +19,15 @@
     45,
     14
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 14,
-   "bold": 1,
    "color": "#184a5a",
    "color2": "#002939",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -41,18 +43,20 @@
    "op": "text",
    "text": "보통",
    "rect": [
-    56,
+    57,
     27,
     45,
     14
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 14,
-   "bold": 1,
    "color": "#184a5a",
    "color2": "#002939",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -68,18 +72,20 @@
    "op": "text",
    "text": "강함",
    "rect": [
-    109,
+    110,
     27,
     44,
     14
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 14,
-   "bold": 1,
    "color": "#184a5a",
    "color2": "#002939",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

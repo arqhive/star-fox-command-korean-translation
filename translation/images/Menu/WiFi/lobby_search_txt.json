@@ -14,17 +14,19 @@
    "text": "검색 중",
    "rect": [
     34,
-    8,
+    5,
     48,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#316a6a",
    "align": "left",
    "outline": "#acd5c5",
-   "outline_w": 1
+   "outline_w": 1,
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

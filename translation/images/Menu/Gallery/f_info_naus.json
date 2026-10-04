@@ -19,12 +19,14 @@
     238,
     17
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 15,
    "color": "#d5ffe6",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "fill",
@@ -46,43 +48,49 @@
     14
    ],
    "align": "left",
-   "font": "malgunbd",
-   "size": 11,
-   "bold": 1,
+   "font": "noto",
+   "size": 12,
    "color": "#d5ffe6",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "적의 표적이며",
    "rect": [
     117,
-    47,
+    48,
     120,
     14
    ],
    "align": "left",
-   "font": "malgunbd",
-   "size": 11,
-   "bold": 1,
+   "font": "noto",
+   "size": 12,
    "color": "#d5ffe6",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "격추되면 임무 실패.",
    "rect": [
     117,
-    66,
+    68,
     120,
     14
    ],
    "align": "left",
-   "font": "malgunbd",
-   "size": 11,
-   "bold": 1,
+   "font": "noto",
+   "size": 12,
    "color": "#d5ffe6",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
@@ -94,11 +102,13 @@
     14
    ],
    "align": "left",
-   "font": "malgunbd",
-   "size": 11,
-   "bold": 1,
+   "font": "noto",
+   "size": 12,
    "color": "#d5ffe6",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

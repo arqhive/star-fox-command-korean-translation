@@ -14,20 +14,22 @@
    "text": "배틀 로열",
    "rect": [
     1,
-    1,
+    0,
     100,
     14
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#d5ffe6",
    "align": "left",
    "shadow": [
     -1,
     1,
     "#399494"
-   ]
+   ],
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
@@ -38,16 +40,18 @@
     84,
     14
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#d5ffe6",
    "align": "left",
    "shadow": [
     -1,
     1,
     "#399494"
-   ]
+   ],
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

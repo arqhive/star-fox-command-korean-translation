@@ -15,13 +15,12 @@
    "text": "잠시 기다려 주세요.",
    "rect": [
     4,
-    36,
+    32,
     224,
     14
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "shadow": [
     1,
@@ -29,7 +28,10 @@
     "#acd5c5"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

@@ -15,18 +15,19 @@
    "text": "미션을\n다시 하시겠습니까?",
    "rect": [
     4,
-    207,
+    208,
     152,
     32
    ],
-   "font": "gulim",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#ffffff",
    "align": "center",
    "valign": "middle",
-   "aa": false,
-   "line_gap": 3
+   "aa": true,
+   "line_gap": 0,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "hfill",
@@ -43,17 +44,18 @@
    "text": "정말 그만두시겠습니까?",
    "rect": [
     4,
-    370,
+    374,
     152,
     20
    ],
-   "font": "gulim",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#ffffff",
    "align": "center",
    "valign": "middle",
-   "aa": false
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   }
  ]
 }

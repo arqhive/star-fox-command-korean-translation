@@ -15,28 +15,34 @@
    "text": "섹터",
    "rect": [
     0,
-    5,
+    6,
     220,
     14
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
-   "color": "#316a6a"
+   "font": "noto",
+   "size": 13,
+   "color": "#316a6a",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true,
+   "valign": "top"
   },
   {
    "op": "text",
    "text": "피그마의 원한",
    "rect": [
     4,
-    27,
+    25,
     212,
     20
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 15,
-   "bold": 1,
-   "color": "#316a6a"
+   "color": "#316a6a",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true,
+   "valign": "top"
   }
  ]
 }

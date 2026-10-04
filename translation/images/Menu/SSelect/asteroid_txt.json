@@ -21,10 +21,11 @@
    "color": "#000000",
    "align": "left",
    "valign": "middle",
-   "font": "gulim",
-   "size": 14,
-   "aa": false,
-   "bold": 1
+   "font": "noto",
+   "size": 13,
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "clear",
@@ -47,10 +48,11 @@
    "color": "#000000",
    "align": "left",
    "valign": "middle",
-   "font": "gulim",
-   "size": 13,
-   "aa": false,
-   "bold": 1
+   "font": "noto",
+   "size": 12,
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "copy",
@@ -86,10 +88,11 @@
    "color": "#000000",
    "align": "left",
    "valign": "middle",
-   "font": "gulim",
-   "size": 13,
-   "aa": false,
-   "bold": 1
+   "font": "noto",
+   "size": 12,
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "copy",
@@ -125,10 +128,11 @@
    "color": "#000000",
    "align": "left",
    "valign": "middle",
-   "font": "gulim",
-   "size": 13,
-   "aa": false,
-   "bold": 1
+   "font": "noto",
+   "size": 12,
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "copy",
@@ -164,10 +168,11 @@
    "color": "#000000",
    "align": "left",
    "valign": "middle",
-   "font": "gulim",
-   "size": 13,
-   "aa": false,
-   "bold": 1
+   "font": "noto",
+   "size": 12,
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "copy",
@@ -203,10 +208,11 @@
    "color": "#000000",
    "align": "left",
    "valign": "middle",
-   "font": "gulim",
-   "size": 13,
-   "aa": false,
-   "bold": 1
+   "font": "noto",
+   "size": 12,
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "copy",

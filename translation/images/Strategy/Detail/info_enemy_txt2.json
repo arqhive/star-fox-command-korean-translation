@@ -1,5 +1,49 @@
-{"edits": [
-  {"op": "clear", "rect": [340, 27, 50, 27]},
-  {"op": "text", "text": "실드", "rect": [342, 28, 44, 12], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#f6cdcd", "align": "left", "valign": "middle"},
-  {"op": "text", "text": "웨폰", "rect": [342, 41, 44, 12], "font": "gulim", "size": 12, "bold": 1, "aa": false, "color": "#f6cdcd", "align": "left", "valign": "middle"}
-]}
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    340,
+    27,
+    50,
+    27
+   ]
+  },
+  {
+   "op": "text",
+   "text": "실드",
+   "rect": [
+    342,
+    28,
+    44,
+    12
+   ],
+   "font": "noto",
+   "size": 12,
+   "aa": true,
+   "color": "#f6cdcd",
+   "align": "left",
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800
+  },
+  {
+   "op": "text",
+   "text": "웨폰",
+   "rect": [
+    342,
+    42,
+    44,
+    12
+   ],
+   "font": "noto",
+   "size": 12,
+   "aa": true,
+   "color": "#f6cdcd",
+   "align": "left",
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800
+  }
+ ]
+}

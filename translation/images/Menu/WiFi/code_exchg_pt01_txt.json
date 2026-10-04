@@ -15,17 +15,19 @@
    "text": "상대의 접속을 기다리고 있습니다.",
    "rect": [
     24,
-    1,
+    -1,
     205,
     79
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
    "valign": "middle",
-   "line_gap": 7
+   "line_gap": 7,
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

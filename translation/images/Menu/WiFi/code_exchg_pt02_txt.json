@@ -15,16 +15,18 @@
    "text": "코드 교환 상대:",
    "rect": [
     43,
-    3,
+    2,
     180,
     19
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "fill",
@@ -45,13 +47,15 @@
     213,
     84
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
    "valign": "middle",
-   "line_gap": 7
+   "line_gap": 5,
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

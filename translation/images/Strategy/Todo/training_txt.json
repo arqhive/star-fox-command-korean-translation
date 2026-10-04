@@ -82,194 +82,205 @@
    ]
   },
   {
-   "font": "malgunbd",
-   "bold": 1,
+   "font": "noto",
    "color": "#ffffff",
    "outline": "#317b7b",
    "outline_w": 1,
-   "valign": "middle",
-   "aa": false,
+   "valign": "top",
+   "aa": true,
    "op": "text",
    "text": "트레이닝",
    "rect": [
     0,
-    0,
+    2,
     106,
     17
    ],
    "size": 16,
-   "align": "left"
+   "align": "left",
+   "raw_font": true,
+   "weight": 800
   },
   {
-   "font": "malgunbd",
-   "bold": 1,
+   "font": "noto",
    "color": "#ffffff",
    "outline": "#317b7b",
    "outline_w": 1,
-   "valign": "middle",
-   "aa": false,
+   "valign": "top",
+   "aa": true,
    "op": "text",
    "text": "레벨 선택",
    "rect": [
     112,
-    0,
+    2,
     124,
     17
    ],
    "size": 16,
-   "align": "left"
+   "align": "left",
+   "raw_font": true,
+   "weight": 800,
+   "word_gap": 3
   },
   {
-   "font": "malgunbd",
-   "bold": 0,
+   "font": "noto",
    "color": "#ffffff",
    "outline": "#317b7b",
    "outline_w": 1,
-   "valign": "middle",
-   "aa": false,
+   "valign": "top",
+   "aa": true,
    "op": "text",
    "text": "레벨",
    "rect": [
     0,
-    21,
+    19,
     37,
     10
    ],
-   "size": 11,
-   "align": "center"
+   "size": 12,
+   "align": "center",
+   "raw_font": true,
+   "weight": 800
   },
   {
-   "font": "malgunbd",
-   "bold": 0,
+   "font": "noto",
    "color": "#ffffff",
    "outline": "#317b7b",
    "outline_w": 1,
-   "valign": "middle",
-   "aa": false,
+   "valign": "top",
+   "aa": true,
    "op": "text",
    "text": "레벨",
    "rect": [
     49,
-    21,
+    19,
     37,
     10
    ],
-   "size": 11,
-   "align": "center"
+   "size": 12,
+   "align": "center",
+   "raw_font": true,
+   "weight": 800
   },
   {
-   "font": "malgunbd",
-   "bold": 0,
+   "font": "noto",
    "color": "#ffffff",
    "outline": "#317b7b",
    "outline_w": 1,
-   "valign": "middle",
-   "aa": false,
+   "valign": "top",
+   "aa": true,
    "op": "text",
    "text": "레벨",
    "rect": [
     98,
-    21,
+    19,
     38,
     10
    ],
-   "size": 11,
-   "align": "center"
+   "size": 12,
+   "align": "center",
+   "raw_font": true,
+   "weight": 800
   },
   {
-   "font": "malgunbd",
-   "bold": 0,
+   "font": "noto",
    "color": "#ffffff",
    "outline": "#317b7b",
    "outline_w": 1,
-   "valign": "middle",
-   "aa": false,
+   "valign": "top",
+   "aa": true,
    "op": "text",
    "text": "레벨",
    "rect": [
     149,
-    21,
+    19,
     36,
     10
    ],
-   "size": 11,
-   "align": "center"
+   "size": 12,
+   "align": "center",
+   "raw_font": true,
+   "weight": 800
   },
   {
-   "font": "malgunbd",
-   "bold": 0,
+   "font": "noto",
    "color": "#ffffff",
    "outline": "#317b7b",
    "outline_w": 1,
-   "valign": "middle",
-   "aa": false,
+   "valign": "top",
+   "aa": true,
    "op": "text",
    "text": "파이터 조작",
    "rect": [
     1,
-    41,
+    40,
     110,
     13
    ],
-   "size": 12,
-   "align": "left"
+   "size": 13,
+   "align": "left",
+   "raw_font": true,
+   "weight": 800
   },
   {
-   "font": "malgunbd",
-   "bold": 0,
+   "font": "noto",
    "color": "#ffffff",
    "outline": "#317b7b",
    "outline_w": 1,
-   "valign": "middle",
-   "aa": false,
+   "valign": "top",
+   "aa": true,
    "op": "text",
    "text": "기본 전투 방법",
    "rect": [
     1,
-    66,
+    65,
     110,
     13
    ],
-   "size": 12,
-   "align": "left"
+   "size": 13,
+   "align": "left",
+   "raw_font": true,
+   "weight": 800
   },
   {
-   "font": "malgunbd",
-   "bold": 0,
+   "font": "noto",
    "color": "#ffffff",
    "outline": "#317b7b",
    "outline_w": 1,
-   "valign": "middle",
-   "aa": false,
+   "valign": "top",
+   "aa": true,
    "op": "text",
    "text": "롤링 사용법",
    "rect": [
     1,
-    90,
+    89,
     110,
     13
    ],
-   "size": 12,
-   "align": "left"
+   "size": 13,
+   "align": "left",
+   "raw_font": true,
+   "weight": 800
   },
   {
-   "font": "malgunbd",
-   "bold": 0,
+   "font": "noto",
    "color": "#ffffff",
    "outline": "#317b7b",
    "outline_w": 1,
-   "valign": "middle",
-   "aa": false,
+   "valign": "top",
+   "aa": true,
    "op": "text",
    "text": "타임 배틀",
    "rect": [
     1,
-    114,
+    113,
     110,
     13
    ],
-   "size": 12,
-   "align": "left"
+   "size": 13,
+   "align": "left",
+   "raw_font": true,
+   "weight": 800
   }
  ]
 }

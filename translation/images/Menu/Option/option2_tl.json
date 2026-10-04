@@ -18,9 +18,8 @@
     176,
     17
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 16,
-   "bold": 1,
    "color": "#b4f6ee",
    "color2": "#8beede",
    "shadow": [
@@ -29,7 +28,10 @@
     "#397373"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

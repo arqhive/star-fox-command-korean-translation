@@ -15,16 +15,18 @@
    "text": "2차전을 시작합니다.",
    "rect": [
     2,
-    30,
+    28,
     228,
     13
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

@@ -18,13 +18,14 @@
     53,
     16
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 16,
-   "bold": 1,
    "color": "#ffffff",
    "align": "right",
    "valign": "middle",
-   "aa": true
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   }
  ]
 }

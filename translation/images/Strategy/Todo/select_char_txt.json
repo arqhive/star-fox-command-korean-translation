@@ -18,13 +18,14 @@
     256,
     14
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 14,
-   "bold": 1,
    "color": "#d5ffe6",
    "align": "center",
-   "valign": "middle",
-   "aa": true
+   "valign": "top",
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   }
  ]
 }

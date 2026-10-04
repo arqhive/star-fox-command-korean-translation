@@ -25,28 +25,32 @@
    "text": "이야기를 중단한 곳부터 재개합니다.",
    "rect": [
     4,
-    10,
+    7,
     222,
     20
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
-   "color": "#315a62"
+   "font": "noto",
+   "size": 13,
+   "color": "#315a62",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "처음부터 다시 시작하려면",
    "rect": [
     33,
-    48,
+    46,
     166,
     18
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
-   "color": "#315a62"
+   "font": "noto",
+   "size": 13,
+   "color": "#315a62",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
@@ -57,10 +61,12 @@
     166,
     18
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
-   "color": "#315a62"
+   "font": "noto",
+   "size": 13,
+   "color": "#315a62",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

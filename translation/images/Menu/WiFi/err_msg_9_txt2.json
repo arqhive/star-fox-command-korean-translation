@@ -15,17 +15,19 @@
    "text": "Wi-Fi 커넥션에\n접속할 수 없습니다.\nWi-Fi 커넥션 설정에서\n접속 설정을 확인해 주십시오.",
    "rect": [
     36,
-    1,
+    0,
     193,
     127
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "align": "left",
    "valign": "middle",
-   "line_gap": 7
+   "line_gap": 5,
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

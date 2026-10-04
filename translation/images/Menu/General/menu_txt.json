@@ -18,11 +18,13 @@
     96,
     14
    ],
-   "font": "malgunbd",
-   "size": 12,
+   "font": "noto",
+   "size": 13,
    "color": "#000000",
    "align": "left",
-   "bold": 1
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
@@ -33,11 +35,13 @@
     96,
     14
    ],
-   "font": "malgunbd",
-   "size": 12,
+   "font": "noto",
+   "size": 13,
    "color": "#000000",
    "align": "left",
-   "bold": 1
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
@@ -48,26 +52,30 @@
     96,
     14
    ],
-   "font": "malgunbd",
-   "size": 12,
+   "font": "noto",
+   "size": 13,
    "color": "#000000",
    "align": "left",
-   "bold": 1
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "Wi-Fi",
    "rect": [
     3,
-    49,
+    50,
     96,
     14
    ],
-   "font": "malgunbd",
-   "size": 12,
+   "font": "noto",
+   "size": 13,
    "color": "#000000",
    "align": "left",
-   "bold": 1
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
@@ -78,11 +86,13 @@
     96,
     14
    ],
-   "font": "malgunbd",
-   "size": 12,
+   "font": "noto",
+   "size": 13,
    "color": "#000000",
    "align": "left",
-   "bold": 1
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
@@ -93,11 +103,13 @@
     96,
     14
    ],
-   "font": "malgunbd",
-   "size": 12,
+   "font": "noto",
+   "size": 13,
    "color": "#000000",
    "align": "left",
-   "bold": 1
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
@@ -108,11 +120,13 @@
     96,
     14
    ],
-   "font": "malgunbd",
-   "size": 12,
+   "font": "noto",
+   "size": 13,
    "color": "#000000",
    "align": "left",
-   "bold": 1
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
@@ -123,11 +137,13 @@
     96,
     14
    ],
-   "font": "malgunbd",
-   "size": 12,
+   "font": "noto",
+   "size": 13,
    "color": "#000000",
    "align": "left",
-   "bold": 1
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

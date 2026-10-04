@@ -25,34 +25,36 @@
    "text": "예",
    "rect": [
     3,
-    6,
+    7,
     74,
     11
    ],
-   "font": "gulim",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#ffffff",
    "align": "center",
    "valign": "middle",
-   "aa": false
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "text",
    "text": "아니요",
    "rect": [
     83,
-    6,
+    7,
     74,
     11
    ],
-   "font": "gulim",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#ffffff",
    "align": "center",
    "valign": "middle",
-   "aa": false
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   }
  ]
 }

@@ -18,9 +18,8 @@
     136,
     20
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 16,
-   "bold": 1,
    "color": "#b4f6ee",
    "align": "center",
    "color2": "#83e6d5",
@@ -28,7 +27,11 @@
     1,
     1,
     "#528383"
-   ]
+   ],
+   "raw_font": true,
+   "weight": 800,
+   "aa": true,
+   "word_gap": 3
   }
  ]
 }

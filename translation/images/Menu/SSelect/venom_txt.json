@@ -21,10 +21,11 @@
    "color": "#000000",
    "align": "left",
    "valign": "middle",
-   "font": "gulim",
-   "size": 14,
-   "aa": false,
-   "bold": 1
+   "font": "noto",
+   "size": 13,
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "clear",
@@ -40,17 +41,18 @@
    "text": "베놈",
    "rect": [
     2,
-    18,
+    19,
     34,
     12
    ],
    "color": "#000000",
    "align": "left",
    "valign": "middle",
-   "font": "gulim",
-   "size": 13,
-   "aa": false,
-   "bold": 1
+   "font": "noto",
+   "size": 12,
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "copy",
@@ -79,17 +81,18 @@
    "text": "베놈",
    "rect": [
     2,
-    34,
+    35,
     34,
     12
    ],
    "color": "#000000",
    "align": "left",
    "valign": "middle",
-   "font": "gulim",
-   "size": 13,
-   "aa": false,
-   "bold": 1
+   "font": "noto",
+   "size": 12,
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "copy",
@@ -118,17 +121,18 @@
    "text": "베놈",
    "rect": [
     2,
-    50,
+    51,
     34,
     12
    ],
    "color": "#000000",
    "align": "left",
    "valign": "middle",
-   "font": "gulim",
-   "size": 13,
-   "aa": false,
-   "bold": 1
+   "font": "noto",
+   "size": 12,
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "copy",
@@ -157,17 +161,18 @@
    "text": "베놈",
    "rect": [
     2,
-    66,
+    67,
     34,
     12
    ],
    "color": "#000000",
    "align": "left",
    "valign": "middle",
-   "font": "gulim",
-   "size": 13,
-   "aa": false,
-   "bold": 1
+   "font": "noto",
+   "size": 12,
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "copy",

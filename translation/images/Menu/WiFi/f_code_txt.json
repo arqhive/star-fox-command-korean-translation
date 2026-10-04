@@ -14,18 +14,19 @@
    "op": "text",
    "text": "친구 목록",
    "rect": [
-    3,
-    3,
+    2,
+    5,
     110,
     19
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#103941",
    "align": "center",
-   "valign": "middle",
-   "spacing": 1
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -41,18 +42,19 @@
    "op": "text",
    "text": "코드 등록",
    "rect": [
-    3,
-    27,
+    2,
+    30,
     110,
     19
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#103941",
    "align": "center",
-   "valign": "middle",
-   "spacing": 1
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -68,18 +70,19 @@
    "op": "text",
    "text": "코드 확인",
    "rect": [
-    3,
-    51,
+    2,
+    52,
     110,
     19
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#103941",
    "align": "center",
-   "valign": "middle",
-   "spacing": 1
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -96,17 +99,18 @@
    "text": "코드 교환",
    "rect": [
     3,
-    75,
+    76,
     110,
     19
    ],
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#103941",
    "align": "center",
-   "valign": "middle",
-   "spacing": 1
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

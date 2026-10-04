@@ -15,16 +15,17 @@
    "text": "팀",
    "rect": [
     80,
-    2,
+    5,
     136,
     11
    ],
    "font": "malgunbd",
    "size": 12,
-   "bold": 1,
+   "bold": 0,
    "color": "#f600f6",
    "align": "left",
-   "valign": "middle"
+   "valign": "middle",
+   "galmuri": "Galmuri11"
   }
  ]
 }

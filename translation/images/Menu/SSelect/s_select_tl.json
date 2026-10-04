@@ -14,14 +14,13 @@
    "text": "스테이지 선택",
    "rect": [
     60,
-    3,
+    4,
     140,
     19
    ],
-   "font": "gulim",
+   "font": "noto",
    "size": 16,
-   "bold": 1,
-   "aa": false,
+   "aa": true,
    "color": "#b4f6ee",
    "shadow": [
     1,
@@ -29,7 +28,10 @@
     "#6aa4a4"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "word_gap": 3
   }
  ]
 }

@@ -32,13 +32,12 @@
    "text": "최고 격추 포인트",
    "rect": [
     0,
-    8,
+    7,
     110,
     14
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 0,
+   "font": "noto",
+   "size": 13,
    "color": "#39e6cd",
    "color2": "#31bdac",
    "shadow": [
@@ -47,21 +46,22 @@
     "#296a6a"
    ],
    "align": "left",
-   "valign": "middle",
-   "aa": false
+   "valign": "top",
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "text",
    "text": "파이터",
    "rect": [
-    128,
+    126,
     8,
     60,
     14
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 0,
+   "font": "noto",
+   "size": 13,
    "color": "#d5ffe6",
    "color2": "#a4cdbd",
    "shadow": [
@@ -70,8 +70,10 @@
     "#527373"
    ],
    "align": "left",
-   "valign": "middle",
-   "aa": false
+   "valign": "top",
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "text",
@@ -82,9 +84,8 @@
     56,
     14
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 0,
+   "font": "noto",
+   "size": 13,
    "color": "#d5ffe6",
    "color2": "#a4cdbd",
    "shadow": [
@@ -93,21 +94,22 @@
     "#527373"
    ],
    "align": "left",
-   "valign": "middle",
-   "aa": false
+   "valign": "top",
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "text",
    "text": "남은 라운드 캡슐",
    "rect": [
     0,
-    29,
+    30,
     140,
     14
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 0,
+   "font": "noto",
+   "size": 13,
    "color": "#d5ffe6",
    "color2": "#a4cdbd",
    "shadow": [
@@ -117,20 +119,21 @@
    ],
    "align": "left",
    "valign": "middle",
-   "aa": false
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "text",
    "text": "토탈 포인트",
    "rect": [
     0,
-    47,
+    46,
     108,
     14
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 0,
+   "font": "noto",
+   "size": 13,
    "color": "#d5ffe6",
    "color2": "#a4cdbd",
    "shadow": [
@@ -140,20 +143,21 @@
    ],
    "align": "left",
    "valign": "middle",
-   "aa": false
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "text",
    "text": "격추 포인트",
    "rect": [
     0,
-    64,
+    66,
     86,
     14
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 0,
+   "font": "noto",
+   "size": 13,
    "color": "#d5ffe6",
    "color2": "#a4cdbd",
    "shadow": [
@@ -162,21 +166,22 @@
     "#527373"
    ],
    "align": "left",
-   "valign": "middle",
-   "aa": false
+   "valign": "top",
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "text",
    "text": "기록 갱신!!",
    "rect": [
-    90,
-    65,
-    62,
+    92,
+    66,
+    70,
     14
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 12,
-   "bold": 0,
    "color": "#00ffff",
    "color2": "#08cdcd",
    "shadow": [
@@ -185,21 +190,22 @@
     "#18737b"
    ],
    "align": "left",
-   "valign": "middle",
-   "aa": false
+   "valign": "top",
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "text",
    "text": "기록 갱신!!",
    "rect": [
-    156,
-    65,
-    62,
+    157,
+    66,
+    70,
     14
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 12,
-   "bold": 0,
    "color": "#ffffff",
    "color2": "#c5cdcd",
    "shadow": [
@@ -208,8 +214,10 @@
     "#5a737b"
    ],
    "align": "left",
-   "valign": "middle",
-   "aa": false
+   "valign": "top",
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
   }
  ]
 }

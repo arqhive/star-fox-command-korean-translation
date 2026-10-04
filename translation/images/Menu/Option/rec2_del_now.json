@@ -14,17 +14,19 @@
    "text": "삭제 중",
    "rect": [
     6,
-    7,
+    5,
     66,
     16
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 16,
-   "bold": 2,
    "color": "#d5ffe6",
    "align": "left",
    "valign": "middle",
-   "aa": true
+   "aa": true,
+   "raw_font": true,
+   "weight": 800,
+   "word_gap": 3
   }
  ]
 }

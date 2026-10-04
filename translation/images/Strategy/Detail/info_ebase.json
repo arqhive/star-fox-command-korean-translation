@@ -285,57 +285,60 @@
    "text": "적과 미사일은",
    "rect": [
     132,
-    8,
+    9,
     122,
     14
    ],
-   "font": "gulim",
-   "size": 12,
-   "bold": 1,
-   "aa": false,
+   "font": "noto",
+   "size": 13,
+   "aa": true,
    "color": "#f6cdcd",
    "outline": "#180000",
    "outline_w": 1,
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "text",
    "text": "모선 내부에서",
    "rect": [
     132,
-    28,
+    29,
     122,
     14
    ],
-   "font": "gulim",
-   "size": 12,
-   "bold": 1,
-   "aa": false,
+   "font": "noto",
+   "size": 13,
+   "aa": true,
    "color": "#f6cdcd",
    "outline": "#180000",
    "outline_w": 1,
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "text",
    "text": "적 코어를 장전하고",
    "rect": [
     132,
-    48,
+    49,
     122,
     14
    ],
-   "font": "gulim",
-   "size": 12,
-   "bold": 1,
-   "aa": false,
+   "font": "noto",
+   "size": 13,
+   "aa": true,
    "color": "#f6cdcd",
    "outline": "#180000",
    "outline_w": 1,
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800
   },
   {
    "op": "text",
@@ -346,15 +349,16 @@
     122,
     14
    ],
-   "font": "gulim",
-   "size": 12,
-   "bold": 1,
-   "aa": false,
+   "font": "noto",
+   "size": 13,
+   "aa": true,
    "color": "#f6cdcd",
    "outline": "#180000",
    "outline_w": 1,
    "align": "left",
-   "valign": "middle"
+   "valign": "top",
+   "raw_font": true,
+   "weight": 800
   }
  ]
 }

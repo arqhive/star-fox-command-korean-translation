@@ -35,43 +35,55 @@
    "text": "적",
    "rect": [
     58,
-    37,
+    35,
     40,
     12
    ],
-   "galmuri": "Galmuri11-Bold",
    "color": "#315a62",
    "align": "left",
-   "valign": "top"
+   "valign": "top",
+   "raw_font": true,
+   "font": "noto",
+   "weight": 800,
+   "aa": true,
+   "size": 13
   },
   {
    "op": "text",
    "text": "적 기지",
    "rect": [
     58,
-    77,
+    75,
     56,
     12
    ],
-   "galmuri": "Galmuri11-Bold",
    "color": "#315a62",
    "align": "left",
-   "valign": "top"
+   "valign": "top",
+   "raw_font": true,
+   "font": "noto",
+   "weight": 800,
+   "aa": true,
+   "size": 13
   },
   {
    "op": "text",
    "text": "모든 적을 격파하고\n적에게 점령당한\n모든 기지를 해방하면",
    "rect": [
     120,
-    29,
+    28,
     132,
     52
    ],
-   "galmuri": "Galmuri11-Bold",
    "color": "#315a62",
    "align": "left",
    "valign": "top",
-   "line_gap": 6
+   "line_gap": 4,
+   "raw_font": true,
+   "font": "noto",
+   "weight": 800,
+   "aa": true,
+   "size": 13
   },
   {
    "op": "text",
@@ -82,24 +94,32 @@
     60,
     12
    ],
-   "galmuri": "Galmuri11-Bold",
    "color": "#0041ff",
    "align": "left",
-   "valign": "top"
+   "valign": "top",
+   "raw_font": true,
+   "font": "noto",
+   "weight": 800,
+   "aa": true,
+   "size": 13
   },
   {
    "op": "text",
    "text": "입니다.",
    "rect": [
-    174,
+    171,
     89,
     60,
     12
    ],
-   "galmuri": "Galmuri11-Bold",
    "color": "#315a62",
    "align": "left",
-   "valign": "top"
+   "valign": "top",
+   "raw_font": true,
+   "font": "noto",
+   "weight": 800,
+   "aa": true,
+   "size": 13
   }
  ]
 }

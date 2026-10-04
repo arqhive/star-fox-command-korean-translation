@@ -15,32 +15,36 @@
    "text": "녹음은 여기까지입니다.",
    "rect": [
     58,
-    9,
+    11,
     166,
     15
    ],
    "align": "left",
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#315a62",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
    "text": "수고하셨습니다.",
    "rect": [
     58,
-    32,
+    34,
     166,
     15
    ],
    "align": "left",
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#315a62",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

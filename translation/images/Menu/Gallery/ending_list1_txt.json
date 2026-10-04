@@ -31,13 +31,12 @@
    "text": "앵글러 황제",
    "rect": [
     0,
-    5,
+    6,
     160,
     18
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 14,
-   "bold": 1,
    "color": "#d5ffe6",
    "shadow": [
     1,
@@ -45,7 +44,10 @@
     "#292020"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "copy",
@@ -91,13 +93,12 @@
    "text": "안녕, 폭스",
    "rect": [
     0,
-    45,
+    46,
     160,
     18
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 14,
-   "bold": 1,
    "color": "#d5ffe6",
    "shadow": [
     1,
@@ -105,7 +106,10 @@
     "#292020"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "copy",
@@ -151,13 +155,12 @@
    "text": "폭스와 크리스탈",
    "rect": [
     0,
-    85,
+    86,
     160,
     18
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 14,
-   "bold": 1,
    "color": "#d5ffe6",
    "shadow": [
     1,
@@ -165,7 +168,10 @@
     "#292020"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "copy",
@@ -211,13 +217,12 @@
    "text": "애시의 선택",
    "rect": [
     0,
-    125,
+    126,
     160,
     18
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 14,
-   "bold": 1,
    "color": "#d5ffe6",
    "shadow": [
     1,
@@ -225,7 +230,10 @@
     "#292020"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "copy",
@@ -271,13 +279,12 @@
    "text": "루시와 크리스탈",
    "rect": [
     0,
-    165,
+    166,
     160,
     18
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 14,
-   "bold": 1,
    "color": "#d5ffe6",
    "shadow": [
     1,
@@ -285,7 +292,10 @@
     "#292020"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "copy",
@@ -331,13 +341,12 @@
    "text": "부활! 스타울프",
    "rect": [
     0,
-    205,
+    206,
     160,
     18
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 14,
-   "bold": 1,
    "color": "#d5ffe6",
    "shadow": [
     1,
@@ -345,7 +354,10 @@
     "#292020"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

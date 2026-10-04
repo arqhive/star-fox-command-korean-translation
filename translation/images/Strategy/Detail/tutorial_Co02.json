@@ -19,11 +19,15 @@
     136,
     50
    ],
-   "galmuri": "Galmuri11-Bold",
    "color": "#315a62",
    "align": "left",
    "valign": "top",
-   "line_gap": 5
+   "line_gap": 3,
+   "raw_font": true,
+   "font": "noto",
+   "weight": 800,
+   "aa": true,
+   "size": 13
   },
   {
    "op": "text",
@@ -34,11 +38,15 @@
     136,
     31
    ],
-   "galmuri": "Galmuri11-Bold",
    "color": "#315a62",
    "align": "left",
    "valign": "top",
-   "line_gap": 6
+   "line_gap": 4,
+   "raw_font": true,
+   "font": "noto",
+   "weight": 800,
+   "aa": true,
+   "size": 13
   }
  ]
 }

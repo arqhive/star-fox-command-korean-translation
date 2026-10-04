@@ -15,16 +15,18 @@
    "text": "밤 몇 시에 자?",
    "rect": [
     4,
-    23,
+    24,
     224,
     15
    ],
    "align": "center",
-   "font": "malgunbd",
-   "size": 13,
-   "bold": 1,
+   "font": "noto",
+   "size": 14,
    "color": "#315a62",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

@@ -15,13 +15,12 @@
    "text": "통신 에러가 발생했습니다.",
    "rect": [
     4,
-    23,
+    24,
     224,
     14
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "shadow": [
     1,
@@ -29,7 +28,10 @@
     "#acd5c5"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "text",
@@ -40,9 +42,8 @@
     224,
     14
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#315a62",
    "shadow": [
     1,
@@ -50,7 +51,10 @@
     "#acd5c5"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

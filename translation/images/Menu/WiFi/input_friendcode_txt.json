@@ -1,4 +1,30 @@
-{"edits": [
- {"op": "clear", "rect": [0, 0, 256, 32]},
- {"op": "text", "text": "친구 코드 입력", "rect": [3, 1, 120, 14], "font": "malgunbd", "size": 12, "bold": 1, "color": "#000000", "align": "left"}
-]}
+{
+ "edits": [
+  {
+   "op": "clear",
+   "rect": [
+    0,
+    0,
+    256,
+    32
+   ]
+  },
+  {
+   "op": "text",
+   "text": "친구 코드 입력",
+   "rect": [
+    3,
+    0,
+    120,
+    14
+   ],
+   "font": "noto",
+   "size": 13,
+   "color": "#000000",
+   "align": "left",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
+  }
+ ]
+}

@@ -1,4 +1,33 @@
-{"edits": [
- {"op": "hfill", "rect": [8, 3, 104, 11], "from_x": 6},
- {"op": "text", "text": "터치해서 시작", "rect": [8, 2, 104, 13], "font": "malgunbd", "size": 12, "bold": 1, "color": "#4aacac", "spacing": 1, "align": "center", "valign": "middle", "aa": true}
-]}
+{
+ "edits": [
+  {
+   "op": "hfill",
+   "rect": [
+    8,
+    3,
+    104,
+    11
+   ],
+   "from_x": 6
+  },
+  {
+   "op": "text",
+   "text": "터치해서 시작",
+   "rect": [
+    9,
+    3,
+    104,
+    13
+   ],
+   "font": "noto",
+   "size": 13,
+   "color": "#4aacac",
+   "spacing": 1,
+   "align": "center",
+   "valign": "middle",
+   "aa": true,
+   "raw_font": true,
+   "weight": 800
+  }
+ ]
+}

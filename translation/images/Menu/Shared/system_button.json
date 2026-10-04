@@ -19,12 +19,14 @@
     42,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#1f4a52",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -45,12 +47,14 @@
     42,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#1f4a52",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -66,58 +70,19 @@
    "op": "text",
    "text": "돌아가기",
    "rect": [
-    4,
+    2,
     44,
-    42,
+    46,
     16
    ],
-   "font": "malgunbd",
-   "bold": 1,
+   "font": "noto",
    "color": "#1f4a52",
    "align": "center",
    "valign": "middle",
-   "galmuri": "Galmuri11-Bold",
-   "spacing": -1
-  },
-  {
-   "op": "hfill",
-   "rect": [
-    22,
-    46,
-    3,
-    11
-   ],
-   "from_x": 4
-  },
-  {
-   "op": "fill",
-   "rect": [
-    22,
-    46,
-    2,
-    11
-   ],
-   "color": "#20525a"
-  },
-  {
-   "op": "fill",
-   "rect": [
-    24,
-    50,
-    2,
-    2
-   ],
-   "color": "#20525a"
-  },
-  {
-   "op": "hfill",
-   "rect": [
-    14,
-    50,
-    1,
-    1
-   ],
-   "from_x": 4
+   "raw_font": true,
+   "weight": 800,
+   "aa": true,
+   "size": 11
   },
   {
    "op": "hfill",
@@ -138,12 +103,14 @@
     42,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#1f4a52",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -164,12 +131,14 @@
     42,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#1f4a52",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -185,17 +154,19 @@
    "op": "text",
    "text": "마감",
    "rect": [
-    4,
+    5,
     107,
     54,
     16
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#1f4a52",
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

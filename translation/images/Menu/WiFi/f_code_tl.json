@@ -14,13 +14,12 @@
    "text": "친구 코드",
    "rect": [
     0,
-    4,
+    5,
     256,
     18
    ],
-   "font": "malgunbd",
+   "font": "noto",
    "size": 15,
-   "bold": 1,
    "color": "#b4f6ee",
    "color2": "#73e6de",
    "shadow": [
@@ -30,7 +29,10 @@
    ],
    "align": "center",
    "valign": "middle",
-   "spacing": 1
+   "spacing": 1,
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }

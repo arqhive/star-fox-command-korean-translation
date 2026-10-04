@@ -19,9 +19,8 @@
     106,
     12
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#c5eed5",
    "shadow": [
     1,
@@ -29,7 +28,10 @@
     "#00738b"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   },
   {
    "op": "hfill",
@@ -50,9 +52,8 @@
     106,
     12
    ],
-   "font": "malgunbd",
-   "size": 12,
-   "bold": 1,
+   "font": "noto",
+   "size": 13,
    "color": "#c5eed5",
    "shadow": [
     1,
@@ -60,7 +61,10 @@
     "#00738b"
    ],
    "align": "center",
-   "valign": "middle"
+   "valign": "middle",
+   "raw_font": true,
+   "weight": 800,
+   "aa": true
   }
  ]
 }
