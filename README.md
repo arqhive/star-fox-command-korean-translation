@@ -3,11 +3,13 @@
 *Star Fox Command* (닌텐도 DS, 일본판 `ASFJ`) 비공식 한국어 팬 패치입니다.
 대사는 일본어판 원문을 기준으로 번역했습니다.
 
-**제작: arqhive** · **최신 버전: [v1.2](https://github.com/arqhive/star-fox-command-korean-translation/releases/tag/v1.2)**
+**제작: arqhive** · **최신 버전: [v1.3f](https://github.com/arqhive/star-fox-command-korean-translation/releases/tag/v1.3f) (최종판)**
 
 - 대사 약 2,870문장 전체를 한글화했습니다(스토리, 전투 무전, 작전 화면, 오프닝·엔딩, 적 이름).
 - 그림 글씨 528장을 한글화했습니다(메뉴, 타이틀, 스테이지 제목, 갤러리, 옵션, Wi-Fi 안내, 작전 화면, 캐릭터 이름표).
-- 대사 글꼴은 닌텐도 DS 글꼴 디자인을 바탕으로 한 도트 글꼴 **갈무리**를, 그림 글씨는 대부분 **본고딕(Noto Sans KR)** 을 씁니다(작은 이름표 등 일부는 갈무리).
+- 대사 글꼴은 닌텐도 DS 글꼴 디자인을 바탕으로 한 도트 글꼴 **갈무리**를, 그림 글씨는 대부분 **본고딕(Noto Sans KR)** 을 씁니다.
+  원본 일본판의 그림 글씨가 대부분 부드러운 고딕이라 원본과 비슷한 느낌을 내려고 본고딕을 골랐습니다.
+  원본이 도트 글씨인 그림과, 칸이 작아 본고딕으로는 심하게 뭉개지는 글자는 갈무리로 그렸습니다.
 - 인물·지명은 한국 정식 발매작(스타폭스 2026, 스타폭스 64 3D) 표기를 따랐습니다(안돌프, 팔코 람바디, 라일라트, 카티나).
 - 닉네임 입력 화면이 영문 자판으로 시작하도록 코드를 고쳤습니다.
 - 메뉴(DSi, TWiLight Menu++ 등)에 보이는 게임 이름을 "스타폭스 커맨드"로 바꿨습니다.
@@ -25,7 +27,7 @@
 
 ### 적용 방법
 
-1. [배포 페이지](https://github.com/arqhive/star-fox-command-korean-translation/releases/tag/v1.2)에서 `StarFoxCommand_KO_v1.2.bps`를 받습니다.
+1. [배포 페이지](https://github.com/arqhive/star-fox-command-korean-translation/releases/tag/v1.3f)에서 `StarFoxCommand_KO_v1.3f.bps`를 받습니다.
 2. 원본 일본판 롬에 패치를 적용합니다.
 3. 결과 롬의 확인값을 아래 표와 비교합니다.
 
@@ -33,12 +35,12 @@
 
 ### 파일 확인값
 
-| 항목 | 원본 일본판 | 패치 적용 결과 (v1.2) |
+| 항목 | 원본 일본판 | 패치 적용 결과 (v1.3f) |
 |---|---|---|
 | 크기 | 33,554,432 바이트 | 33,554,432 바이트 |
-| CRC32 | `618C4089` | `9CBE1BF4` |
-| MD5 | `81d9550164d4c0a3756d1271ee063a1a` | `d441a7331b0890892fc6d356f6324fc5` |
-| SHA-1 | `fe0a3ba974132de5d63429b48ee9d3e8b6d6a318` | `a711845e0cdfca3b26ce00d233c473175b0f21db` |
+| CRC32 | `618C4089` | `DAECEC9E` |
+| MD5 | `81d9550164d4c0a3756d1271ee063a1a` | `24408fcecfea359bd8663fce2ac68463` |
+| SHA-1 | `fe0a3ba974132de5d63429b48ee9d3e8b6d6a318` | `18d118b30079dc5ea6ffa8dffe80e5050dc03f63` |
 
 원본 파일명 예: `Star Fox Command (Japan).nds`
 
@@ -48,6 +50,8 @@
 
 ### 알려진 문제
 
+- 갤러리 기체 소개의 `플라스마`가 `플라스`와 `마`로 떨어져 보입니다. 원본 칸(폭 43px)보다 넓은 글자(갈무리 굵게 47px)를 가로로 줄여 넣었습니다. 도트 글꼴을 줄이면 세로 줄 일부가 빠져 글자 사이가 고르지 않고 `마`가 좁아집니다. 다른 글꼴로 바꾸면 같은 표의 다른 항목과 굵기가 달라져서 그대로 두었습니다.
+- Wi-Fi 대전과 다운로드 플레이는 함께 해 볼 사람이 없어 실제 플레이로 검수하지 못했습니다(메뉴·안내 화면 글씨만 확인).
 - 칸 높이가 7에서 9픽셀인 작은 이름 목록 일부는 받침이 많은 글자가 뭉개져 보일 수 있습니다.
 - 여러 조각을 조합해 보여 주는 이미지(라운드 정보 등)는 화면에 따라 어색할 수 있습니다.
 - 닉네임은 영문·기호만 입력할 수 있습니다. 한글 입력은 지원하지 않습니다.
@@ -73,10 +77,10 @@ pip install pillow numpy
 
 ```bash
 python tools/build.py
-python tools/bps.py create "rom/Star Fox Command (Japan).nds" "work/Star Fox Command (Japan) [KO].nds" release/StarFoxCommand_KO_v1.2.bps
+python tools/bps.py create "rom/Star Fox Command (Japan).nds" "work/Star Fox Command (Japan) [KO].nds" release/StarFoxCommand_KO_v1.3f.bps
 ```
 
-결과는 `work/Star Fox Command (Japan) [KO].nds`에 만들어지며, v1.2 배포본과 바이트 단위로 같습니다.
+결과는 `work/Star Fox Command (Japan) [KO].nds`에 만들어지며, v1.3f 배포본과 바이트 단위로 같습니다.
 
 `build.py`는 다음을 수행합니다.
 
@@ -128,7 +132,8 @@ work/, rom/            원문 추출·미리보기·빌드 결과, 원본 롬(�
 - **글꼴**: BMG마다 전용 서브셋 NFTR을 씁니다. 새 글리프의 코드는 글꼴의 **마지막 전체 범위(0x0000-0xFFFF) CMAP 블록에 병합**해야 합니다. 뒤에 새 블록을 추가하면 게임이 범위가 맞는 첫 블록에서 검색을 끝내 글자가 공백으로 나옵니다.
 - **글자 폭**: 게임은 CWDH의 `charWidth`가 아니라 `left + glyphWidth`만큼 커서를 전진시킵니다.
 - **텍스처**: `*.ntfq`는 헤더가 없어 파일 크기로 형식(COMP4x4, PLTT4·16·256, A5I3·A3I5)과 크기를 판정합니다(`tools/texchoice.json`). 일부 스크립트의 `RegistTexture` 크기 값은 실제와 다릅니다.
-- **COMP4x4 함정**: 팔레트를 늘리면 실기에서 다른 텍스처의 색이 깨집니다. 인코더는 기존 색 묶음만 재사용해 팔레트 크기를 유지합니다.
+- **COMP4x4 함정**: 팔레트를 늘리면 실기에서 다른 텍스처의 색이 깨집니다. 인코더는 기존 색 묶음만 재사용해 팔레트 크기를 유지합니다. 그래서 같은 그림의 다른 글자 색 묶음이 골라져 엉뚱한 색 픽셀이 섞일 수 있으니, 인코딩한 뒤 다시 풀어서 확인합니다.
+- **반투명 텍스처 함정**: A5I3 단추처럼 바탕이 반투명인 그림에 글자를 불투명하게 얹으면 실기에서 글자 색이 다르게 보입니다. 명세의 `keep_alpha`로 바탕 알파를 유지합니다.
 - **조각 텍스처 함정**: 게임이 원본 글자 높이만큼 잘라 쓰는 이미지(행성 이름 등)는 한글이 그 범위를 넘으면 윗부분이 아래로 되감겨 찍힙니다. 원본 글자 행 범위에 맞춰야 합니다.
 - **코드 패치**: 오버레이 4 `+0x233A8`의 본체 언어 분기를 고쳐 항상 영문 자판이 뜨게 했습니다.
 - arm9은 BLZ(역방향 LZ)로 압축돼 있습니다(`tools/blz.py`).
