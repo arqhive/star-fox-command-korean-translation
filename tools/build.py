@@ -156,6 +156,10 @@ for bmgname, trans in TRANS.items():
         for ch in t:
             if ch == '\n' or ch in seen: continue
             seen.add(ch)
+            # 영문·숫자·문장부호는 원본 글꼴에 일부만 있어(battle 의 '1', strategy 의 '!' 등) 섞이면 모양이 달라 보인다
+            # → 항상 갈무리로 새로 그림. '@'(@1 같은 변수 표시)와 공백은 원본 그대로
+            if ch.isascii() and ch.isprintable() and ch not in ' @':
+                need.append(ch); continue
             try:
                 code = int.from_bytes(ch.encode('cp932'), 'big')
                 if all(code in c for c in cmaps.values()): continue

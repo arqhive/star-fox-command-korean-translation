@@ -66,6 +66,8 @@ class FontInfo:
     def ko_adv(self, ch):
         if ch == ' ': return SPACE_ADV
         if 0xAC00 <= ord(ch) <= 0xD7A3: return font_cfg(self.th)[3]
+        if ch.isascii() and ch.isprintable() and ch not in ' @':  # build.py 와 같게: 영문·숫자·문장부호는 항상 갈무리 글리프
+            return render_glyph(ch, self.tw, self.th)[1][2]
         a = self.jp_adv(ch)
         if a is not None: return a
         return render_glyph(ch, self.tw, self.th)[1][2]

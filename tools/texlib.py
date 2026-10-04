@@ -32,6 +32,13 @@ FONTS = {
     'malgun': 'C:/Windows/Fonts/malgun.ttf',
     'gulim': 'C:/Windows/Fonts/gulim.ttc',
     'batang': 'C:/Windows/Fonts/batang.ttc',
+    # 큰 디스플레이 글씨(임무/완료/실패)용 — 본고딕 Black 에서 쓰는 글자만 뽑은 저장소 동봉 글꼴
+    'noto-black': os.path.join(paths.FONTS, 'NotoSansKR-Black-subset.ttf'),
+    # 본고딕(Noto Sans KR) 가변 글꼴 — "weight": "Bold" 처럼 굵기를 지정해 쓴다.
+    # 저장소에 동봉본이 있으면 그걸 쓰고, 없으면 PC 설치본으로 넘어간다.
+    'noto': (os.path.join(paths.FONTS, 'NotoSansKR-VF.ttf')
+             if os.path.exists(os.path.join(paths.FONTS, 'NotoSansKR-VF.ttf'))
+             else 'C:/Windows/Fonts/NotoSansKR-VF.ttf'),
 }
 _rom = None
 def rom():
@@ -189,12 +196,17 @@ def galmuri_pick(e):
 def draw_text(img, e):
     x, y, w, h = e['rect']
     gscale = 1
-    if USE_GALMURI:
+    if USE_GALMURI and not e.get('raw_font'):  # raw_font: 이 글자만 갈무리 대신 일반 글꼴(원본이 큰 디스플레이 글씨일 때)
         gpath, gsize, gscale, gbold = galmuri_pick(e)
         e = dict(e, aa=False, bold=gbold, line_gap=round(e.get('line_gap', 0) / gscale))
         font = ImageFont.truetype(gpath, gsize)
     else:
         font = ImageFont.truetype(FONTS[e.get('font', 'malgunbd')], e.get('size', 12))
+        if e.get('weight'):  # 가변 글꼴의 굵기 — 이름("Bold"/"Black") 또는 숫자(700~900)
+            if isinstance(e['weight'], (int, float)):
+                font.set_variation_by_axes([float(e['weight'])])
+            else:
+                font.set_variation_by_name(e['weight'])
     lines = e['text'].split('\n')
     spacing = e.get('spacing', 0); gap = e.get('line_gap', 0)
     ow = e.get('outline_w', 1) if e.get('outline') else 0
@@ -202,13 +214,33 @@ def draw_text(img, e):
     pad = 4 + ow + (max(abs(sh[0]), abs(sh[1])) if sh else 0)
     asc, desc = font.getmetrics()
     lh = asc + desc + gap
+    wgap = e.get('word_gap', 0)  # 띄어쓰기에만 더 주는 폭 (본고딕 같은 전각 글꼴은 공백이 좁아 안 보인다)
+    # ink_gap: 글자 칸(전각 폭) 대신 '실제 잉크 폭'으로 글자를 늘어놓고, 잉크 사이를 이 값으로 고정한다.
+    # 본고딕은 '토'처럼 획이 칸보다 좁은 글자 뒤에 빈자리가 생겨 띄어쓰기처럼 보인다 → 갈무리처럼 고른 간격.
+    igap = e.get('ink_gap')
+    ink = {}
+    def ink_lr(c):
+        if c not in ink:
+            bb = font.getbbox(c)
+            ink[c] = (bb[0], bb[2]) if bb[2] > bb[0] else None
+        return ink[c]
+    def adv(c):
+        if igap is not None:
+            lr = ink_lr(c)
+            if c == ' ' or lr is None:
+                return font.getlength(' ') + wgap
+            return (lr[1] - lr[0]) + igap
+        return font.getlength(c) + spacing + (wgap if c == ' ' else 0)
     def line_w(t):
-        return sum(font.getlength(c) + spacing for c in t) - (spacing if t else 0)
+        if igap is not None:
+            return sum(adv(c) for c in t) - (igap if t and t[-1] != ' ' else 0)
+        return sum(adv(c) for c in t) - (spacing if t else 0)
     tw = int(max(line_w(t) for t in lines)) + 1
     th = lh * len(lines)
     W, H = tw + pad * 2, th + pad * 2
     mask = Image.new('L', (W, H), 0); md = ImageDraw.Draw(mask)
-    if not e.get('aa', True): md.fontmode = '1'
+    mono = not e.get('aa', True)
+    if mono: md.fontmode = '1'
     # 실제 잉크 영역 기준 세로 정렬
     for i, t in enumerate(lines):
         cx = pad
@@ -216,8 +248,13 @@ def draw_text(img, e):
         if e.get('align', 'center') == 'center': cx = pad + (tw - lw) / 2
         elif e.get('align') == 'right': cx = pad + tw - lw
         for c in t:
-            md.text((cx, pad + i * lh), c, font=font, fill=255)
-            cx += font.getlength(c) + spacing
+            lr = ink_lr(c) if igap is not None else None
+            ox_c = -lr[0] if lr else 0          # 잉크 왼쪽 끝이 cx 에 오도록
+            # 글자 시작 x 는 소수점 그대로 둔다. 정수로 깎으면 글자마다 오차가 쌓여
+            # '토' 처럼 획이 좁은 글자 뒤가 1px 더 벌어진다 (옥토 맨의 함정). snap_x=true 로만 정수 배치.
+            px_ = round(cx) if e.get('snap_x', False) else cx
+            md.text((px_ + ox_c, pad + i * lh), c, font=font, fill=255)
+            cx += adv(c)
     for _ in range(e.get('bold', 0)):  # 가로 1px 굵게
         sh_m = Image.new('L', mask.size, 0); sh_m.paste(mask, (1, 0))
         mask = Image.fromarray(np.maximum(np.asarray(mask), np.asarray(sh_m)))
@@ -231,7 +268,7 @@ def draw_text(img, e):
     sy = e.get('scale_y', 1.0)  # 세로 배율 (게임에서 세로로 늘려 보이는 텍스처용)
     if sx < 1.0 or sy != 1.0:
         mask = mask.resize((max(1, int(mask.width * sx)), max(1, int(round(mask.height * sy)))), Image.LANCZOS)
-        if USE_GALMURI:
+        if not e.get('aa', True):  # 도트 글꼴(갈무리·안티 끔)만 다시 흑백으로. 본고딕은 줄인 뒤에도 안티를 살린다
             mask = mask.point(lambda v: 255 if v >= 110 else 0)
     mw, mh = mask.size
     fullw = mw + 2 * ow + (abs(sh[0]) if sh else 0); fullh = mh + 2 * ow + (abs(sh[1]) if sh else 0)

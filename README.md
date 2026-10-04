@@ -7,7 +7,7 @@
 
 - 대사 약 2,870문장 전체를 한글화했습니다(스토리, 전투 무전, 작전 화면, 오프닝·엔딩, 적 이름).
 - 그림 글씨 528장을 한글화했습니다(메뉴, 타이틀, 스테이지 제목, 갤러리, 옵션, Wi-Fi 안내, 작전 화면, 캐릭터 이름표).
-- 글꼴은 닌텐도 DS 글꼴 디자인을 바탕으로 한 도트 글꼴 **갈무리**를 씁니다.
+- 대사 글꼴은 닌텐도 DS 글꼴 디자인을 바탕으로 한 도트 글꼴 **갈무리**를, 그림 글씨는 대부분 **본고딕(Noto Sans KR)** 을 씁니다(작은 이름표 등 일부는 갈무리).
 - 인물·지명은 한국 정식 발매작(스타폭스 2026, 스타폭스 64 3D) 표기를 따랐습니다(안돌프, 팔코 람바디, 라일라트, 카티나).
 - 닉네임 입력 화면이 영문 자판으로 시작하도록 코드를 고쳤습니다.
 - 메뉴(DSi, TWiLight Menu++ 등)에 보이는 게임 이름을 "스타폭스 커맨드"로 바꿨습니다.
@@ -61,7 +61,7 @@
 
 - Python 3.10 이상, [Pillow](https://pypi.org/project/pillow/), [NumPy](https://pypi.org/project/numpy/).
 - 원본 일본판 롬(위 확인값과 일치하는 파일).
-- 글꼴은 저장소의 [`fonts/`](fonts/)(갈무리 TTF)를 쓰므로 OS 폰트와 관계없이 같은 결과가 나옵니다.
+- 글꼴은 저장소의 [`fonts/`](fonts/)(갈무리·본고딕 TTF)를 쓰므로 OS 폰트와 관계없이 같은 결과가 나옵니다.
 
 ```bash
 pip install pillow numpy
@@ -117,7 +117,7 @@ translation/images/    이미지별 편집 명세
 translation/GLOSSARY.md  용어집·말투·표기 규칙
 docs/                  번역·검수·이미지 작업 가이드, 릴리즈 노트 사본(docs/releases/)
 tools/                 빌드·검사·이미지·패치 도구
-fonts/                 갈무리 글꼴과 라이선스(SIL OFL 1.1)
+fonts/                 갈무리·본고딕 글꼴과 라이선스(SIL OFL 1.1)
 release/               배포 패치와 사용자 설명서
 work/, rom/            원문 추출·미리보기·빌드 결과, 원본 롬(커밋하지 않음)
 ```
@@ -141,6 +141,7 @@ work/, rom/            원문 추출·미리보기·빌드 결과, 원본 롬(�
 
 - 이 저장소의 도구 코드, 한국어 번역문, 문서: [MIT License](LICENSE) (© 2026 arqhive).
 - 글꼴: [갈무리(Galmuri)](https://github.com/quiple/galmuri) © Lee Minseo, [SIL Open Font License 1.1](fonts/OFL.txt).
+- 글꼴: [본고딕(Noto Sans KR)](https://github.com/notofonts/noto-cjk) © Adobe, [SIL Open Font License 1.1](fonts/NotoSansKR-OFL.txt).
 
 ## 면책
 
