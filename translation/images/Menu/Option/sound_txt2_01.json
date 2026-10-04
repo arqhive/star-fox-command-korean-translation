@@ -22,16 +22,12 @@
    "font": "noto",
    "size": 13,
    "color": "#c5eed5",
-   "shadow": [
-    1,
-    1,
-    "#00738b"
-   ],
    "align": "center",
    "valign": "middle",
    "raw_font": true,
    "weight": 800,
-   "aa": true
+   "aa": true,
+   "spacing": 1
   },
   {
    "op": "hfill",
@@ -55,16 +51,12 @@
    "font": "noto",
    "size": 13,
    "color": "#c5eed5",
-   "shadow": [
-    1,
-    1,
-    "#00738b"
-   ],
    "align": "center",
    "valign": "middle",
    "raw_font": true,
    "weight": 800,
-   "aa": true
+   "aa": true,
+   "spacing": 1
   }
  ]
 }

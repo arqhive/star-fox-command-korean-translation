@@ -178,10 +178,8 @@
     92,
     66,
     70,
-    14
+    20
    ],
-   "font": "noto",
-   "size": 12,
    "color": "#00ffff",
    "color2": "#08cdcd",
    "shadow": [
@@ -191,9 +189,9 @@
    ],
    "align": "left",
    "valign": "top",
-   "aa": true,
-   "raw_font": true,
-   "weight": 800
+   "aa": false,
+   "galmuri": "Galmuri11-Bold",
+   "spacing": -1
   },
   {
    "op": "text",
@@ -202,10 +200,8 @@
     157,
     66,
     70,
-    14
+    20
    ],
-   "font": "noto",
-   "size": 12,
    "color": "#ffffff",
    "color2": "#c5cdcd",
    "shadow": [
@@ -215,9 +211,9 @@
    ],
    "align": "left",
    "valign": "top",
-   "aa": true,
-   "raw_font": true,
-   "weight": 800
+   "aa": false,
+   "galmuri": "Galmuri11-Bold",
+   "spacing": -1
   }
  ]
 }

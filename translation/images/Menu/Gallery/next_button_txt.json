@@ -56,7 +56,8 @@
    "valign": "middle",
    "aa": true,
    "raw_font": true,
-   "weight": 900
+   "weight": 900,
+   "keep_alpha": true
   },
   {
    "op": "text",
@@ -74,7 +75,8 @@
    "valign": "middle",
    "aa": true,
    "raw_font": true,
-   "weight": 900
+   "weight": 900,
+   "keep_alpha": true
   },
   {
    "op": "text",
@@ -92,7 +94,8 @@
    "valign": "middle",
    "aa": true,
    "raw_font": true,
-   "weight": 900
+   "weight": 900,
+   "keep_alpha": true
   },
   {
    "op": "text",
@@ -110,7 +113,8 @@
    "valign": "middle",
    "aa": true,
    "raw_font": true,
-   "weight": 900
+   "weight": 900,
+   "keep_alpha": true
   }
  ]
 }
