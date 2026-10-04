@@ -301,7 +301,10 @@ def draw_text(img, e):
     # 편집 영역 밖으로 번지지 않게 클립
     clip = Image.new('L', img.size, 0); ImageDraw.Draw(clip).rectangle([x - ow - 2, y - ow - 2, x + w + ow + 2, y + h + ow + 2], fill=255)
     la = np.asarray(layer).copy(); la[..., 3] = la[..., 3] * (np.asarray(clip) > 0)
+    a0 = np.asarray(img)[..., 3].copy()
     img.alpha_composite(Image.fromarray(la, 'RGBA'))
+    if e.get('keep_alpha'):  # 반투명 바탕(A5I3 등) 위 글자는 바탕 알파를 그대로 둔다. 불투명해지면 실기에서 색이 달라 보임
+        r = np.asarray(img).copy(); m = a0 > 0; r[m, 3] = a0[m]; img.paste(Image.fromarray(r, 'RGBA'))
 
 def dilate(mask, r):
     from PIL import ImageFilter
