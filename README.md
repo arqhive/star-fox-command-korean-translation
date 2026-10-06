@@ -27,7 +27,7 @@
 
 ### 적용 방법
 
-1. [배포 페이지](https://github.com/arqhive/star-fox-command-korean-translation/releases/tag/v1.3f)에서 `StarFoxCommand_KO_v1.3f.bps`를 받습니다.
+1. [배포 페이지](https://github.com/arqhive/star-fox-command-korean-translation/releases/tag/v1.3f)에서 `ASFJ_KPatch_v1.3f.bps`를 받습니다.
 2. 원본 일본판 롬에 패치를 적용합니다.
 3. 결과 롬의 확인값을 아래 표와 비교합니다.
 
