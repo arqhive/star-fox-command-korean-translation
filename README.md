@@ -3,7 +3,7 @@
 *Star Fox Command* (닌텐도 DS, 일본판 `ASFJ`) 비공식 한국어 팬 패치입니다.
 대사는 일본어판 원문을 기준으로 번역했습니다.
 
-**제작: arqhive** · **최신 버전: [v1.3f](https://github.com/arqhive/star-fox-command-korean-translation/releases/tag/v1.3f) (최종판)**
+**제작: arqhive** · **최신 버전: [v1.3.1f](https://github.com/arqhive/star-fox-command-korean-translation/releases/tag/v1.3.1f) (최종판)**
 
 - 대사 약 2,870문장 전체를 한글화했습니다(스토리, 전투 무전, 작전 화면, 오프닝·엔딩, 적 이름).
 - 그림 글씨 528장을 한글화했습니다(메뉴, 타이틀, 스테이지 제목, 갤러리, 옵션, Wi-Fi 안내, 작전 화면, 캐릭터 이름표).
@@ -27,7 +27,7 @@
 
 ### 적용 방법
 
-1. [배포 페이지](https://github.com/arqhive/star-fox-command-korean-translation/releases/tag/v1.3f)에서 `ASFJ_KPatch_v1.3f.bps`를 받습니다.
+1. [배포 페이지](https://github.com/arqhive/star-fox-command-korean-translation/releases/tag/v1.3.1f)에서 `ASFJ_KPatch_v1.3.1f.bps`를 받습니다.
 2. 원본 일본판 롬에 패치를 적용합니다.
 3. 결과 롬의 확인값을 아래 표와 비교합니다.
 
@@ -35,12 +35,12 @@
 
 ### 파일 확인값
 
-| 항목 | 원본 일본판 | 패치 적용 결과 (v1.3f) |
+| 항목 | 원본 일본판 | 패치 적용 결과 (v1.3.1f) |
 |---|---|---|
 | 크기 | 33,554,432 바이트 | 33,554,432 바이트 |
-| CRC32 | `618C4089` | `DAECEC9E` |
-| MD5 | `81d9550164d4c0a3756d1271ee063a1a` | `24408fcecfea359bd8663fce2ac68463` |
-| SHA-1 | `fe0a3ba974132de5d63429b48ee9d3e8b6d6a318` | `18d118b30079dc5ea6ffa8dffe80e5050dc03f63` |
+| CRC32 | `618C4089` | `C83CDE8A` |
+| MD5 | `81d9550164d4c0a3756d1271ee063a1a` | `7719067de477a6c62617004966bbf127` |
+| SHA-1 | `fe0a3ba974132de5d63429b48ee9d3e8b6d6a318` | `5d81796af7838fd4af5e3478327fe045446ddcec` |
 
 원본 파일명 예: `Star Fox Command (Japan).nds`
 
@@ -77,10 +77,10 @@ pip install pillow numpy
 
 ```bash
 python tools/build.py
-python tools/bps.py create "rom/Star Fox Command (Japan).nds" "work/Star Fox Command (Japan) [KO].nds" release/StarFoxCommand_KO_v1.3f.bps
+python tools/bps.py create "rom/Star Fox Command (Japan).nds" "work/Star Fox Command (Japan) [KO].nds" release/ASFJ_KPatch_v1.3.1f.bps
 ```
 
-결과는 `work/Star Fox Command (Japan) [KO].nds`에 만들어지며, v1.3f 배포본과 바이트 단위로 같습니다.
+결과는 `work/Star Fox Command (Japan) [KO].nds`에 만들어지며, v1.3.1f 배포본과 바이트 단위로 같습니다.
 
 `build.py`는 다음을 수행합니다.
 
