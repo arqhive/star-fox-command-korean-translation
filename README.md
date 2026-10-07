@@ -3,7 +3,7 @@
 *Star Fox Command* (닌텐도 DS, 일본판 `ASFJ`) 비공식 한국어 팬 패치입니다.
 대사는 일본어판 원문을 기준으로 번역했습니다.
 
-**제작: arqhive** · **최신 버전: [v1.3.1f](https://github.com/arqhive/star-fox-command-korean-translation/releases/tag/v1.3.1f) (최종판)**
+**제작: arqhive** · **최신 버전: [v1.3.1f](https://github.com/arqhive/star-fox-command-korean-translation/releases/tag/v1.3.1f) (완성판)**
 
 - 대사 약 2,870문장 전체를 한글화했습니다(스토리, 전투 무전, 작전 화면, 오프닝·엔딩, 적 이름).
 - 그림 글씨 528장을 한글화했습니다(메뉴, 타이틀, 스테이지 제목, 갤러리, 옵션, Wi-Fi 안내, 작전 화면, 캐릭터 이름표).
